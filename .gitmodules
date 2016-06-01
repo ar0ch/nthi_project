@@ -1,0 +1,9 @@
+[submodule "dashboard"]
+	path = dashboard
+	url = https://nthi.io/aroon/dashboard.git
+[submodule "ani_vis"]
+	path = ani_vis
+	url = https://nthi.io/aroon/ani_vis.git
+[submodule "public_data"]
+	path = public_data
+	url = https://nthi.io/aroon/public_data.git
