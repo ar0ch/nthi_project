@@ -5,37 +5,45 @@
 ## Supratim Mukherjee; Natalia Ivanova; Konstantinos T. Konstantinidis; Kostas 
 ## Mavrommatis; Nikos C. Kyrpides; Amrita Pati.Nucleic Acids Research 2015;doi: 
 ## 10.1093/nar/gkv657
-my %ani1;my %ani2;my %AF1; my %AF2;
+use strict;
+use List::Util qw( min );
+my (%ani,%AF,%probref,%probreal);
+open PROB, "ProbabilityTable.txt" or warn "Cannot open ProbabilityTable.txt: $!";
+my @prob = <PROB>;
+close PROB;
+for (my $i = 7; $i < @prob; $i++){
+	my @cols = split(/\t/, $prob[$i]);
+	$probref{$cols[0]} = $cols[1];
+}
 my @files = glob("$ARGV[0]/*.fna");
-foreach my $i (@files){
-	foreach my $j (@files){
-		my ($ibase) = $i =~ m/(M\d*)/;
-		my ($jbase) = $j =~ m/(M\d*)/;
+for(my $i =0; $i < @files; $i++){
+	for (my $j = $i +1; $j< @files; $j++){
+		my ($ibase) = $files[$i] =~ m/(M\d*)/;
+		my ($jbase) = $files[$j] =~ m/(M\d*)/;
 		my $out = join(".",$ibase,$jbase,"out");
-		if($ibase eq $jbase){$ani1{$ibase}{$jbase} = 1; $ani1{$jbase}{$ibase} = 1; next;}
-		system("ANIcalculator -genome1fna $i -genome2fna $j -outfile $out");
-		open ANI, $out  or warn "Cannot open $out: $!";
+		if($ibase eq $jbase){next;}
+		system("ANIcalculator -genome1fna $files[$i] -genome2fna $files[$j] -outfile ./outfiles/$out -outdir ./outfiles 2&> /dev/null") if ($ARGV[1] eq "calc");
+		open ANI, "./outfiles/$out"  or warn "Cannot open $out: $!";
 		my @values = <ANI>;
 		close ANI;
-		my ($no,$way,$val1,$val2,$val3,$val4) = split(/\t/, $values[1]);
-		$ani1{$ibase}{$jbase} = (($val1+$val2)/2);
-		$AF1{$ibase}{$jbase} = (($val2+$val4)/2);
+		my @val = split(/\t/, $values[1]);
+		chomp $val[5];
+		# See paper, they're taking the min of the two ANIs and AFs
+		$ani{$ibase}{$jbase} = min $val[2],$val[3];
+		$ani{$jbase}{$ibase} = min $val[2],$val[3];
+		$AF{$ibase}{$jbase} = min $val[4],$val[5];
+		$AF{$jbase}{$ibase} = min $val[4],$val[5];
 
 	}
 }
 open OUTANI, ">ani_values.out";
-foreach my $key1 (keys %ani1){
-	foreach my $key2 (keys %{$ani1{$key1}}){
-		print OUTANI "$key1\t$ani1{$key1}{$key2}\t$key2\n";
-	}
-	
-}
-close OUTANI;
 open OUTAF, ">af_values.out";
-foreach my $key1 (keys %AF1){
-	foreach my $key2 (keys %{$AF1{$key1}}){
-		print OUTAF "$key1\t$AF1{$key1}{$key2}\t$key2\n";
+foreach my $key1 (keys %ani){
+	foreach my $key2 (keys %{$ani{$key1}}){
+		print OUTANI "$key1\t$ani{$key1}{$key2}\t$key2\n";
+		print OUTAF "$key1\t$AF{$key1}{$key2}\t$key2\n";
 	}
 	
 }
-close OUTAF;
+close OUTANI;close OUTAF;
+
