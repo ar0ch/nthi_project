@@ -5,13 +5,11 @@
 ## Supratim Mukherjee; Natalia Ivanova; Konstantinos T. Konstantinidis; Kostas
 ## Mavrommatis; Nikos C. Kyrpides; Amrita Pati.Nucleic Acids Research 2015;doi:
 ## 10.1093/nar/gkv657
+## run_misi.scaled.pl ./contigs calc
 use strict;
 use List::Util qw( min );
 no warnings 'uninitialized';
-my (%ani,%AF,%probref,%probreal);
-open PROB, "ProbabilityTable.txt" or warn "Cannot open ProbabilityTable.txt: $!";
-my @prob = <PROB>;
-close PROB;
+my (%ani,%AF,%probreal);
 for (my $i = 7; $i < @prob; $i++){
         my @cols = split(/\t/, $prob[$i]);
         $probref{$cols[0]} = $cols[1];
