@@ -35,9 +35,11 @@ for(my $i =0; $i < @files; $i++){
                 $probreal{$jbase}{$ibase} =  ($ani{$ibase}{$jbase} * $AF{$ibase}{$jbase})/100;
         }
 }
+open OUTANI, ">ani_values.out";
 foreach my $key1 (keys %ani){
         foreach my $key2 (keys %{$ani{$key1}}){
-                print "$key1\t$key2\t$ani{$key1}{$key2}\t$AF{$key1}{$key2}\t$probreal{$key1}{$key2}\n";
+                print OUTANI "$key1\t$key2\t$ani{$key1}{$key2}\t$AF{$key1}{$key2}\t$probreal{$key1}{$key2}\n";
         }
 
 }
+close OUTANI;
