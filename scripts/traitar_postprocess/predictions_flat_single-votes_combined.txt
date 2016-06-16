@@ -1,0 +1,3422 @@
+M06436.fasta	Indole	3.0	phypat
+M06436.fasta	Indole	3.0	phypat+GGL
+M06436.fasta	Catalase	5.0	phypat
+M06436.fasta	Catalase	5.0	phypat+GGL
+M06436.fasta	Growth at 42°C	1.0	phypat
+M06436.fasta	Growth at 42°C	1.0	phypat+GGL
+M06436.fasta	Maltose	5.0	phypat
+M06436.fasta	Maltose	3.0	phypat+GGL
+M06436.fasta	Growth on ordinary blood agar	1.0	phypat+GGL
+M06436.fasta	Colistin-Polymyxin susceptible	5.0	phypat
+M06436.fasta	Colistin-Polymyxin susceptible	5.0	phypat+GGL
+M06436.fasta	DNase	1.0	phypat
+M06436.fasta	DNase	1.0	phypat+GGL
+M06436.fasta	Nitrate to nitrite	5.0	phypat
+M06436.fasta	Nitrate to nitrite	5.0	phypat+GGL
+M06436.fasta	Urea hydrolysis	5.0	phypat
+M06436.fasta	Urea hydrolysis	5.0	phypat+GGL
+M06436.fasta	Bile-susceptible	1.0	phypat+GGL
+M06436.fasta	Glucose fermenter	5.0	phypat
+M06436.fasta	Glucose fermenter	5.0	phypat+GGL
+M06436.fasta	Gram negative	5.0	phypat
+M06436.fasta	Gram negative	5.0	phypat+GGL
+M06436.fasta	Ornithine decarboxylase	5.0	phypat
+M06436.fasta	Ornithine decarboxylase	4.0	phypat+GGL
+M06436.fasta	Capnophilic	1.0	phypat
+M06436.fasta	Capnophilic	2.0	phypat+GGL
+M06436.fasta	Oxidase	5.0	phypat
+M06436.fasta	Oxidase	5.0	phypat+GGL
+M06436.fasta	Gas from glucose	2.0	phypat+GGL
+M06436.fasta	Alkaline phosphatase	5.0	phypat
+M06436.fasta	Alkaline phosphatase	5.0	phypat+GGL
+M06436.fasta	Growth in KCN	5.0	phypat
+M06436.fasta	Growth in KCN	4.0	phypat+GGL
+M06436.fasta	Facultative	5.0	phypat
+M06436.fasta	Facultative	5.0	phypat+GGL
+M06436.fasta	Bacillus or coccobacillus	5.0	phypat
+M06436.fasta	Bacillus or coccobacillus	5.0	phypat+GGL
+M06436.fasta	Coagulase production	1.0	phypat+GGL
+M36582.fasta	Indole	3.0	phypat
+M36582.fasta	Indole	1.0	phypat+GGL
+M36582.fasta	Catalase	5.0	phypat
+M36582.fasta	Catalase	5.0	phypat+GGL
+M36582.fasta	Growth at 42°C	2.0	phypat
+M36582.fasta	Growth at 42°C	1.0	phypat+GGL
+M36582.fasta	Maltose	5.0	phypat
+M36582.fasta	Maltose	1.0	phypat+GGL
+M36582.fasta	Growth on ordinary blood agar	1.0	phypat+GGL
+M36582.fasta	Colistin-Polymyxin susceptible	5.0	phypat
+M36582.fasta	Colistin-Polymyxin susceptible	5.0	phypat+GGL
+M36582.fasta	DNase	1.0	phypat
+M36582.fasta	DNase	1.0	phypat+GGL
+M36582.fasta	Methyl red	1.0	phypat
+M36582.fasta	Nitrate to nitrite	5.0	phypat
+M36582.fasta	Nitrate to nitrite	5.0	phypat+GGL
+M36582.fasta	Urea hydrolysis	5.0	phypat
+M36582.fasta	Urea hydrolysis	5.0	phypat+GGL
+M36582.fasta	Bile-susceptible	5.0	phypat
+M36582.fasta	Bile-susceptible	1.0	phypat+GGL
+M36582.fasta	Glucose fermenter	5.0	phypat
+M36582.fasta	Glucose fermenter	5.0	phypat+GGL
+M36582.fasta	Gram negative	5.0	phypat
+M36582.fasta	Gram negative	5.0	phypat+GGL
+M36582.fasta	Ornithine decarboxylase	2.0	phypat
+M36582.fasta	Capnophilic	2.0	phypat
+M36582.fasta	Capnophilic	5.0	phypat+GGL
+M36582.fasta	Oxidase	5.0	phypat
+M36582.fasta	Oxidase	5.0	phypat+GGL
+M36582.fasta	Gas from glucose	2.0	phypat+GGL
+M36582.fasta	Alkaline phosphatase	5.0	phypat
+M36582.fasta	Alkaline phosphatase	5.0	phypat+GGL
+M36582.fasta	Growth in KCN	5.0	phypat
+M36582.fasta	Growth in KCN	4.0	phypat+GGL
+M36582.fasta	Hydrogen sulfide	1.0	phypat+GGL
+M36582.fasta	Facultative	5.0	phypat
+M36582.fasta	Facultative	5.0	phypat+GGL
+M36582.fasta	Bacillus or coccobacillus	5.0	phypat
+M36582.fasta	Bacillus or coccobacillus	5.0	phypat+GGL
+M36582.fasta	Coagulase production	1.0	phypat+GGL
+M19501.fasta	Indole	3.0	phypat
+M19501.fasta	Catalase	5.0	phypat
+M19501.fasta	Catalase	5.0	phypat+GGL
+M19501.fasta	Growth at 42°C	1.0	phypat
+M19501.fasta	Growth at 42°C	1.0	phypat+GGL
+M19501.fasta	Maltose	5.0	phypat
+M19501.fasta	Maltose	5.0	phypat+GGL
+M19501.fasta	Growth on ordinary blood agar	3.0	phypat+GGL
+M19501.fasta	Colistin-Polymyxin susceptible	5.0	phypat
+M19501.fasta	Colistin-Polymyxin susceptible	5.0	phypat+GGL
+M19501.fasta	DNase	2.0	phypat+GGL
+M19501.fasta	Methyl red	2.0	phypat
+M19501.fasta	Nitrate to nitrite	5.0	phypat
+M19501.fasta	Nitrate to nitrite	5.0	phypat+GGL
+M19501.fasta	D-Mannose	2.0	phypat
+M19501.fasta	Bile-susceptible	1.0	phypat
+M19501.fasta	Bile-susceptible	2.0	phypat+GGL
+M19501.fasta	Glucose fermenter	4.0	phypat
+M19501.fasta	Glucose fermenter	5.0	phypat+GGL
+M19501.fasta	Gram negative	5.0	phypat
+M19501.fasta	Gram negative	5.0	phypat+GGL
+M19501.fasta	Ornithine decarboxylase	2.0	phypat
+M19501.fasta	Capnophilic	5.0	phypat
+M19501.fasta	Capnophilic	5.0	phypat+GGL
+M19501.fasta	Oxidase	5.0	phypat
+M19501.fasta	Oxidase	5.0	phypat+GGL
+M19501.fasta	Gas from glucose	1.0	phypat
+M19501.fasta	Gas from glucose	2.0	phypat+GGL
+M19501.fasta	Alkaline phosphatase	5.0	phypat
+M19501.fasta	Alkaline phosphatase	5.0	phypat+GGL
+M19501.fasta	Hydrogen sulfide	1.0	phypat
+M19501.fasta	Hydrogen sulfide	1.0	phypat+GGL
+M19501.fasta	Raffinose	1.0	phypat+GGL
+M19501.fasta	Facultative	5.0	phypat
+M19501.fasta	Facultative	5.0	phypat+GGL
+M19501.fasta	Bacillus or coccobacillus	5.0	phypat
+M19501.fasta	Bacillus or coccobacillus	5.0	phypat+GGL
+M29697.fasta	Indole	3.0	phypat
+M29697.fasta	Indole	2.0	phypat+GGL
+M29697.fasta	Catalase	5.0	phypat
+M29697.fasta	Catalase	5.0	phypat+GGL
+M29697.fasta	Growth at 42°C	2.0	phypat
+M29697.fasta	Growth at 42°C	1.0	phypat+GGL
+M29697.fasta	Maltose	5.0	phypat
+M29697.fasta	Maltose	5.0	phypat+GGL
+M29697.fasta	Growth on ordinary blood agar	1.0	phypat+GGL
+M29697.fasta	Colistin-Polymyxin susceptible	5.0	phypat
+M29697.fasta	Colistin-Polymyxin susceptible	5.0	phypat+GGL
+M29697.fasta	DNase	1.0	phypat
+M29697.fasta	DNase	1.0	phypat+GGL
+M29697.fasta	Methyl red	1.0	phypat
+M29697.fasta	Nitrate to nitrite	5.0	phypat
+M29697.fasta	Nitrate to nitrite	5.0	phypat+GGL
+M29697.fasta	Urea hydrolysis	5.0	phypat
+M29697.fasta	Urea hydrolysis	5.0	phypat+GGL
+M29697.fasta	Bile-susceptible	5.0	phypat
+M29697.fasta	Bile-susceptible	1.0	phypat+GGL
+M29697.fasta	Glucose fermenter	5.0	phypat
+M29697.fasta	Glucose fermenter	5.0	phypat+GGL
+M29697.fasta	Gram negative	5.0	phypat
+M29697.fasta	Gram negative	5.0	phypat+GGL
+M29697.fasta	Ornithine decarboxylase	2.0	phypat
+M29697.fasta	Capnophilic	2.0	phypat
+M29697.fasta	Capnophilic	5.0	phypat+GGL
+M29697.fasta	Oxidase	5.0	phypat
+M29697.fasta	Oxidase	5.0	phypat+GGL
+M29697.fasta	Gas from glucose	2.0	phypat+GGL
+M29697.fasta	Alkaline phosphatase	5.0	phypat
+M29697.fasta	Alkaline phosphatase	5.0	phypat+GGL
+M29697.fasta	Growth in KCN	5.0	phypat
+M29697.fasta	Growth in KCN	4.0	phypat+GGL
+M29697.fasta	Facultative	5.0	phypat
+M29697.fasta	Facultative	5.0	phypat+GGL
+M29697.fasta	Bacillus or coccobacillus	5.0	phypat
+M29697.fasta	Bacillus or coccobacillus	5.0	phypat+GGL
+M29697.fasta	Coagulase production	1.0	phypat+GGL
+M11818.fasta	Indole	3.0	phypat
+M11818.fasta	Indole	1.0	phypat+GGL
+M11818.fasta	Catalase	5.0	phypat
+M11818.fasta	Catalase	5.0	phypat+GGL
+M11818.fasta	Growth at 42°C	5.0	phypat
+M11818.fasta	Growth at 42°C	5.0	phypat+GGL
+M11818.fasta	Maltose	3.0	phypat
+M11818.fasta	Maltose	2.0	phypat+GGL
+M11818.fasta	Growth on ordinary blood agar	3.0	phypat+GGL
+M11818.fasta	Colistin-Polymyxin susceptible	5.0	phypat
+M11818.fasta	Colistin-Polymyxin susceptible	5.0	phypat+GGL
+M11818.fasta	DNase	1.0	phypat+GGL
+M11818.fasta	Methyl red	1.0	phypat
+M11818.fasta	Nitrate to nitrite	5.0	phypat
+M11818.fasta	Nitrate to nitrite	5.0	phypat+GGL
+M11818.fasta	Urea hydrolysis	5.0	phypat
+M11818.fasta	Urea hydrolysis	5.0	phypat+GGL
+M11818.fasta	D-Mannose	5.0	phypat
+M11818.fasta	D-Mannose	1.0	phypat+GGL
+M11818.fasta	Bile-susceptible	1.0	phypat
+M11818.fasta	Bile-susceptible	1.0	phypat+GGL
+M11818.fasta	Glucose fermenter	5.0	phypat
+M11818.fasta	Glucose fermenter	5.0	phypat+GGL
+M11818.fasta	Gram negative	5.0	phypat
+M11818.fasta	Gram negative	5.0	phypat+GGL
+M11818.fasta	Ornithine decarboxylase	2.0	phypat
+M11818.fasta	Capnophilic	5.0	phypat
+M11818.fasta	Capnophilic	5.0	phypat+GGL
+M11818.fasta	Oxidase	5.0	phypat
+M11818.fasta	Oxidase	5.0	phypat+GGL
+M11818.fasta	Gas from glucose	1.0	phypat
+M11818.fasta	Gas from glucose	2.0	phypat+GGL
+M11818.fasta	Alkaline phosphatase	5.0	phypat
+M11818.fasta	Alkaline phosphatase	5.0	phypat+GGL
+M11818.fasta	Hydrogen sulfide	3.0	phypat
+M11818.fasta	Hydrogen sulfide	1.0	phypat+GGL
+M11818.fasta	Facultative	5.0	phypat
+M11818.fasta	Facultative	5.0	phypat+GGL
+M11818.fasta	Bacillus or coccobacillus	5.0	phypat
+M11818.fasta	Bacillus or coccobacillus	5.0	phypat+GGL
+F3047.fasta	Indole	3.0	phypat
+F3047.fasta	Indole	2.0	phypat+GGL
+F3047.fasta	Catalase	5.0	phypat
+F3047.fasta	Catalase	5.0	phypat+GGL
+F3047.fasta	Growth at 42°C	1.0	phypat
+F3047.fasta	Growth at 42°C	1.0	phypat+GGL
+F3047.fasta	Maltose	5.0	phypat
+F3047.fasta	Maltose	1.0	phypat+GGL
+F3047.fasta	Growth on ordinary blood agar	1.0	phypat+GGL
+F3047.fasta	Colistin-Polymyxin susceptible	5.0	phypat
+F3047.fasta	Colistin-Polymyxin susceptible	5.0	phypat+GGL
+F3047.fasta	DNase	2.0	phypat
+F3047.fasta	DNase	5.0	phypat+GGL
+F3047.fasta	Methyl red	1.0	phypat
+F3047.fasta	Nitrate to nitrite	5.0	phypat
+F3047.fasta	Nitrate to nitrite	5.0	phypat+GGL
+F3047.fasta	Urea hydrolysis	5.0	phypat
+F3047.fasta	Urea hydrolysis	5.0	phypat+GGL
+F3047.fasta	Bile-susceptible	1.0	phypat+GGL
+F3047.fasta	Glucose fermenter	4.0	phypat
+F3047.fasta	Glucose fermenter	5.0	phypat+GGL
+F3047.fasta	Gram negative	5.0	phypat
+F3047.fasta	Gram negative	5.0	phypat+GGL
+F3047.fasta	Ornithine decarboxylase	2.0	phypat
+F3047.fasta	Capnophilic	3.0	phypat
+F3047.fasta	Capnophilic	5.0	phypat+GGL
+F3047.fasta	Oxidase	5.0	phypat
+F3047.fasta	Oxidase	5.0	phypat+GGL
+F3047.fasta	Gas from glucose	2.0	phypat+GGL
+F3047.fasta	Alkaline phosphatase	5.0	phypat
+F3047.fasta	Alkaline phosphatase	5.0	phypat+GGL
+F3047.fasta	Facultative	5.0	phypat
+F3047.fasta	Facultative	5.0	phypat+GGL
+F3047.fasta	Bacillus or coccobacillus	5.0	phypat
+F3047.fasta	Bacillus or coccobacillus	5.0	phypat+GGL
+F3047.fasta	Coagulase production	1.0	phypat+GGL
+M28888.fasta	Indole	3.0	phypat
+M28888.fasta	Indole	1.0	phypat+GGL
+M28888.fasta	Catalase	5.0	phypat
+M28888.fasta	Catalase	5.0	phypat+GGL
+M28888.fasta	Growth at 42°C	4.0	phypat
+M28888.fasta	Growth at 42°C	1.0	phypat+GGL
+M28888.fasta	Maltose	5.0	phypat
+M28888.fasta	Maltose	5.0	phypat+GGL
+M28888.fasta	Growth on ordinary blood agar	1.0	phypat+GGL
+M28888.fasta	Colistin-Polymyxin susceptible	5.0	phypat
+M28888.fasta	Colistin-Polymyxin susceptible	5.0	phypat+GGL
+M28888.fasta	DNase	1.0	phypat
+M28888.fasta	DNase	1.0	phypat+GGL
+M28888.fasta	Methyl red	1.0	phypat
+M28888.fasta	Nitrate to nitrite	5.0	phypat
+M28888.fasta	Nitrate to nitrite	5.0	phypat+GGL
+M28888.fasta	Urea hydrolysis	5.0	phypat
+M28888.fasta	Urea hydrolysis	5.0	phypat+GGL
+M28888.fasta	Bile-susceptible	1.0	phypat+GGL
+M28888.fasta	Glucose fermenter	4.0	phypat
+M28888.fasta	Glucose fermenter	5.0	phypat+GGL
+M28888.fasta	Gram negative	5.0	phypat
+M28888.fasta	Gram negative	5.0	phypat+GGL
+M28888.fasta	Ornithine decarboxylase	2.0	phypat
+M28888.fasta	Capnophilic	2.0	phypat
+M28888.fasta	Capnophilic	5.0	phypat+GGL
+M28888.fasta	Oxidase	5.0	phypat
+M28888.fasta	Oxidase	5.0	phypat+GGL
+M28888.fasta	Gas from glucose	2.0	phypat+GGL
+M28888.fasta	Alkaline phosphatase	5.0	phypat
+M28888.fasta	Alkaline phosphatase	5.0	phypat+GGL
+M28888.fasta	Growth in KCN	5.0	phypat
+M28888.fasta	Growth in KCN	4.0	phypat+GGL
+M28888.fasta	Facultative	5.0	phypat
+M28888.fasta	Facultative	5.0	phypat+GGL
+M28888.fasta	Bacillus or coccobacillus	5.0	phypat
+M28888.fasta	Bacillus or coccobacillus	5.0	phypat+GGL
+M28888.fasta	Coagulase production	1.0	phypat+GGL
+M28770.fasta	Indole	3.0	phypat
+M28770.fasta	Indole	1.0	phypat+GGL
+M28770.fasta	Catalase	5.0	phypat
+M28770.fasta	Catalase	5.0	phypat+GGL
+M28770.fasta	Growth at 42°C	4.0	phypat
+M28770.fasta	Growth at 42°C	1.0	phypat+GGL
+M28770.fasta	Maltose	5.0	phypat
+M28770.fasta	Maltose	1.0	phypat+GGL
+M28770.fasta	Growth on ordinary blood agar	2.0	phypat+GGL
+M28770.fasta	Colistin-Polymyxin susceptible	5.0	phypat
+M28770.fasta	Colistin-Polymyxin susceptible	5.0	phypat+GGL
+M28770.fasta	DNase	1.0	phypat
+M28770.fasta	DNase	1.0	phypat+GGL
+M28770.fasta	Methyl red	1.0	phypat
+M28770.fasta	Nitrate to nitrite	5.0	phypat
+M28770.fasta	Nitrate to nitrite	5.0	phypat+GGL
+M28770.fasta	Urea hydrolysis	5.0	phypat
+M28770.fasta	Urea hydrolysis	5.0	phypat+GGL
+M28770.fasta	Bile-susceptible	5.0	phypat
+M28770.fasta	Bile-susceptible	1.0	phypat+GGL
+M28770.fasta	Glucose fermenter	5.0	phypat
+M28770.fasta	Glucose fermenter	5.0	phypat+GGL
+M28770.fasta	Gram negative	5.0	phypat
+M28770.fasta	Gram negative	5.0	phypat+GGL
+M28770.fasta	Ornithine decarboxylase	2.0	phypat
+M28770.fasta	Capnophilic	2.0	phypat
+M28770.fasta	Capnophilic	5.0	phypat+GGL
+M28770.fasta	Oxidase	5.0	phypat
+M28770.fasta	Oxidase	5.0	phypat+GGL
+M28770.fasta	Gas from glucose	2.0	phypat+GGL
+M28770.fasta	Alkaline phosphatase	5.0	phypat
+M28770.fasta	Alkaline phosphatase	5.0	phypat+GGL
+M28770.fasta	Growth in KCN	5.0	phypat
+M28770.fasta	Growth in KCN	4.0	phypat+GGL
+M28770.fasta	Hydrogen sulfide	1.0	phypat+GGL
+M28770.fasta	Facultative	5.0	phypat
+M28770.fasta	Facultative	5.0	phypat+GGL
+M28770.fasta	Bacillus or coccobacillus	5.0	phypat
+M28770.fasta	Bacillus or coccobacillus	5.0	phypat+GGL
+M28770.fasta	Coagulase production	1.0	phypat+GGL
+M07572.fasta	Indole	3.0	phypat
+M07572.fasta	Indole	1.0	phypat+GGL
+M07572.fasta	Catalase	5.0	phypat
+M07572.fasta	Catalase	5.0	phypat+GGL
+M07572.fasta	Growth at 42°C	4.0	phypat
+M07572.fasta	Growth at 42°C	3.0	phypat+GGL
+M07572.fasta	Maltose	5.0	phypat
+M07572.fasta	Maltose	2.0	phypat+GGL
+M07572.fasta	Growth on ordinary blood agar	2.0	phypat+GGL
+M07572.fasta	Colistin-Polymyxin susceptible	5.0	phypat
+M07572.fasta	Colistin-Polymyxin susceptible	5.0	phypat+GGL
+M07572.fasta	DNase	4.0	phypat
+M07572.fasta	DNase	1.0	phypat+GGL
+M07572.fasta	Methyl red	2.0	phypat
+M07572.fasta	Nitrate to nitrite	5.0	phypat
+M07572.fasta	Nitrate to nitrite	5.0	phypat+GGL
+M07572.fasta	Urea hydrolysis	5.0	phypat
+M07572.fasta	Urea hydrolysis	5.0	phypat+GGL
+M07572.fasta	Bile-susceptible	5.0	phypat
+M07572.fasta	Bile-susceptible	1.0	phypat+GGL
+M07572.fasta	Glucose fermenter	5.0	phypat
+M07572.fasta	Glucose fermenter	5.0	phypat+GGL
+M07572.fasta	Gram negative	5.0	phypat
+M07572.fasta	Gram negative	5.0	phypat+GGL
+M07572.fasta	Ornithine decarboxylase	2.0	phypat
+M07572.fasta	Capnophilic	2.0	phypat
+M07572.fasta	Capnophilic	5.0	phypat+GGL
+M07572.fasta	Oxidase	5.0	phypat
+M07572.fasta	Oxidase	5.0	phypat+GGL
+M07572.fasta	Gas from glucose	2.0	phypat+GGL
+M07572.fasta	Alkaline phosphatase	5.0	phypat
+M07572.fasta	Alkaline phosphatase	5.0	phypat+GGL
+M07572.fasta	Hydrogen sulfide	1.0	phypat+GGL
+M07572.fasta	Facultative	5.0	phypat
+M07572.fasta	Facultative	5.0	phypat+GGL
+M07572.fasta	Bacillus or coccobacillus	5.0	phypat
+M07572.fasta	Bacillus or coccobacillus	5.0	phypat+GGL
+M07572.fasta	Coagulase production	1.0	phypat+GGL
+F3031.fasta	Indole	3.0	phypat
+F3031.fasta	Indole	2.0	phypat+GGL
+F3031.fasta	Catalase	5.0	phypat
+F3031.fasta	Catalase	5.0	phypat+GGL
+F3031.fasta	Growth at 42°C	1.0	phypat
+F3031.fasta	Growth at 42°C	1.0	phypat+GGL
+F3031.fasta	Maltose	5.0	phypat
+F3031.fasta	Growth on ordinary blood agar	1.0	phypat+GGL
+F3031.fasta	Colistin-Polymyxin susceptible	5.0	phypat
+F3031.fasta	Colistin-Polymyxin susceptible	5.0	phypat+GGL
+F3031.fasta	DNase	1.0	phypat
+F3031.fasta	DNase	5.0	phypat+GGL
+F3031.fasta	Methyl red	2.0	phypat
+F3031.fasta	Nitrate to nitrite	5.0	phypat
+F3031.fasta	Nitrate to nitrite	5.0	phypat+GGL
+F3031.fasta	Urea hydrolysis	5.0	phypat
+F3031.fasta	Urea hydrolysis	5.0	phypat+GGL
+F3031.fasta	Bile-susceptible	1.0	phypat+GGL
+F3031.fasta	Glucose fermenter	4.0	phypat
+F3031.fasta	Glucose fermenter	5.0	phypat+GGL
+F3031.fasta	Gram negative	5.0	phypat
+F3031.fasta	Gram negative	5.0	phypat+GGL
+F3031.fasta	Ornithine decarboxylase	2.0	phypat
+F3031.fasta	Capnophilic	2.0	phypat
+F3031.fasta	Capnophilic	5.0	phypat+GGL
+F3031.fasta	Oxidase	5.0	phypat
+F3031.fasta	Oxidase	5.0	phypat+GGL
+F3031.fasta	Gas from glucose	2.0	phypat+GGL
+F3031.fasta	Alkaline phosphatase	5.0	phypat
+F3031.fasta	Alkaline phosphatase	5.0	phypat+GGL
+F3031.fasta	Growth in KCN	5.0	phypat
+F3031.fasta	Growth in KCN	4.0	phypat+GGL
+F3031.fasta	Facultative	5.0	phypat
+F3031.fasta	Facultative	5.0	phypat+GGL
+F3031.fasta	Bacillus or coccobacillus	5.0	phypat
+F3031.fasta	Bacillus or coccobacillus	5.0	phypat+GGL
+F3031.fasta	Coagulase production	1.0	phypat+GGL
+M09394.fasta	Indole	3.0	phypat
+M09394.fasta	Catalase	5.0	phypat
+M09394.fasta	Catalase	5.0	phypat+GGL
+M09394.fasta	Growth at 42°C	2.0	phypat
+M09394.fasta	Growth at 42°C	1.0	phypat+GGL
+M09394.fasta	Maltose	5.0	phypat
+M09394.fasta	Maltose	1.0	phypat+GGL
+M09394.fasta	Growth on ordinary blood agar	1.0	phypat+GGL
+M09394.fasta	Colistin-Polymyxin susceptible	5.0	phypat
+M09394.fasta	Colistin-Polymyxin susceptible	5.0	phypat+GGL
+M09394.fasta	DNase	2.0	phypat
+M09394.fasta	DNase	1.0	phypat+GGL
+M09394.fasta	Methyl red	1.0	phypat
+M09394.fasta	Nitrate to nitrite	5.0	phypat
+M09394.fasta	Nitrate to nitrite	5.0	phypat+GGL
+M09394.fasta	Urea hydrolysis	5.0	phypat
+M09394.fasta	Urea hydrolysis	5.0	phypat+GGL
+M09394.fasta	Bile-susceptible	2.0	phypat+GGL
+M09394.fasta	Glucose fermenter	4.0	phypat
+M09394.fasta	Glucose fermenter	5.0	phypat+GGL
+M09394.fasta	Gram negative	5.0	phypat
+M09394.fasta	Gram negative	5.0	phypat+GGL
+M09394.fasta	Ornithine decarboxylase	5.0	phypat
+M09394.fasta	Ornithine decarboxylase	5.0	phypat+GGL
+M09394.fasta	Capnophilic	1.0	phypat
+M09394.fasta	Capnophilic	4.0	phypat+GGL
+M09394.fasta	Oxidase	5.0	phypat
+M09394.fasta	Oxidase	5.0	phypat+GGL
+M09394.fasta	Gas from glucose	2.0	phypat+GGL
+M09394.fasta	Alkaline phosphatase	5.0	phypat
+M09394.fasta	Alkaline phosphatase	5.0	phypat+GGL
+M09394.fasta	Growth in KCN	5.0	phypat
+M09394.fasta	Growth in KCN	4.0	phypat+GGL
+M09394.fasta	Tartrate utilization	1.0	phypat+GGL
+M09394.fasta	Facultative	5.0	phypat
+M09394.fasta	Facultative	5.0	phypat+GGL
+M09394.fasta	Bacillus or coccobacillus	5.0	phypat
+M09394.fasta	Bacillus or coccobacillus	5.0	phypat+GGL
+M09394.fasta	Coagulase production	1.0	phypat+GGL
+M08234.fasta	Indole	3.0	phypat
+M08234.fasta	Indole	2.0	phypat+GGL
+M08234.fasta	Catalase	5.0	phypat
+M08234.fasta	Catalase	5.0	phypat+GGL
+M08234.fasta	Growth at 42°C	5.0	phypat
+M08234.fasta	Growth at 42°C	5.0	phypat+GGL
+M08234.fasta	Maltose	5.0	phypat
+M08234.fasta	Maltose	5.0	phypat+GGL
+M08234.fasta	Growth on ordinary blood agar	1.0	phypat+GGL
+M08234.fasta	Colistin-Polymyxin susceptible	5.0	phypat
+M08234.fasta	Colistin-Polymyxin susceptible	5.0	phypat+GGL
+M08234.fasta	DNase	1.0	phypat
+M08234.fasta	DNase	1.0	phypat+GGL
+M08234.fasta	Nitrate to nitrite	5.0	phypat
+M08234.fasta	Nitrate to nitrite	5.0	phypat+GGL
+M08234.fasta	Urea hydrolysis	5.0	phypat
+M08234.fasta	Urea hydrolysis	5.0	phypat+GGL
+M08234.fasta	Bile-susceptible	2.0	phypat+GGL
+M08234.fasta	Glucose fermenter	4.0	phypat
+M08234.fasta	Glucose fermenter	5.0	phypat+GGL
+M08234.fasta	Gram negative	5.0	phypat
+M08234.fasta	Gram negative	5.0	phypat+GGL
+M08234.fasta	Ornithine decarboxylase	2.0	phypat
+M08234.fasta	Capnophilic	2.0	phypat
+M08234.fasta	Capnophilic	5.0	phypat+GGL
+M08234.fasta	Oxidase	5.0	phypat
+M08234.fasta	Oxidase	5.0	phypat+GGL
+M08234.fasta	Gas from glucose	2.0	phypat+GGL
+M08234.fasta	Alkaline phosphatase	5.0	phypat
+M08234.fasta	Alkaline phosphatase	5.0	phypat+GGL
+M08234.fasta	Raffinose	1.0	phypat+GGL
+M08234.fasta	Facultative	5.0	phypat
+M08234.fasta	Facultative	5.0	phypat+GGL
+M08234.fasta	Bacillus or coccobacillus	5.0	phypat
+M08234.fasta	Bacillus or coccobacillus	5.0	phypat+GGL
+M08234.fasta	Coagulase production	1.0	phypat+GGL
+M29658.fasta	Indole	3.0	phypat
+M29658.fasta	Indole	3.0	phypat+GGL
+M29658.fasta	Catalase	5.0	phypat
+M29658.fasta	Catalase	5.0	phypat+GGL
+M29658.fasta	Growth at 42°C	4.0	phypat
+M29658.fasta	Growth at 42°C	2.0	phypat+GGL
+M29658.fasta	Maltose	5.0	phypat
+M29658.fasta	Maltose	2.0	phypat+GGL
+M29658.fasta	Growth on ordinary blood agar	1.0	phypat+GGL
+M29658.fasta	Colistin-Polymyxin susceptible	5.0	phypat
+M29658.fasta	Colistin-Polymyxin susceptible	5.0	phypat+GGL
+M29658.fasta	DNase	2.0	phypat
+M29658.fasta	DNase	1.0	phypat+GGL
+M29658.fasta	Methyl red	1.0	phypat
+M29658.fasta	Nitrate to nitrite	5.0	phypat
+M29658.fasta	Nitrate to nitrite	5.0	phypat+GGL
+M29658.fasta	Urea hydrolysis	5.0	phypat
+M29658.fasta	Urea hydrolysis	5.0	phypat+GGL
+M29658.fasta	Bile-susceptible	5.0	phypat
+M29658.fasta	Bile-susceptible	5.0	phypat+GGL
+M29658.fasta	Glucose fermenter	5.0	phypat
+M29658.fasta	Glucose fermenter	5.0	phypat+GGL
+M29658.fasta	Gram negative	5.0	phypat
+M29658.fasta	Gram negative	5.0	phypat+GGL
+M29658.fasta	Ornithine decarboxylase	2.0	phypat
+M29658.fasta	Capnophilic	1.0	phypat
+M29658.fasta	Capnophilic	5.0	phypat+GGL
+M29658.fasta	Oxidase	5.0	phypat
+M29658.fasta	Oxidase	5.0	phypat+GGL
+M29658.fasta	Gas from glucose	2.0	phypat+GGL
+M29658.fasta	Alkaline phosphatase	5.0	phypat
+M29658.fasta	Alkaline phosphatase	5.0	phypat+GGL
+M29658.fasta	Growth in KCN	5.0	phypat
+M29658.fasta	Growth in KCN	4.0	phypat+GGL
+M29658.fasta	Hydrogen sulfide	1.0	phypat+GGL
+M29658.fasta	Facultative	5.0	phypat
+M29658.fasta	Facultative	5.0	phypat+GGL
+M29658.fasta	Bacillus or coccobacillus	5.0	phypat
+M29658.fasta	Bacillus or coccobacillus	5.0	phypat+GGL
+M29658.fasta	Coagulase production	1.0	phypat+GGL
+M29684.fasta	Indole	3.0	phypat
+M29684.fasta	Indole	2.0	phypat+GGL
+M29684.fasta	Catalase	5.0	phypat
+M29684.fasta	Catalase	5.0	phypat+GGL
+M29684.fasta	Growth at 42°C	1.0	phypat
+M29684.fasta	Growth at 42°C	4.0	phypat+GGL
+M29684.fasta	Maltose	5.0	phypat
+M29684.fasta	Maltose	4.0	phypat+GGL
+M29684.fasta	Growth on ordinary blood agar	1.0	phypat+GGL
+M29684.fasta	Colistin-Polymyxin susceptible	5.0	phypat
+M29684.fasta	Colistin-Polymyxin susceptible	5.0	phypat+GGL
+M29684.fasta	DNase	4.0	phypat
+M29684.fasta	DNase	1.0	phypat+GGL
+M29684.fasta	Methyl red	2.0	phypat
+M29684.fasta	Nitrate to nitrite	5.0	phypat
+M29684.fasta	Nitrate to nitrite	5.0	phypat+GGL
+M29684.fasta	Urea hydrolysis	5.0	phypat
+M29684.fasta	Urea hydrolysis	5.0	phypat+GGL
+M29684.fasta	Bile-susceptible	5.0	phypat
+M29684.fasta	Bile-susceptible	3.0	phypat+GGL
+M29684.fasta	Glucose fermenter	5.0	phypat
+M29684.fasta	Glucose fermenter	5.0	phypat+GGL
+M29684.fasta	Gram negative	5.0	phypat
+M29684.fasta	Gram negative	5.0	phypat+GGL
+M29684.fasta	Ornithine decarboxylase	3.0	phypat
+M29684.fasta	Capnophilic	1.0	phypat
+M29684.fasta	Capnophilic	4.0	phypat+GGL
+M29684.fasta	Oxidase	5.0	phypat
+M29684.fasta	Oxidase	5.0	phypat+GGL
+M29684.fasta	Gas from glucose	2.0	phypat+GGL
+M29684.fasta	Alkaline phosphatase	5.0	phypat
+M29684.fasta	Alkaline phosphatase	5.0	phypat+GGL
+M29684.fasta	Facultative	5.0	phypat
+M29684.fasta	Facultative	5.0	phypat+GGL
+M29684.fasta	Bacillus or coccobacillus	5.0	phypat
+M29684.fasta	Bacillus or coccobacillus	5.0	phypat+GGL
+M29684.fasta	Coagulase production	1.0	phypat+GGL
+M16180.fasta	Indole	3.0	phypat
+M16180.fasta	Indole	3.0	phypat+GGL
+M16180.fasta	Catalase	5.0	phypat
+M16180.fasta	Catalase	5.0	phypat+GGL
+M16180.fasta	Growth at 42°C	1.0	phypat
+M16180.fasta	Growth at 42°C	2.0	phypat+GGL
+M16180.fasta	Maltose	5.0	phypat
+M16180.fasta	Maltose	2.0	phypat+GGL
+M16180.fasta	Growth on ordinary blood agar	2.0	phypat+GGL
+M16180.fasta	Colistin-Polymyxin susceptible	5.0	phypat
+M16180.fasta	Colistin-Polymyxin susceptible	5.0	phypat+GGL
+M16180.fasta	DNase	1.0	phypat
+M16180.fasta	DNase	1.0	phypat+GGL
+M16180.fasta	Methyl red	2.0	phypat
+M16180.fasta	Nitrate to nitrite	5.0	phypat
+M16180.fasta	Nitrate to nitrite	5.0	phypat+GGL
+M16180.fasta	Urea hydrolysis	5.0	phypat
+M16180.fasta	Urea hydrolysis	5.0	phypat+GGL
+M16180.fasta	Bile-susceptible	5.0	phypat
+M16180.fasta	Bile-susceptible	4.0	phypat+GGL
+M16180.fasta	Glucose fermenter	5.0	phypat
+M16180.fasta	Glucose fermenter	5.0	phypat+GGL
+M16180.fasta	Gram negative	5.0	phypat
+M16180.fasta	Gram negative	5.0	phypat+GGL
+M16180.fasta	Ornithine decarboxylase	2.0	phypat
+M16180.fasta	Capnophilic	1.0	phypat
+M16180.fasta	Capnophilic	5.0	phypat+GGL
+M16180.fasta	Oxidase	5.0	phypat
+M16180.fasta	Oxidase	5.0	phypat+GGL
+M16180.fasta	Gas from glucose	2.0	phypat+GGL
+M16180.fasta	Alkaline phosphatase	5.0	phypat
+M16180.fasta	Alkaline phosphatase	5.0	phypat+GGL
+M16180.fasta	Facultative	5.0	phypat
+M16180.fasta	Facultative	5.0	phypat+GGL
+M16180.fasta	Bacillus or coccobacillus	5.0	phypat
+M16180.fasta	Bacillus or coccobacillus	5.0	phypat+GGL
+M16180.fasta	Coagulase production	1.0	phypat+GGL
+M15301.fasta	Indole	3.0	phypat
+M15301.fasta	Catalase	5.0	phypat
+M15301.fasta	Catalase	5.0	phypat+GGL
+M15301.fasta	Growth at 42°C	3.0	phypat
+M15301.fasta	Maltose	5.0	phypat
+M15301.fasta	Maltose	5.0	phypat+GGL
+M15301.fasta	Growth on ordinary blood agar	1.0	phypat+GGL
+M15301.fasta	Colistin-Polymyxin susceptible	5.0	phypat
+M15301.fasta	Colistin-Polymyxin susceptible	5.0	phypat+GGL
+M15301.fasta	DNase	1.0	phypat+GGL
+M15301.fasta	Nitrate to nitrite	5.0	phypat
+M15301.fasta	Nitrate to nitrite	5.0	phypat+GGL
+M15301.fasta	Urea hydrolysis	5.0	phypat
+M15301.fasta	Urea hydrolysis	5.0	phypat+GGL
+M15301.fasta	Bile-susceptible	4.0	phypat+GGL
+M15301.fasta	Glucose fermenter	5.0	phypat
+M15301.fasta	Glucose fermenter	5.0	phypat+GGL
+M15301.fasta	Gram negative	5.0	phypat
+M15301.fasta	Gram negative	5.0	phypat+GGL
+M15301.fasta	Ornithine decarboxylase	5.0	phypat
+M15301.fasta	Ornithine decarboxylase	5.0	phypat+GGL
+M15301.fasta	Capnophilic	1.0	phypat
+M15301.fasta	Capnophilic	5.0	phypat+GGL
+M15301.fasta	Oxidase	5.0	phypat
+M15301.fasta	Oxidase	5.0	phypat+GGL
+M15301.fasta	Gas from glucose	2.0	phypat+GGL
+M15301.fasta	Alkaline phosphatase	5.0	phypat
+M15301.fasta	Alkaline phosphatase	5.0	phypat+GGL
+M15301.fasta	Growth in KCN	5.0	phypat
+M15301.fasta	Growth in KCN	4.0	phypat+GGL
+M15301.fasta	Facultative	5.0	phypat
+M15301.fasta	Facultative	5.0	phypat+GGL
+M15301.fasta	Bacillus or coccobacillus	5.0	phypat
+M15301.fasta	Bacillus or coccobacillus	5.0	phypat+GGL
+M15301.fasta	Coagulase production	1.0	phypat+GGL
+M36606.fasta	Indole	3.0	phypat
+M36606.fasta	Indole	1.0	phypat+GGL
+M36606.fasta	Catalase	5.0	phypat
+M36606.fasta	Catalase	5.0	phypat+GGL
+M36606.fasta	Growth at 42°C	2.0	phypat
+M36606.fasta	Growth at 42°C	1.0	phypat+GGL
+M36606.fasta	Maltose	5.0	phypat
+M36606.fasta	Maltose	1.0	phypat+GGL
+M36606.fasta	Growth on ordinary blood agar	1.0	phypat+GGL
+M36606.fasta	Colistin-Polymyxin susceptible	5.0	phypat
+M36606.fasta	Colistin-Polymyxin susceptible	5.0	phypat+GGL
+M36606.fasta	DNase	1.0	phypat
+M36606.fasta	DNase	1.0	phypat+GGL
+M36606.fasta	Methyl red	1.0	phypat
+M36606.fasta	Nitrate to nitrite	5.0	phypat
+M36606.fasta	Nitrate to nitrite	5.0	phypat+GGL
+M36606.fasta	Urea hydrolysis	5.0	phypat
+M36606.fasta	Urea hydrolysis	5.0	phypat+GGL
+M36606.fasta	Bile-susceptible	5.0	phypat
+M36606.fasta	Bile-susceptible	1.0	phypat+GGL
+M36606.fasta	Glucose fermenter	5.0	phypat
+M36606.fasta	Glucose fermenter	5.0	phypat+GGL
+M36606.fasta	Gram negative	5.0	phypat
+M36606.fasta	Gram negative	5.0	phypat+GGL
+M36606.fasta	Ornithine decarboxylase	2.0	phypat
+M36606.fasta	Capnophilic	2.0	phypat
+M36606.fasta	Capnophilic	5.0	phypat+GGL
+M36606.fasta	Oxidase	5.0	phypat
+M36606.fasta	Oxidase	5.0	phypat+GGL
+M36606.fasta	Gas from glucose	2.0	phypat+GGL
+M36606.fasta	Alkaline phosphatase	5.0	phypat
+M36606.fasta	Alkaline phosphatase	5.0	phypat+GGL
+M36606.fasta	Growth in KCN	5.0	phypat
+M36606.fasta	Growth in KCN	4.0	phypat+GGL
+M36606.fasta	Hydrogen sulfide	1.0	phypat+GGL
+M36606.fasta	Facultative	5.0	phypat
+M36606.fasta	Facultative	5.0	phypat+GGL
+M36606.fasta	Bacillus or coccobacillus	5.0	phypat
+M36606.fasta	Bacillus or coccobacillus	5.0	phypat+GGL
+M36606.fasta	Coagulase production	1.0	phypat+GGL
+M36605.fasta	Indole	3.0	phypat
+M36605.fasta	Indole	1.0	phypat+GGL
+M36605.fasta	D-Xylose	4.0	phypat
+M36605.fasta	D-Xylose	5.0	phypat+GGL
+M36605.fasta	Catalase	5.0	phypat
+M36605.fasta	Catalase	5.0	phypat+GGL
+M36605.fasta	Maltose	5.0	phypat
+M36605.fasta	Maltose	5.0	phypat+GGL
+M36605.fasta	Growth on ordinary blood agar	1.0	phypat+GGL
+M36605.fasta	Colistin-Polymyxin susceptible	5.0	phypat
+M36605.fasta	Colistin-Polymyxin susceptible	5.0	phypat+GGL
+M36605.fasta	DNase	1.0	phypat
+M36605.fasta	DNase	1.0	phypat+GGL
+M36605.fasta	Nitrate to nitrite	5.0	phypat
+M36605.fasta	Nitrate to nitrite	5.0	phypat+GGL
+M36605.fasta	Urea hydrolysis	5.0	phypat
+M36605.fasta	Urea hydrolysis	5.0	phypat+GGL
+M36605.fasta	Bile-susceptible	1.0	phypat+GGL
+M36605.fasta	Glucose fermenter	4.0	phypat
+M36605.fasta	Glucose fermenter	5.0	phypat+GGL
+M36605.fasta	Gram negative	5.0	phypat
+M36605.fasta	Gram negative	5.0	phypat+GGL
+M36605.fasta	Ornithine decarboxylase	5.0	phypat
+M36605.fasta	Ornithine decarboxylase	4.0	phypat+GGL
+M36605.fasta	Capnophilic	1.0	phypat
+M36605.fasta	Capnophilic	4.0	phypat+GGL
+M36605.fasta	Oxidase	5.0	phypat
+M36605.fasta	Oxidase	5.0	phypat+GGL
+M36605.fasta	Gas from glucose	2.0	phypat+GGL
+M36605.fasta	Alkaline phosphatase	5.0	phypat
+M36605.fasta	Alkaline phosphatase	5.0	phypat+GGL
+M36605.fasta	Growth in KCN	5.0	phypat
+M36605.fasta	Growth in KCN	4.0	phypat+GGL
+M36605.fasta	Facultative	5.0	phypat
+M36605.fasta	Facultative	5.0	phypat+GGL
+M36605.fasta	Bacillus or coccobacillus	5.0	phypat
+M36605.fasta	Bacillus or coccobacillus	5.0	phypat+GGL
+M36605.fasta	Coagulase production	1.0	phypat+GGL
+M04744.fasta	Indole	3.0	phypat
+M04744.fasta	Catalase	5.0	phypat
+M04744.fasta	Catalase	5.0	phypat+GGL
+M04744.fasta	Growth at 42°C	1.0	phypat
+M04744.fasta	Maltose	5.0	phypat
+M04744.fasta	Maltose	5.0	phypat+GGL
+M04744.fasta	Growth on ordinary blood agar	1.0	phypat+GGL
+M04744.fasta	Colistin-Polymyxin susceptible	5.0	phypat
+M04744.fasta	Colistin-Polymyxin susceptible	5.0	phypat+GGL
+M04744.fasta	DNase	1.0	phypat+GGL
+M04744.fasta	Nitrate to nitrite	5.0	phypat
+M04744.fasta	Nitrate to nitrite	5.0	phypat+GGL
+M04744.fasta	Urea hydrolysis	5.0	phypat
+M04744.fasta	Urea hydrolysis	5.0	phypat+GGL
+M04744.fasta	Bile-susceptible	4.0	phypat+GGL
+M04744.fasta	Glucose fermenter	5.0	phypat
+M04744.fasta	Glucose fermenter	5.0	phypat+GGL
+M04744.fasta	Gram negative	5.0	phypat
+M04744.fasta	Gram negative	5.0	phypat+GGL
+M04744.fasta	Ornithine decarboxylase	5.0	phypat
+M04744.fasta	Ornithine decarboxylase	5.0	phypat+GGL
+M04744.fasta	Capnophilic	1.0	phypat
+M04744.fasta	Capnophilic	5.0	phypat+GGL
+M04744.fasta	Oxidase	5.0	phypat
+M04744.fasta	Oxidase	5.0	phypat+GGL
+M04744.fasta	Gas from glucose	2.0	phypat+GGL
+M04744.fasta	Alkaline phosphatase	5.0	phypat
+M04744.fasta	Alkaline phosphatase	5.0	phypat+GGL
+M04744.fasta	Growth in KCN	5.0	phypat
+M04744.fasta	Growth in KCN	4.0	phypat+GGL
+M04744.fasta	Hydrogen sulfide	1.0	phypat+GGL
+M04744.fasta	Facultative	5.0	phypat
+M04744.fasta	Facultative	5.0	phypat+GGL
+M04744.fasta	Bacillus or coccobacillus	5.0	phypat
+M04744.fasta	Bacillus or coccobacillus	5.0	phypat+GGL
+M04744.fasta	Coagulase production	1.0	phypat+GGL
+M28405.fasta	Indole	3.0	phypat
+M28405.fasta	Indole	3.0	phypat+GGL
+M28405.fasta	Catalase	5.0	phypat
+M28405.fasta	Catalase	5.0	phypat+GGL
+M28405.fasta	Growth at 42°C	4.0	phypat
+M28405.fasta	Growth at 42°C	2.0	phypat+GGL
+M28405.fasta	Maltose	5.0	phypat
+M28405.fasta	Maltose	2.0	phypat+GGL
+M28405.fasta	Growth on ordinary blood agar	1.0	phypat+GGL
+M28405.fasta	Colistin-Polymyxin susceptible	5.0	phypat
+M28405.fasta	Colistin-Polymyxin susceptible	5.0	phypat+GGL
+M28405.fasta	DNase	2.0	phypat
+M28405.fasta	DNase	1.0	phypat+GGL
+M28405.fasta	Methyl red	1.0	phypat
+M28405.fasta	Nitrate to nitrite	5.0	phypat
+M28405.fasta	Nitrate to nitrite	5.0	phypat+GGL
+M28405.fasta	Urea hydrolysis	5.0	phypat
+M28405.fasta	Urea hydrolysis	5.0	phypat+GGL
+M28405.fasta	Bile-susceptible	5.0	phypat
+M28405.fasta	Bile-susceptible	5.0	phypat+GGL
+M28405.fasta	Glucose fermenter	5.0	phypat
+M28405.fasta	Glucose fermenter	5.0	phypat+GGL
+M28405.fasta	Gram negative	5.0	phypat
+M28405.fasta	Gram negative	5.0	phypat+GGL
+M28405.fasta	Ornithine decarboxylase	2.0	phypat
+M28405.fasta	Capnophilic	1.0	phypat
+M28405.fasta	Capnophilic	5.0	phypat+GGL
+M28405.fasta	Oxidase	5.0	phypat
+M28405.fasta	Oxidase	5.0	phypat+GGL
+M28405.fasta	Gas from glucose	2.0	phypat+GGL
+M28405.fasta	Alkaline phosphatase	5.0	phypat
+M28405.fasta	Alkaline phosphatase	5.0	phypat+GGL
+M28405.fasta	Growth in KCN	5.0	phypat
+M28405.fasta	Growth in KCN	4.0	phypat+GGL
+M28405.fasta	Hydrogen sulfide	1.0	phypat+GGL
+M28405.fasta	Facultative	5.0	phypat
+M28405.fasta	Facultative	5.0	phypat+GGL
+M28405.fasta	Bacillus or coccobacillus	5.0	phypat
+M28405.fasta	Bacillus or coccobacillus	5.0	phypat+GGL
+M28405.fasta	Coagulase production	1.0	phypat+GGL
+M36557.fasta	Indole	3.0	phypat
+M36557.fasta	Indole	1.0	phypat+GGL
+M36557.fasta	Catalase	5.0	phypat
+M36557.fasta	Catalase	5.0	phypat+GGL
+M36557.fasta	Growth at 42°C	2.0	phypat
+M36557.fasta	Growth at 42°C	1.0	phypat+GGL
+M36557.fasta	Maltose	5.0	phypat
+M36557.fasta	Maltose	1.0	phypat+GGL
+M36557.fasta	Growth on ordinary blood agar	1.0	phypat+GGL
+M36557.fasta	Colistin-Polymyxin susceptible	5.0	phypat
+M36557.fasta	Colistin-Polymyxin susceptible	5.0	phypat+GGL
+M36557.fasta	DNase	1.0	phypat
+M36557.fasta	DNase	1.0	phypat+GGL
+M36557.fasta	Methyl red	1.0	phypat
+M36557.fasta	Nitrate to nitrite	5.0	phypat
+M36557.fasta	Nitrate to nitrite	5.0	phypat+GGL
+M36557.fasta	Urea hydrolysis	5.0	phypat
+M36557.fasta	Urea hydrolysis	5.0	phypat+GGL
+M36557.fasta	Bile-susceptible	5.0	phypat
+M36557.fasta	Bile-susceptible	1.0	phypat+GGL
+M36557.fasta	Glucose fermenter	5.0	phypat
+M36557.fasta	Glucose fermenter	5.0	phypat+GGL
+M36557.fasta	Gram negative	5.0	phypat
+M36557.fasta	Gram negative	5.0	phypat+GGL
+M36557.fasta	Ornithine decarboxylase	2.0	phypat
+M36557.fasta	Capnophilic	2.0	phypat
+M36557.fasta	Capnophilic	5.0	phypat+GGL
+M36557.fasta	Oxidase	5.0	phypat
+M36557.fasta	Oxidase	5.0	phypat+GGL
+M36557.fasta	Gas from glucose	2.0	phypat+GGL
+M36557.fasta	Alkaline phosphatase	5.0	phypat
+M36557.fasta	Alkaline phosphatase	5.0	phypat+GGL
+M36557.fasta	Growth in KCN	5.0	phypat
+M36557.fasta	Growth in KCN	4.0	phypat+GGL
+M36557.fasta	Hydrogen sulfide	1.0	phypat+GGL
+M36557.fasta	Facultative	5.0	phypat
+M36557.fasta	Facultative	5.0	phypat+GGL
+M36557.fasta	Bacillus or coccobacillus	5.0	phypat
+M36557.fasta	Bacillus or coccobacillus	5.0	phypat+GGL
+M36557.fasta	Coagulase production	1.0	phypat+GGL
+Histophilus_somnus.fasta	Indole	3.0	phypat
+Histophilus_somnus.fasta	Indole	1.0	phypat+GGL
+Histophilus_somnus.fasta	D-Xylose	1.0	phypat+GGL
+Histophilus_somnus.fasta	Catalase	1.0	phypat+GGL
+Histophilus_somnus.fasta	Growth at 42°C	1.0	phypat
+Histophilus_somnus.fasta	D-Mannitol	5.0	phypat
+Histophilus_somnus.fasta	D-Mannitol	3.0	phypat+GGL
+Histophilus_somnus.fasta	Maltose	5.0	phypat
+Histophilus_somnus.fasta	Maltose	3.0	phypat+GGL
+Histophilus_somnus.fasta	Growth on ordinary blood agar	3.0	phypat+GGL
+Histophilus_somnus.fasta	Colistin-Polymyxin susceptible	5.0	phypat
+Histophilus_somnus.fasta	Colistin-Polymyxin susceptible	1.0	phypat+GGL
+Histophilus_somnus.fasta	Yellow pigment	1.0	phypat
+Histophilus_somnus.fasta	DNase	1.0	phypat
+Histophilus_somnus.fasta	Nitrate to nitrite	5.0	phypat
+Histophilus_somnus.fasta	Nitrate to nitrite	5.0	phypat+GGL
+Histophilus_somnus.fasta	D-Mannose	5.0	phypat
+Histophilus_somnus.fasta	D-Mannose	1.0	phypat+GGL
+Histophilus_somnus.fasta	Growth in 6.5% NaCl	1.0	phypat
+Histophilus_somnus.fasta	Bile-susceptible	1.0	phypat+GGL
+Histophilus_somnus.fasta	Glucose fermenter	4.0	phypat
+Histophilus_somnus.fasta	Glucose fermenter	5.0	phypat+GGL
+Histophilus_somnus.fasta	Gram negative	5.0	phypat
+Histophilus_somnus.fasta	Gram negative	5.0	phypat+GGL
+Histophilus_somnus.fasta	Ornithine decarboxylase	5.0	phypat
+Histophilus_somnus.fasta	Ornithine decarboxylase	5.0	phypat+GGL
+Histophilus_somnus.fasta	Casein hydrolysis	1.0	phypat
+Histophilus_somnus.fasta	Capnophilic	5.0	phypat
+Histophilus_somnus.fasta	Capnophilic	2.0	phypat+GGL
+Histophilus_somnus.fasta	Oxidase	5.0	phypat+GGL
+Histophilus_somnus.fasta	Gas from glucose	2.0	phypat+GGL
+Histophilus_somnus.fasta	Alkaline phosphatase	4.0	phypat+GGL
+Histophilus_somnus.fasta	Growth in KCN	5.0	phypat
+Histophilus_somnus.fasta	Growth in KCN	2.0	phypat+GGL
+Histophilus_somnus.fasta	Facultative	5.0	phypat
+Histophilus_somnus.fasta	Facultative	5.0	phypat+GGL
+Histophilus_somnus.fasta	Bacillus or coccobacillus	5.0	phypat
+Histophilus_somnus.fasta	Bacillus or coccobacillus	5.0	phypat+GGL
+Histophilus_somnus.fasta	D-Sorbitol	4.0	phypat
+Histophilus_somnus.fasta	D-Sorbitol	5.0	phypat+GGL
+86-028NP.fasta	Indole	3.0	phypat
+86-028NP.fasta	Indole	2.0	phypat+GGL
+86-028NP.fasta	Catalase	5.0	phypat
+86-028NP.fasta	Catalase	5.0	phypat+GGL
+86-028NP.fasta	Growth at 42°C	1.0	phypat
+86-028NP.fasta	Growth at 42°C	1.0	phypat+GGL
+86-028NP.fasta	Maltose	5.0	phypat
+86-028NP.fasta	Maltose	1.0	phypat+GGL
+86-028NP.fasta	Growth on ordinary blood agar	1.0	phypat+GGL
+86-028NP.fasta	Colistin-Polymyxin susceptible	5.0	phypat
+86-028NP.fasta	Colistin-Polymyxin susceptible	5.0	phypat+GGL
+86-028NP.fasta	DNase	1.0	phypat
+86-028NP.fasta	DNase	1.0	phypat+GGL
+86-028NP.fasta	Methyl red	3.0	phypat
+86-028NP.fasta	Nitrate to nitrite	5.0	phypat
+86-028NP.fasta	Nitrate to nitrite	5.0	phypat+GGL
+86-028NP.fasta	Urea hydrolysis	5.0	phypat
+86-028NP.fasta	Urea hydrolysis	5.0	phypat+GGL
+86-028NP.fasta	Bile-susceptible	5.0	phypat
+86-028NP.fasta	Bile-susceptible	1.0	phypat+GGL
+86-028NP.fasta	Glucose fermenter	5.0	phypat
+86-028NP.fasta	Glucose fermenter	5.0	phypat+GGL
+86-028NP.fasta	Gram negative	5.0	phypat
+86-028NP.fasta	Gram negative	5.0	phypat+GGL
+86-028NP.fasta	Ornithine decarboxylase	2.0	phypat
+86-028NP.fasta	Capnophilic	1.0	phypat
+86-028NP.fasta	Capnophilic	5.0	phypat+GGL
+86-028NP.fasta	Oxidase	5.0	phypat
+86-028NP.fasta	Oxidase	5.0	phypat+GGL
+86-028NP.fasta	Gas from glucose	2.0	phypat+GGL
+86-028NP.fasta	Alkaline phosphatase	5.0	phypat
+86-028NP.fasta	Alkaline phosphatase	5.0	phypat+GGL
+86-028NP.fasta	Facultative	5.0	phypat
+86-028NP.fasta	Facultative	5.0	phypat+GGL
+86-028NP.fasta	Bacillus or coccobacillus	5.0	phypat
+86-028NP.fasta	Bacillus or coccobacillus	5.0	phypat+GGL
+86-028NP.fasta	Coagulase production	1.0	phypat+GGL
+M11840.fasta	Indole	3.0	phypat
+M11840.fasta	Indole	5.0	phypat+GGL
+M11840.fasta	Catalase	5.0	phypat
+M11840.fasta	Catalase	5.0	phypat+GGL
+M11840.fasta	Growth at 42°C	1.0	phypat+GGL
+M11840.fasta	Maltose	5.0	phypat
+M11840.fasta	Growth on ordinary blood agar	2.0	phypat+GGL
+M11840.fasta	Colistin-Polymyxin susceptible	5.0	phypat
+M11840.fasta	Colistin-Polymyxin susceptible	5.0	phypat+GGL
+M11840.fasta	DNase	1.0	phypat
+M11840.fasta	DNase	1.0	phypat+GGL
+M11840.fasta	Methyl red	1.0	phypat
+M11840.fasta	Nitrate to nitrite	5.0	phypat
+M11840.fasta	Nitrate to nitrite	5.0	phypat+GGL
+M11840.fasta	Bile-susceptible	5.0	phypat+GGL
+M11840.fasta	Glucose fermenter	5.0	phypat
+M11840.fasta	Glucose fermenter	5.0	phypat+GGL
+M11840.fasta	Gram negative	5.0	phypat
+M11840.fasta	Gram negative	5.0	phypat+GGL
+M11840.fasta	Ornithine decarboxylase	5.0	phypat
+M11840.fasta	Ornithine decarboxylase	5.0	phypat+GGL
+M11840.fasta	Capnophilic	1.0	phypat
+M11840.fasta	Capnophilic	5.0	phypat+GGL
+M11840.fasta	Oxidase	5.0	phypat
+M11840.fasta	Oxidase	5.0	phypat+GGL
+M11840.fasta	Gas from glucose	2.0	phypat+GGL
+M11840.fasta	Alkaline phosphatase	5.0	phypat
+M11840.fasta	Alkaline phosphatase	5.0	phypat+GGL
+M11840.fasta	Facultative	5.0	phypat
+M11840.fasta	Facultative	5.0	phypat+GGL
+M11840.fasta	Bacillus or coccobacillus	5.0	phypat
+M11840.fasta	Bacillus or coccobacillus	5.0	phypat+GGL
+M11840.fasta	Coagulase production	1.0	phypat+GGL
+PittEE.fasta	Indole	3.0	phypat
+PittEE.fasta	Indole	1.0	phypat+GGL
+PittEE.fasta	Catalase	5.0	phypat
+PittEE.fasta	Catalase	5.0	phypat+GGL
+PittEE.fasta	Growth at 42°C	1.0	phypat+GGL
+PittEE.fasta	Maltose	5.0	phypat
+PittEE.fasta	Maltose	4.0	phypat+GGL
+PittEE.fasta	Growth on ordinary blood agar	1.0	phypat+GGL
+PittEE.fasta	Colistin-Polymyxin susceptible	5.0	phypat
+PittEE.fasta	Colistin-Polymyxin susceptible	5.0	phypat+GGL
+PittEE.fasta	DNase	1.0	phypat
+PittEE.fasta	DNase	1.0	phypat+GGL
+PittEE.fasta	Nitrate to nitrite	5.0	phypat
+PittEE.fasta	Nitrate to nitrite	5.0	phypat+GGL
+PittEE.fasta	Urea hydrolysis	5.0	phypat
+PittEE.fasta	Urea hydrolysis	5.0	phypat+GGL
+PittEE.fasta	Bile-susceptible	5.0	phypat
+PittEE.fasta	Bile-susceptible	1.0	phypat+GGL
+PittEE.fasta	Glucose fermenter	5.0	phypat
+PittEE.fasta	Glucose fermenter	5.0	phypat+GGL
+PittEE.fasta	Gram negative	5.0	phypat
+PittEE.fasta	Gram negative	5.0	phypat+GGL
+PittEE.fasta	Ornithine decarboxylase	2.0	phypat
+PittEE.fasta	Capnophilic	3.0	phypat
+PittEE.fasta	Capnophilic	5.0	phypat+GGL
+PittEE.fasta	Oxidase	5.0	phypat
+PittEE.fasta	Oxidase	5.0	phypat+GGL
+PittEE.fasta	Gas from glucose	2.0	phypat+GGL
+PittEE.fasta	Alkaline phosphatase	5.0	phypat
+PittEE.fasta	Alkaline phosphatase	5.0	phypat+GGL
+PittEE.fasta	Growth in KCN	5.0	phypat
+PittEE.fasta	Growth in KCN	4.0	phypat+GGL
+PittEE.fasta	Facultative	5.0	phypat
+PittEE.fasta	Facultative	5.0	phypat+GGL
+PittEE.fasta	Bacillus or coccobacillus	5.0	phypat
+PittEE.fasta	Bacillus or coccobacillus	5.0	phypat+GGL
+PittEE.fasta	Coagulase production	1.0	phypat+GGL
+M28801.fasta	Indole	3.0	phypat
+M28801.fasta	Indole	5.0	phypat+GGL
+M28801.fasta	D-Xylose	4.0	phypat
+M28801.fasta	Catalase	5.0	phypat
+M28801.fasta	Catalase	5.0	phypat+GGL
+M28801.fasta	Growth at 42°C	4.0	phypat
+M28801.fasta	Growth at 42°C	1.0	phypat+GGL
+M28801.fasta	Maltose	5.0	phypat
+M28801.fasta	Maltose	1.0	phypat+GGL
+M28801.fasta	Growth on ordinary blood agar	1.0	phypat+GGL
+M28801.fasta	Colistin-Polymyxin susceptible	5.0	phypat
+M28801.fasta	Colistin-Polymyxin susceptible	5.0	phypat+GGL
+M28801.fasta	DNase	1.0	phypat
+M28801.fasta	DNase	1.0	phypat+GGL
+M28801.fasta	Methyl red	1.0	phypat
+M28801.fasta	Nitrate to nitrite	5.0	phypat
+M28801.fasta	Nitrate to nitrite	5.0	phypat+GGL
+M28801.fasta	Bile-susceptible	5.0	phypat+GGL
+M28801.fasta	Glucose fermenter	4.0	phypat
+M28801.fasta	Glucose fermenter	5.0	phypat+GGL
+M28801.fasta	Gram negative	5.0	phypat
+M28801.fasta	Gram negative	5.0	phypat+GGL
+M28801.fasta	Ornithine decarboxylase	5.0	phypat
+M28801.fasta	Ornithine decarboxylase	5.0	phypat+GGL
+M28801.fasta	Capnophilic	5.0	phypat+GGL
+M28801.fasta	Oxidase	5.0	phypat
+M28801.fasta	Oxidase	5.0	phypat+GGL
+M28801.fasta	Gas from glucose	2.0	phypat+GGL
+M28801.fasta	Alkaline phosphatase	5.0	phypat
+M28801.fasta	Alkaline phosphatase	5.0	phypat+GGL
+M28801.fasta	Facultative	5.0	phypat
+M28801.fasta	Facultative	5.0	phypat+GGL
+M28801.fasta	Bacillus or coccobacillus	5.0	phypat
+M28801.fasta	Bacillus or coccobacillus	5.0	phypat+GGL
+M28801.fasta	Coagulase production	1.0	phypat+GGL
+M36580.fasta	Indole	3.0	phypat
+M36580.fasta	Indole	1.0	phypat+GGL
+M36580.fasta	Catalase	5.0	phypat
+M36580.fasta	Catalase	5.0	phypat+GGL
+M36580.fasta	Growth at 42°C	1.0	phypat+GGL
+M36580.fasta	Maltose	5.0	phypat
+M36580.fasta	Maltose	4.0	phypat+GGL
+M36580.fasta	Growth on ordinary blood agar	1.0	phypat+GGL
+M36580.fasta	Colistin-Polymyxin susceptible	5.0	phypat
+M36580.fasta	Colistin-Polymyxin susceptible	5.0	phypat+GGL
+M36580.fasta	DNase	1.0	phypat
+M36580.fasta	DNase	1.0	phypat+GGL
+M36580.fasta	Nitrate to nitrite	5.0	phypat
+M36580.fasta	Nitrate to nitrite	5.0	phypat+GGL
+M36580.fasta	Urea hydrolysis	5.0	phypat
+M36580.fasta	Urea hydrolysis	5.0	phypat+GGL
+M36580.fasta	Bile-susceptible	5.0	phypat
+M36580.fasta	Bile-susceptible	1.0	phypat+GGL
+M36580.fasta	Glucose fermenter	5.0	phypat
+M36580.fasta	Glucose fermenter	5.0	phypat+GGL
+M36580.fasta	Gram negative	5.0	phypat
+M36580.fasta	Gram negative	5.0	phypat+GGL
+M36580.fasta	Ornithine decarboxylase	2.0	phypat
+M36580.fasta	Capnophilic	1.0	phypat
+M36580.fasta	Capnophilic	4.0	phypat+GGL
+M36580.fasta	Oxidase	5.0	phypat
+M36580.fasta	Oxidase	5.0	phypat+GGL
+M36580.fasta	Gas from glucose	2.0	phypat+GGL
+M36580.fasta	Alkaline phosphatase	5.0	phypat
+M36580.fasta	Alkaline phosphatase	5.0	phypat+GGL
+M36580.fasta	Growth in KCN	5.0	phypat
+M36580.fasta	Growth in KCN	4.0	phypat+GGL
+M36580.fasta	Facultative	5.0	phypat
+M36580.fasta	Facultative	5.0	phypat+GGL
+M36580.fasta	Bacillus or coccobacillus	5.0	phypat
+M36580.fasta	Bacillus or coccobacillus	5.0	phypat+GGL
+M36580.fasta	Coagulase production	1.0	phypat+GGL
+M29202.fasta	Indole	3.0	phypat
+M29202.fasta	Indole	2.0	phypat+GGL
+M29202.fasta	D-Xylose	3.0	phypat
+M29202.fasta	D-Xylose	3.0	phypat+GGL
+M29202.fasta	Catalase	5.0	phypat
+M29202.fasta	Catalase	5.0	phypat+GGL
+M29202.fasta	Growth at 42°C	4.0	phypat
+M29202.fasta	Growth at 42°C	3.0	phypat+GGL
+M29202.fasta	Maltose	5.0	phypat
+M29202.fasta	Maltose	1.0	phypat+GGL
+M29202.fasta	Growth on ordinary blood agar	1.0	phypat+GGL
+M29202.fasta	Colistin-Polymyxin susceptible	5.0	phypat
+M29202.fasta	Colistin-Polymyxin susceptible	5.0	phypat+GGL
+M29202.fasta	DNase	1.0	phypat
+M29202.fasta	DNase	1.0	phypat+GGL
+M29202.fasta	Methyl red	2.0	phypat
+M29202.fasta	Nitrate to nitrite	5.0	phypat
+M29202.fasta	Nitrate to nitrite	5.0	phypat+GGL
+M29202.fasta	Urea hydrolysis	5.0	phypat
+M29202.fasta	Urea hydrolysis	5.0	phypat+GGL
+M29202.fasta	Bile-susceptible	5.0	phypat
+M29202.fasta	Bile-susceptible	3.0	phypat+GGL
+M29202.fasta	Glucose fermenter	4.0	phypat
+M29202.fasta	Glucose fermenter	5.0	phypat+GGL
+M29202.fasta	Gram negative	5.0	phypat
+M29202.fasta	Gram negative	5.0	phypat+GGL
+M29202.fasta	Ornithine decarboxylase	3.0	phypat
+M29202.fasta	Capnophilic	1.0	phypat
+M29202.fasta	Capnophilic	3.0	phypat+GGL
+M29202.fasta	Oxidase	5.0	phypat
+M29202.fasta	Oxidase	5.0	phypat+GGL
+M29202.fasta	Gas from glucose	2.0	phypat+GGL
+M29202.fasta	Alkaline phosphatase	5.0	phypat
+M29202.fasta	Alkaline phosphatase	5.0	phypat+GGL
+M29202.fasta	Facultative	5.0	phypat
+M29202.fasta	Facultative	5.0	phypat+GGL
+M29202.fasta	Bacillus or coccobacillus	5.0	phypat
+M29202.fasta	Bacillus or coccobacillus	5.0	phypat+GGL
+M29202.fasta	Coagulase production	1.0	phypat+GGL
+M26026.fasta	Indole	3.0	phypat
+M26026.fasta	Indole	1.0	phypat+GGL
+M26026.fasta	Catalase	5.0	phypat
+M26026.fasta	Catalase	5.0	phypat+GGL
+M26026.fasta	Growth at 42°C	2.0	phypat
+M26026.fasta	Growth at 42°C	1.0	phypat+GGL
+M26026.fasta	Maltose	5.0	phypat
+M26026.fasta	Maltose	1.0	phypat+GGL
+M26026.fasta	Growth on ordinary blood agar	1.0	phypat+GGL
+M26026.fasta	Colistin-Polymyxin susceptible	5.0	phypat
+M26026.fasta	Colistin-Polymyxin susceptible	5.0	phypat+GGL
+M26026.fasta	DNase	1.0	phypat
+M26026.fasta	DNase	1.0	phypat+GGL
+M26026.fasta	Methyl red	1.0	phypat
+M26026.fasta	Nitrate to nitrite	5.0	phypat
+M26026.fasta	Nitrate to nitrite	5.0	phypat+GGL
+M26026.fasta	Urea hydrolysis	5.0	phypat
+M26026.fasta	Urea hydrolysis	5.0	phypat+GGL
+M26026.fasta	Bile-susceptible	5.0	phypat
+M26026.fasta	Bile-susceptible	1.0	phypat+GGL
+M26026.fasta	Glucose fermenter	5.0	phypat
+M26026.fasta	Glucose fermenter	5.0	phypat+GGL
+M26026.fasta	Gram negative	5.0	phypat
+M26026.fasta	Gram negative	5.0	phypat+GGL
+M26026.fasta	Ornithine decarboxylase	2.0	phypat
+M26026.fasta	Capnophilic	2.0	phypat
+M26026.fasta	Capnophilic	5.0	phypat+GGL
+M26026.fasta	Oxidase	5.0	phypat
+M26026.fasta	Oxidase	5.0	phypat+GGL
+M26026.fasta	Gas from glucose	2.0	phypat+GGL
+M26026.fasta	Alkaline phosphatase	5.0	phypat
+M26026.fasta	Alkaline phosphatase	5.0	phypat+GGL
+M26026.fasta	Growth in KCN	5.0	phypat
+M26026.fasta	Growth in KCN	4.0	phypat+GGL
+M26026.fasta	Hydrogen sulfide	1.0	phypat+GGL
+M26026.fasta	Facultative	5.0	phypat
+M26026.fasta	Facultative	5.0	phypat+GGL
+M26026.fasta	Bacillus or coccobacillus	5.0	phypat
+M26026.fasta	Bacillus or coccobacillus	5.0	phypat+GGL
+M26026.fasta	Coagulase production	1.0	phypat+GGL
+M29179.fasta	Indole	3.0	phypat
+M29179.fasta	Indole	1.0	phypat+GGL
+M29179.fasta	Catalase	5.0	phypat
+M29179.fasta	Catalase	5.0	phypat+GGL
+M29179.fasta	Growth at 42°C	1.0	phypat
+M29179.fasta	Growth at 42°C	1.0	phypat+GGL
+M29179.fasta	Maltose	5.0	phypat
+M29179.fasta	Maltose	1.0	phypat+GGL
+M29179.fasta	Growth on ordinary blood agar	1.0	phypat+GGL
+M29179.fasta	Colistin-Polymyxin susceptible	5.0	phypat
+M29179.fasta	Colistin-Polymyxin susceptible	5.0	phypat+GGL
+M29179.fasta	DNase	1.0	phypat
+M29179.fasta	DNase	1.0	phypat+GGL
+M29179.fasta	Methyl red	3.0	phypat
+M29179.fasta	Nitrate to nitrite	5.0	phypat
+M29179.fasta	Nitrate to nitrite	5.0	phypat+GGL
+M29179.fasta	Urea hydrolysis	5.0	phypat
+M29179.fasta	Urea hydrolysis	5.0	phypat+GGL
+M29179.fasta	Bile-susceptible	5.0	phypat
+M29179.fasta	Bile-susceptible	1.0	phypat+GGL
+M29179.fasta	Glucose fermenter	5.0	phypat
+M29179.fasta	Glucose fermenter	5.0	phypat+GGL
+M29179.fasta	Gram negative	5.0	phypat
+M29179.fasta	Gram negative	5.0	phypat+GGL
+M29179.fasta	Ornithine decarboxylase	2.0	phypat
+M29179.fasta	Capnophilic	2.0	phypat
+M29179.fasta	Capnophilic	5.0	phypat+GGL
+M29179.fasta	Oxidase	5.0	phypat
+M29179.fasta	Oxidase	5.0	phypat+GGL
+M29179.fasta	Gas from glucose	2.0	phypat+GGL
+M29179.fasta	Alkaline phosphatase	5.0	phypat
+M29179.fasta	Alkaline phosphatase	5.0	phypat+GGL
+M29179.fasta	Hydrogen sulfide	1.0	phypat+GGL
+M29179.fasta	Facultative	5.0	phypat
+M29179.fasta	Facultative	5.0	phypat+GGL
+M29179.fasta	Bacillus or coccobacillus	5.0	phypat
+M29179.fasta	Bacillus or coccobacillus	5.0	phypat+GGL
+M29179.fasta	Coagulase production	1.0	phypat+GGL
+M11363.fasta	Indole	3.0	phypat
+M11363.fasta	Catalase	5.0	phypat
+M11363.fasta	Catalase	5.0	phypat+GGL
+M11363.fasta	Growth at 42°C	2.0	phypat
+M11363.fasta	Growth at 42°C	1.0	phypat+GGL
+M11363.fasta	Maltose	5.0	phypat
+M11363.fasta	Maltose	2.0	phypat+GGL
+M11363.fasta	Growth on ordinary blood agar	1.0	phypat+GGL
+M11363.fasta	Colistin-Polymyxin susceptible	5.0	phypat
+M11363.fasta	Colistin-Polymyxin susceptible	5.0	phypat+GGL
+M11363.fasta	DNase	3.0	phypat
+M11363.fasta	DNase	1.0	phypat+GGL
+M11363.fasta	Methyl red	1.0	phypat
+M11363.fasta	Nitrate to nitrite	5.0	phypat
+M11363.fasta	Nitrate to nitrite	5.0	phypat+GGL
+M11363.fasta	Urea hydrolysis	5.0	phypat
+M11363.fasta	Urea hydrolysis	5.0	phypat+GGL
+M11363.fasta	Bile-susceptible	3.0	phypat+GGL
+M11363.fasta	Glucose fermenter	5.0	phypat
+M11363.fasta	Glucose fermenter	5.0	phypat+GGL
+M11363.fasta	Gram negative	5.0	phypat
+M11363.fasta	Gram negative	5.0	phypat+GGL
+M11363.fasta	Ornithine decarboxylase	2.0	phypat
+M11363.fasta	Capnophilic	1.0	phypat
+M11363.fasta	Capnophilic	4.0	phypat+GGL
+M11363.fasta	Oxidase	5.0	phypat
+M11363.fasta	Oxidase	5.0	phypat+GGL
+M11363.fasta	Gas from glucose	2.0	phypat+GGL
+M11363.fasta	Alkaline phosphatase	5.0	phypat
+M11363.fasta	Alkaline phosphatase	5.0	phypat+GGL
+M11363.fasta	Growth in KCN	5.0	phypat
+M11363.fasta	Growth in KCN	4.0	phypat+GGL
+M11363.fasta	Tartrate utilization	1.0	phypat+GGL
+M11363.fasta	Facultative	5.0	phypat
+M11363.fasta	Facultative	5.0	phypat+GGL
+M11363.fasta	Bacillus or coccobacillus	5.0	phypat
+M11363.fasta	Bacillus or coccobacillus	5.0	phypat+GGL
+M11363.fasta	Coagulase production	1.0	phypat+GGL
+CGSHiCZ412602.fasta	Indole	2.0	phypat
+CGSHiCZ412602.fasta	Catalase	5.0	phypat
+CGSHiCZ412602.fasta	Catalase	5.0	phypat+GGL
+CGSHiCZ412602.fasta	Growth at 42°C	1.0	phypat+GGL
+CGSHiCZ412602.fasta	Maltose	5.0	phypat
+CGSHiCZ412602.fasta	Maltose	1.0	phypat+GGL
+CGSHiCZ412602.fasta	Growth on ordinary blood agar	1.0	phypat+GGL
+CGSHiCZ412602.fasta	Colistin-Polymyxin susceptible	5.0	phypat
+CGSHiCZ412602.fasta	Colistin-Polymyxin susceptible	5.0	phypat+GGL
+CGSHiCZ412602.fasta	DNase	2.0	phypat
+CGSHiCZ412602.fasta	DNase	1.0	phypat+GGL
+CGSHiCZ412602.fasta	Nitrate to nitrite	5.0	phypat
+CGSHiCZ412602.fasta	Nitrate to nitrite	5.0	phypat+GGL
+CGSHiCZ412602.fasta	Urea hydrolysis	5.0	phypat
+CGSHiCZ412602.fasta	Urea hydrolysis	5.0	phypat+GGL
+CGSHiCZ412602.fasta	Bile-susceptible	1.0	phypat+GGL
+CGSHiCZ412602.fasta	Glucose fermenter	5.0	phypat
+CGSHiCZ412602.fasta	Glucose fermenter	5.0	phypat+GGL
+CGSHiCZ412602.fasta	Gram negative	5.0	phypat
+CGSHiCZ412602.fasta	Gram negative	5.0	phypat+GGL
+CGSHiCZ412602.fasta	Ornithine decarboxylase	2.0	phypat
+CGSHiCZ412602.fasta	Capnophilic	3.0	phypat
+CGSHiCZ412602.fasta	Capnophilic	5.0	phypat+GGL
+CGSHiCZ412602.fasta	Oxidase	5.0	phypat
+CGSHiCZ412602.fasta	Oxidase	5.0	phypat+GGL
+CGSHiCZ412602.fasta	Gas from glucose	2.0	phypat+GGL
+CGSHiCZ412602.fasta	Alkaline phosphatase	5.0	phypat
+CGSHiCZ412602.fasta	Alkaline phosphatase	5.0	phypat+GGL
+CGSHiCZ412602.fasta	Growth in KCN	5.0	phypat
+CGSHiCZ412602.fasta	Growth in KCN	4.0	phypat+GGL
+CGSHiCZ412602.fasta	Facultative	5.0	phypat
+CGSHiCZ412602.fasta	Facultative	5.0	phypat+GGL
+CGSHiCZ412602.fasta	Bacillus or coccobacillus	5.0	phypat
+CGSHiCZ412602.fasta	Bacillus or coccobacillus	5.0	phypat+GGL
+CGSHiCZ412602.fasta	Coagulase production	1.0	phypat+GGL
+KR494.fasta	Indole	3.0	phypat
+KR494.fasta	Catalase	5.0	phypat
+KR494.fasta	Catalase	5.0	phypat+GGL
+KR494.fasta	Growth at 42°C	3.0	phypat
+KR494.fasta	Maltose	5.0	phypat
+KR494.fasta	Maltose	5.0	phypat+GGL
+KR494.fasta	Growth on ordinary blood agar	1.0	phypat+GGL
+KR494.fasta	Colistin-Polymyxin susceptible	5.0	phypat
+KR494.fasta	Colistin-Polymyxin susceptible	5.0	phypat+GGL
+KR494.fasta	DNase	1.0	phypat
+KR494.fasta	DNase	1.0	phypat+GGL
+KR494.fasta	Methyl red	1.0	phypat
+KR494.fasta	Nitrate to nitrite	5.0	phypat
+KR494.fasta	Nitrate to nitrite	5.0	phypat+GGL
+KR494.fasta	Urea hydrolysis	5.0	phypat
+KR494.fasta	Urea hydrolysis	5.0	phypat+GGL
+KR494.fasta	Bile-susceptible	1.0	phypat+GGL
+KR494.fasta	Glucose fermenter	5.0	phypat
+KR494.fasta	Glucose fermenter	5.0	phypat+GGL
+KR494.fasta	Gram negative	5.0	phypat
+KR494.fasta	Gram negative	5.0	phypat+GGL
+KR494.fasta	Ornithine decarboxylase	5.0	phypat
+KR494.fasta	Ornithine decarboxylase	5.0	phypat+GGL
+KR494.fasta	Capnophilic	2.0	phypat
+KR494.fasta	Capnophilic	5.0	phypat+GGL
+KR494.fasta	Oxidase	5.0	phypat
+KR494.fasta	Oxidase	5.0	phypat+GGL
+KR494.fasta	Gas from glucose	2.0	phypat+GGL
+KR494.fasta	Alkaline phosphatase	5.0	phypat
+KR494.fasta	Alkaline phosphatase	5.0	phypat+GGL
+KR494.fasta	Hydrogen sulfide	1.0	phypat+GGL
+KR494.fasta	Facultative	5.0	phypat
+KR494.fasta	Facultative	5.0	phypat+GGL
+KR494.fasta	Bacillus or coccobacillus	5.0	phypat
+KR494.fasta	Bacillus or coccobacillus	5.0	phypat+GGL
+KR494.fasta	Coagulase production	1.0	phypat+GGL
+R2866.fasta	Indole	3.0	phypat
+R2866.fasta	Indole	1.0	phypat+GGL
+R2866.fasta	Catalase	5.0	phypat
+R2866.fasta	Catalase	5.0	phypat+GGL
+R2866.fasta	Growth at 42°C	1.0	phypat
+R2866.fasta	Growth at 42°C	1.0	phypat+GGL
+R2866.fasta	Maltose	5.0	phypat
+R2866.fasta	Growth on ordinary blood agar	1.0	phypat+GGL
+R2866.fasta	Colistin-Polymyxin susceptible	5.0	phypat
+R2866.fasta	Colistin-Polymyxin susceptible	5.0	phypat+GGL
+R2866.fasta	DNase	3.0	phypat
+R2866.fasta	DNase	1.0	phypat+GGL
+R2866.fasta	Methyl red	1.0	phypat
+R2866.fasta	Nitrate to nitrite	5.0	phypat
+R2866.fasta	Nitrate to nitrite	5.0	phypat+GGL
+R2866.fasta	Bile-susceptible	1.0	phypat+GGL
+R2866.fasta	Glucose fermenter	4.0	phypat
+R2866.fasta	Glucose fermenter	5.0	phypat+GGL
+R2866.fasta	Gram negative	5.0	phypat
+R2866.fasta	Gram negative	5.0	phypat+GGL
+R2866.fasta	Ornithine decarboxylase	5.0	phypat
+R2866.fasta	Ornithine decarboxylase	5.0	phypat+GGL
+R2866.fasta	Capnophilic	1.0	phypat
+R2866.fasta	Capnophilic	5.0	phypat+GGL
+R2866.fasta	Oxidase	5.0	phypat
+R2866.fasta	Oxidase	5.0	phypat+GGL
+R2866.fasta	Gas from glucose	2.0	phypat+GGL
+R2866.fasta	Alkaline phosphatase	5.0	phypat
+R2866.fasta	Alkaline phosphatase	5.0	phypat+GGL
+R2866.fasta	Facultative	5.0	phypat
+R2866.fasta	Facultative	5.0	phypat+GGL
+R2866.fasta	Bacillus or coccobacillus	5.0	phypat
+R2866.fasta	Bacillus or coccobacillus	5.0	phypat+GGL
+R2866.fasta	Coagulase production	1.0	phypat+GGL
+M07066.fasta	Indole	3.0	phypat
+M07066.fasta	Catalase	5.0	phypat
+M07066.fasta	Catalase	5.0	phypat+GGL
+M07066.fasta	Growth at 42°C	3.0	phypat
+M07066.fasta	Maltose	5.0	phypat
+M07066.fasta	Maltose	5.0	phypat+GGL
+M07066.fasta	Growth on ordinary blood agar	4.0	phypat+GGL
+M07066.fasta	Colistin-Polymyxin susceptible	5.0	phypat
+M07066.fasta	Colistin-Polymyxin susceptible	5.0	phypat+GGL
+M07066.fasta	DNase	1.0	phypat
+M07066.fasta	DNase	1.0	phypat+GGL
+M07066.fasta	Methyl red	1.0	phypat
+M07066.fasta	Nitrate to nitrite	5.0	phypat
+M07066.fasta	Nitrate to nitrite	5.0	phypat+GGL
+M07066.fasta	Urea hydrolysis	5.0	phypat
+M07066.fasta	Urea hydrolysis	5.0	phypat+GGL
+M07066.fasta	Bile-susceptible	1.0	phypat+GGL
+M07066.fasta	Glucose fermenter	5.0	phypat
+M07066.fasta	Glucose fermenter	5.0	phypat+GGL
+M07066.fasta	Gram negative	5.0	phypat
+M07066.fasta	Gram negative	5.0	phypat+GGL
+M07066.fasta	Ornithine decarboxylase	5.0	phypat
+M07066.fasta	Ornithine decarboxylase	5.0	phypat+GGL
+M07066.fasta	Capnophilic	2.0	phypat
+M07066.fasta	Capnophilic	5.0	phypat+GGL
+M07066.fasta	Oxidase	5.0	phypat
+M07066.fasta	Oxidase	5.0	phypat+GGL
+M07066.fasta	Gas from glucose	2.0	phypat+GGL
+M07066.fasta	Alkaline phosphatase	5.0	phypat
+M07066.fasta	Alkaline phosphatase	5.0	phypat+GGL
+M07066.fasta	Hydrogen sulfide	1.0	phypat+GGL
+M07066.fasta	Facultative	5.0	phypat
+M07066.fasta	Facultative	5.0	phypat+GGL
+M07066.fasta	Bacillus or coccobacillus	5.0	phypat
+M07066.fasta	Bacillus or coccobacillus	5.0	phypat+GGL
+M07066.fasta	Coagulase production	1.0	phypat+GGL
+M11921.fasta	Indole	3.0	phypat
+M11921.fasta	Indole	1.0	phypat+GGL
+M11921.fasta	Catalase	5.0	phypat
+M11921.fasta	Catalase	5.0	phypat+GGL
+M11921.fasta	Growth at 42°C	4.0	phypat
+M11921.fasta	Growth at 42°C	1.0	phypat+GGL
+M11921.fasta	Maltose	5.0	phypat
+M11921.fasta	Maltose	5.0	phypat+GGL
+M11921.fasta	Growth on ordinary blood agar	1.0	phypat+GGL
+M11921.fasta	Colistin-Polymyxin susceptible	5.0	phypat
+M11921.fasta	Colistin-Polymyxin susceptible	5.0	phypat+GGL
+M11921.fasta	DNase	1.0	phypat+GGL
+M11921.fasta	Nitrate to nitrite	5.0	phypat
+M11921.fasta	Nitrate to nitrite	5.0	phypat+GGL
+M11921.fasta	Urea hydrolysis	5.0	phypat
+M11921.fasta	Urea hydrolysis	5.0	phypat+GGL
+M11921.fasta	Bile-susceptible	1.0	phypat+GGL
+M11921.fasta	Glucose fermenter	5.0	phypat
+M11921.fasta	Glucose fermenter	5.0	phypat+GGL
+M11921.fasta	Gram negative	5.0	phypat
+M11921.fasta	Gram negative	5.0	phypat+GGL
+M11921.fasta	Ornithine decarboxylase	2.0	phypat
+M11921.fasta	Capnophilic	2.0	phypat
+M11921.fasta	Capnophilic	5.0	phypat+GGL
+M11921.fasta	Oxidase	5.0	phypat
+M11921.fasta	Oxidase	5.0	phypat+GGL
+M11921.fasta	Gas from glucose	2.0	phypat+GGL
+M11921.fasta	Alkaline phosphatase	5.0	phypat
+M11921.fasta	Alkaline phosphatase	5.0	phypat+GGL
+M11921.fasta	Growth in KCN	5.0	phypat
+M11921.fasta	Growth in KCN	4.0	phypat+GGL
+M11921.fasta	Facultative	5.0	phypat
+M11921.fasta	Facultative	5.0	phypat+GGL
+M11921.fasta	Bacillus or coccobacillus	5.0	phypat
+M11921.fasta	Bacillus or coccobacillus	5.0	phypat+GGL
+M11921.fasta	Coagulase production	1.0	phypat+GGL
+H_sputum.fasta	Indole	3.0	phypat
+H_sputum.fasta	Indole	1.0	phypat+GGL
+H_sputum.fasta	Catalase	5.0	phypat
+H_sputum.fasta	Catalase	5.0	phypat+GGL
+H_sputum.fasta	ONPG (beta galactosidase)	5.0	phypat
+H_sputum.fasta	ONPG (beta galactosidase)	5.0	phypat+GGL
+H_sputum.fasta	Growth at 42°C	5.0	phypat
+H_sputum.fasta	Growth at 42°C	2.0	phypat+GGL
+H_sputum.fasta	Trehalose	1.0	phypat
+H_sputum.fasta	Maltose	5.0	phypat
+H_sputum.fasta	Maltose	5.0	phypat+GGL
+H_sputum.fasta	Growth on ordinary blood agar	1.0	phypat
+H_sputum.fasta	Growth on ordinary blood agar	5.0	phypat+GGL
+H_sputum.fasta	Colistin-Polymyxin susceptible	5.0	phypat
+H_sputum.fasta	Colistin-Polymyxin susceptible	5.0	phypat+GGL
+H_sputum.fasta	DNase	2.0	phypat
+H_sputum.fasta	DNase	1.0	phypat+GGL
+H_sputum.fasta	Methyl red	1.0	phypat
+H_sputum.fasta	Nitrate to nitrite	5.0	phypat
+H_sputum.fasta	Nitrate to nitrite	5.0	phypat+GGL
+H_sputum.fasta	Urea hydrolysis	5.0	phypat
+H_sputum.fasta	Urea hydrolysis	4.0	phypat+GGL
+H_sputum.fasta	D-Mannose	5.0	phypat
+H_sputum.fasta	D-Mannose	5.0	phypat+GGL
+H_sputum.fasta	Bile-susceptible	3.0	phypat+GGL
+H_sputum.fasta	Glucose fermenter	5.0	phypat
+H_sputum.fasta	Glucose fermenter	5.0	phypat+GGL
+H_sputum.fasta	Gram negative	5.0	phypat
+H_sputum.fasta	Gram negative	5.0	phypat+GGL
+H_sputum.fasta	Ornithine decarboxylase	3.0	phypat
+H_sputum.fasta	Capnophilic	5.0	phypat+GGL
+H_sputum.fasta	Oxidase	5.0	phypat
+H_sputum.fasta	Oxidase	5.0	phypat+GGL
+H_sputum.fasta	Gas from glucose	1.0	phypat+GGL
+H_sputum.fasta	Alkaline phosphatase	5.0	phypat
+H_sputum.fasta	Alkaline phosphatase	5.0	phypat+GGL
+H_sputum.fasta	Lactose	5.0	phypat+GGL
+H_sputum.fasta	Hydrogen sulfide	3.0	phypat+GGL
+H_sputum.fasta	Raffinose	4.0	phypat+GGL
+H_sputum.fasta	Facultative	5.0	phypat
+H_sputum.fasta	Facultative	5.0	phypat+GGL
+H_sputum.fasta	Bacillus or coccobacillus	5.0	phypat
+H_sputum.fasta	Bacillus or coccobacillus	5.0	phypat+GGL
+H_sputum.fasta	Sucrose	5.0	phypat
+H_sputum.fasta	Sucrose	5.0	phypat+GGL
+H_sputum.fasta	Coccus - pairs or chains predominate	4.0	phypat+GGL
+M28745.fasta	Indole	3.0	phypat
+M28745.fasta	Indole	1.0	phypat+GGL
+M28745.fasta	Catalase	5.0	phypat
+M28745.fasta	Catalase	5.0	phypat+GGL
+M28745.fasta	Growth at 42°C	1.0	phypat+GGL
+M28745.fasta	Maltose	2.0	phypat
+M28745.fasta	Maltose	2.0	phypat+GGL
+M28745.fasta	Growth on ordinary blood agar	2.0	phypat+GGL
+M28745.fasta	Colistin-Polymyxin susceptible	5.0	phypat
+M28745.fasta	Colistin-Polymyxin susceptible	5.0	phypat+GGL
+M28745.fasta	DNase	1.0	phypat+GGL
+M28745.fasta	Nitrate to nitrite	5.0	phypat
+M28745.fasta	Nitrate to nitrite	5.0	phypat+GGL
+M28745.fasta	Urea hydrolysis	5.0	phypat
+M28745.fasta	Urea hydrolysis	5.0	phypat+GGL
+M28745.fasta	Bile-susceptible	5.0	phypat
+M28745.fasta	Bile-susceptible	1.0	phypat+GGL
+M28745.fasta	Glucose fermenter	4.0	phypat
+M28745.fasta	Glucose fermenter	5.0	phypat+GGL
+M28745.fasta	Gram negative	5.0	phypat
+M28745.fasta	Gram negative	5.0	phypat+GGL
+M28745.fasta	Ornithine decarboxylase	2.0	phypat
+M28745.fasta	Capnophilic	2.0	phypat
+M28745.fasta	Capnophilic	5.0	phypat+GGL
+M28745.fasta	Oxidase	5.0	phypat
+M28745.fasta	Oxidase	5.0	phypat+GGL
+M28745.fasta	Gas from glucose	2.0	phypat+GGL
+M28745.fasta	Alkaline phosphatase	5.0	phypat
+M28745.fasta	Alkaline phosphatase	5.0	phypat+GGL
+M28745.fasta	Growth in KCN	5.0	phypat
+M28745.fasta	Growth in KCN	4.0	phypat+GGL
+M28745.fasta	Hydrogen sulfide	1.0	phypat+GGL
+M28745.fasta	Facultative	5.0	phypat
+M28745.fasta	Facultative	5.0	phypat+GGL
+M28745.fasta	Bacillus or coccobacillus	5.0	phypat
+M28745.fasta	Bacillus or coccobacillus	5.0	phypat+GGL
+M28745.fasta	Coagulase production	1.0	phypat+GGL
+M19476.fasta	Indole	3.0	phypat
+M19476.fasta	Catalase	5.0	phypat
+M19476.fasta	Catalase	5.0	phypat+GGL
+M19476.fasta	Growth at 42°C	5.0	phypat
+M19476.fasta	Growth at 42°C	4.0	phypat+GGL
+M19476.fasta	Maltose	5.0	phypat
+M19476.fasta	Maltose	4.0	phypat+GGL
+M19476.fasta	Growth on ordinary blood agar	3.0	phypat+GGL
+M19476.fasta	Colistin-Polymyxin susceptible	5.0	phypat
+M19476.fasta	Colistin-Polymyxin susceptible	5.0	phypat+GGL
+M19476.fasta	DNase	1.0	phypat
+M19476.fasta	DNase	2.0	phypat+GGL
+M19476.fasta	Methyl red	1.0	phypat
+M19476.fasta	Nitrate to nitrite	5.0	phypat
+M19476.fasta	Nitrate to nitrite	5.0	phypat+GGL
+M19476.fasta	Urea hydrolysis	5.0	phypat
+M19476.fasta	Urea hydrolysis	4.0	phypat+GGL
+M19476.fasta	D-Mannose	5.0	phypat
+M19476.fasta	Bile-susceptible	1.0	phypat
+M19476.fasta	Bile-susceptible	1.0	phypat+GGL
+M19476.fasta	Glucose fermenter	5.0	phypat
+M19476.fasta	Glucose fermenter	5.0	phypat+GGL
+M19476.fasta	Gram negative	5.0	phypat
+M19476.fasta	Gram negative	5.0	phypat+GGL
+M19476.fasta	Ornithine decarboxylase	2.0	phypat
+M19476.fasta	Capnophilic	5.0	phypat
+M19476.fasta	Capnophilic	5.0	phypat+GGL
+M19476.fasta	Oxidase	5.0	phypat
+M19476.fasta	Oxidase	5.0	phypat+GGL
+M19476.fasta	Gas from glucose	1.0	phypat
+M19476.fasta	Gas from glucose	2.0	phypat+GGL
+M19476.fasta	Alkaline phosphatase	5.0	phypat
+M19476.fasta	Alkaline phosphatase	5.0	phypat+GGL
+M19476.fasta	Growth in KCN	5.0	phypat
+M19476.fasta	Growth in KCN	4.0	phypat+GGL
+M19476.fasta	Hydrogen sulfide	1.0	phypat+GGL
+M19476.fasta	Facultative	5.0	phypat
+M19476.fasta	Facultative	5.0	phypat+GGL
+M19476.fasta	Bacillus or coccobacillus	5.0	phypat
+M19476.fasta	Bacillus or coccobacillus	5.0	phypat+GGL
+M19080.fasta	Indole	3.0	phypat
+M19080.fasta	Indole	1.0	phypat+GGL
+M19080.fasta	Catalase	5.0	phypat
+M19080.fasta	Catalase	5.0	phypat+GGL
+M19080.fasta	Growth at 42°C	1.0	phypat
+M19080.fasta	Growth at 42°C	1.0	phypat+GGL
+M19080.fasta	Maltose	5.0	phypat
+M19080.fasta	Maltose	5.0	phypat+GGL
+M19080.fasta	Growth on ordinary blood agar	1.0	phypat+GGL
+M19080.fasta	Colistin-Polymyxin susceptible	5.0	phypat
+M19080.fasta	Colistin-Polymyxin susceptible	5.0	phypat+GGL
+M19080.fasta	DNase	2.0	phypat
+M19080.fasta	DNase	1.0	phypat+GGL
+M19080.fasta	Methyl red	1.0	phypat
+M19080.fasta	Nitrate to nitrite	5.0	phypat
+M19080.fasta	Nitrate to nitrite	5.0	phypat+GGL
+M19080.fasta	D-Mannose	4.0	phypat
+M19080.fasta	Bile-susceptible	1.0	phypat
+M19080.fasta	Bile-susceptible	1.0	phypat+GGL
+M19080.fasta	Glucose fermenter	5.0	phypat
+M19080.fasta	Glucose fermenter	5.0	phypat+GGL
+M19080.fasta	Gram negative	5.0	phypat
+M19080.fasta	Gram negative	5.0	phypat+GGL
+M19080.fasta	Ornithine decarboxylase	2.0	phypat
+M19080.fasta	Capnophilic	5.0	phypat
+M19080.fasta	Capnophilic	5.0	phypat+GGL
+M19080.fasta	Oxidase	5.0	phypat
+M19080.fasta	Oxidase	5.0	phypat+GGL
+M19080.fasta	Gas from glucose	1.0	phypat
+M19080.fasta	Gas from glucose	4.0	phypat+GGL
+M19080.fasta	Alkaline phosphatase	5.0	phypat
+M19080.fasta	Alkaline phosphatase	5.0	phypat+GGL
+M19080.fasta	Growth in KCN	5.0	phypat
+M19080.fasta	Growth in KCN	4.0	phypat+GGL
+M19080.fasta	Hydrogen sulfide	2.0	phypat
+M19080.fasta	Hydrogen sulfide	1.0	phypat+GGL
+M19080.fasta	Facultative	5.0	phypat
+M19080.fasta	Facultative	5.0	phypat+GGL
+M19080.fasta	Bacillus or coccobacillus	5.0	phypat
+M19080.fasta	Bacillus or coccobacillus	5.0	phypat+GGL
+H_parainfluenzae.fasta	Indole	2.0	phypat
+H_parainfluenzae.fasta	Catalase	4.0	phypat+GGL
+H_parainfluenzae.fasta	ONPG (beta galactosidase)	5.0	phypat
+H_parainfluenzae.fasta	ONPG (beta galactosidase)	1.0	phypat+GGL
+H_parainfluenzae.fasta	Growth at 42°C	5.0	phypat
+H_parainfluenzae.fasta	Growth at 42°C	1.0	phypat+GGL
+H_parainfluenzae.fasta	Maltose	5.0	phypat
+H_parainfluenzae.fasta	Maltose	5.0	phypat+GGL
+H_parainfluenzae.fasta	Growth on ordinary blood agar	1.0	phypat+GGL
+H_parainfluenzae.fasta	Colistin-Polymyxin susceptible	5.0	phypat
+H_parainfluenzae.fasta	Colistin-Polymyxin susceptible	5.0	phypat+GGL
+H_parainfluenzae.fasta	myo-Inositol	1.0	phypat+GGL
+H_parainfluenzae.fasta	Methyl red	1.0	phypat
+H_parainfluenzae.fasta	Nitrate to nitrite	5.0	phypat
+H_parainfluenzae.fasta	Nitrate to nitrite	5.0	phypat+GGL
+H_parainfluenzae.fasta	D-Mannose	5.0	phypat
+H_parainfluenzae.fasta	D-Mannose	5.0	phypat+GGL
+H_parainfluenzae.fasta	Bile-susceptible	4.0	phypat
+H_parainfluenzae.fasta	Bile-susceptible	3.0	phypat+GGL
+H_parainfluenzae.fasta	Glucose fermenter	5.0	phypat
+H_parainfluenzae.fasta	Glucose fermenter	5.0	phypat+GGL
+H_parainfluenzae.fasta	Gram negative	5.0	phypat
+H_parainfluenzae.fasta	Gram negative	5.0	phypat+GGL
+H_parainfluenzae.fasta	Ornithine decarboxylase	5.0	phypat
+H_parainfluenzae.fasta	Ornithine decarboxylase	3.0	phypat+GGL
+H_parainfluenzae.fasta	Capnophilic	2.0	phypat
+H_parainfluenzae.fasta	Capnophilic	2.0	phypat+GGL
+H_parainfluenzae.fasta	Oxidase	5.0	phypat
+H_parainfluenzae.fasta	Oxidase	5.0	phypat+GGL
+H_parainfluenzae.fasta	Gas from glucose	2.0	phypat
+H_parainfluenzae.fasta	Gas from glucose	2.0	phypat+GGL
+H_parainfluenzae.fasta	Alkaline phosphatase	5.0	phypat
+H_parainfluenzae.fasta	Alkaline phosphatase	5.0	phypat+GGL
+H_parainfluenzae.fasta	Hydrogen sulfide	1.0	phypat+GGL
+H_parainfluenzae.fasta	Facultative	5.0	phypat
+H_parainfluenzae.fasta	Facultative	5.0	phypat+GGL
+H_parainfluenzae.fasta	Bacillus or coccobacillus	5.0	phypat
+H_parainfluenzae.fasta	Bacillus or coccobacillus	5.0	phypat+GGL
+H_parainfluenzae.fasta	Sucrose	5.0	phypat
+H_parainfluenzae.fasta	Sucrose	5.0	phypat+GGL
+M27986.fasta	Indole	3.0	phypat
+M27986.fasta	Indole	3.0	phypat+GGL
+M27986.fasta	Catalase	5.0	phypat
+M27986.fasta	Catalase	5.0	phypat+GGL
+M27986.fasta	Growth at 42°C	1.0	phypat
+M27986.fasta	Growth at 42°C	1.0	phypat+GGL
+M27986.fasta	Maltose	5.0	phypat
+M27986.fasta	Maltose	3.0	phypat+GGL
+M27986.fasta	Growth on ordinary blood agar	3.0	phypat+GGL
+M27986.fasta	Colistin-Polymyxin susceptible	5.0	phypat
+M27986.fasta	Colistin-Polymyxin susceptible	5.0	phypat+GGL
+M27986.fasta	DNase	1.0	phypat
+M27986.fasta	DNase	1.0	phypat+GGL
+M27986.fasta	Nitrate to nitrite	5.0	phypat
+M27986.fasta	Nitrate to nitrite	5.0	phypat+GGL
+M27986.fasta	Urea hydrolysis	5.0	phypat
+M27986.fasta	Urea hydrolysis	5.0	phypat+GGL
+M27986.fasta	Bile-susceptible	1.0	phypat+GGL
+M27986.fasta	Glucose fermenter	5.0	phypat
+M27986.fasta	Glucose fermenter	5.0	phypat+GGL
+M27986.fasta	Gram negative	5.0	phypat
+M27986.fasta	Gram negative	5.0	phypat+GGL
+M27986.fasta	Ornithine decarboxylase	5.0	phypat
+M27986.fasta	Ornithine decarboxylase	4.0	phypat+GGL
+M27986.fasta	Capnophilic	1.0	phypat
+M27986.fasta	Capnophilic	2.0	phypat+GGL
+M27986.fasta	Oxidase	5.0	phypat
+M27986.fasta	Oxidase	5.0	phypat+GGL
+M27986.fasta	Gas from glucose	2.0	phypat+GGL
+M27986.fasta	Alkaline phosphatase	5.0	phypat
+M27986.fasta	Alkaline phosphatase	5.0	phypat+GGL
+M27986.fasta	Growth in KCN	5.0	phypat
+M27986.fasta	Growth in KCN	4.0	phypat+GGL
+M27986.fasta	Facultative	5.0	phypat
+M27986.fasta	Facultative	5.0	phypat+GGL
+M27986.fasta	Bacillus or coccobacillus	5.0	phypat
+M27986.fasta	Bacillus or coccobacillus	5.0	phypat+GGL
+M27986.fasta	Coagulase production	1.0	phypat+GGL
+H_pittmaniae.fasta	Indole	3.0	phypat
+H_pittmaniae.fasta	Catalase	5.0	phypat+GGL
+H_pittmaniae.fasta	ONPG (beta galactosidase)	5.0	phypat
+H_pittmaniae.fasta	ONPG (beta galactosidase)	2.0	phypat+GGL
+H_pittmaniae.fasta	Growth at 42°C	4.0	phypat
+H_pittmaniae.fasta	Growth at 42°C	1.0	phypat+GGL
+H_pittmaniae.fasta	Maltose	5.0	phypat
+H_pittmaniae.fasta	Maltose	5.0	phypat+GGL
+H_pittmaniae.fasta	Growth on ordinary blood agar	5.0	phypat+GGL
+H_pittmaniae.fasta	Colistin-Polymyxin susceptible	5.0	phypat
+H_pittmaniae.fasta	Colistin-Polymyxin susceptible	5.0	phypat+GGL
+H_pittmaniae.fasta	DNase	1.0	phypat
+H_pittmaniae.fasta	DNase	1.0	phypat+GGL
+H_pittmaniae.fasta	Methyl red	1.0	phypat
+H_pittmaniae.fasta	Nitrate to nitrite	5.0	phypat
+H_pittmaniae.fasta	Nitrate to nitrite	5.0	phypat+GGL
+H_pittmaniae.fasta	D-Mannose	5.0	phypat
+H_pittmaniae.fasta	D-Mannose	5.0	phypat+GGL
+H_pittmaniae.fasta	Bile-susceptible	4.0	phypat
+H_pittmaniae.fasta	Bile-susceptible	3.0	phypat+GGL
+H_pittmaniae.fasta	Glucose fermenter	5.0	phypat
+H_pittmaniae.fasta	Glucose fermenter	5.0	phypat+GGL
+H_pittmaniae.fasta	Gram negative	5.0	phypat
+H_pittmaniae.fasta	Gram negative	5.0	phypat+GGL
+H_pittmaniae.fasta	Ornithine decarboxylase	2.0	phypat
+H_pittmaniae.fasta	Capnophilic	5.0	phypat
+H_pittmaniae.fasta	Capnophilic	5.0	phypat+GGL
+H_pittmaniae.fasta	Oxidase	5.0	phypat
+H_pittmaniae.fasta	Oxidase	5.0	phypat+GGL
+H_pittmaniae.fasta	Gas from glucose	5.0	phypat
+H_pittmaniae.fasta	Gas from glucose	5.0	phypat+GGL
+H_pittmaniae.fasta	Alkaline phosphatase	5.0	phypat
+H_pittmaniae.fasta	Alkaline phosphatase	5.0	phypat+GGL
+H_pittmaniae.fasta	Lactose	5.0	phypat+GGL
+H_pittmaniae.fasta	Growth in KCN	5.0	phypat
+H_pittmaniae.fasta	Growth in KCN	4.0	phypat+GGL
+H_pittmaniae.fasta	Hydrogen sulfide	1.0	phypat+GGL
+H_pittmaniae.fasta	Raffinose	1.0	phypat
+H_pittmaniae.fasta	Facultative	5.0	phypat
+H_pittmaniae.fasta	Facultative	5.0	phypat+GGL
+H_pittmaniae.fasta	Bacillus or coccobacillus	5.0	phypat
+H_pittmaniae.fasta	Bacillus or coccobacillus	5.0	phypat+GGL
+H_pittmaniae.fasta	Sucrose	5.0	phypat
+H_pittmaniae.fasta	Sucrose	5.0	phypat+GGL
+2019.fasta	Indole	3.0	phypat
+2019.fasta	Indole	3.0	phypat+GGL
+2019.fasta	D-Xylose	2.0	phypat+GGL
+2019.fasta	Catalase	5.0	phypat
+2019.fasta	Catalase	5.0	phypat+GGL
+2019.fasta	Growth at 42°C	1.0	phypat
+2019.fasta	Growth at 42°C	1.0	phypat+GGL
+2019.fasta	Maltose	5.0	phypat
+2019.fasta	Maltose	5.0	phypat+GGL
+2019.fasta	Growth on ordinary blood agar	2.0	phypat+GGL
+2019.fasta	Colistin-Polymyxin susceptible	5.0	phypat
+2019.fasta	Colistin-Polymyxin susceptible	5.0	phypat+GGL
+2019.fasta	DNase	1.0	phypat+GGL
+2019.fasta	Nitrate to nitrite	5.0	phypat
+2019.fasta	Nitrate to nitrite	5.0	phypat+GGL
+2019.fasta	Urea hydrolysis	5.0	phypat
+2019.fasta	Urea hydrolysis	5.0	phypat+GGL
+2019.fasta	Bile-susceptible	1.0	phypat+GGL
+2019.fasta	Glucose fermenter	4.0	phypat
+2019.fasta	Glucose fermenter	5.0	phypat+GGL
+2019.fasta	Gram negative	5.0	phypat
+2019.fasta	Gram negative	5.0	phypat+GGL
+2019.fasta	Ornithine decarboxylase	3.0	phypat
+2019.fasta	Capnophilic	2.0	phypat
+2019.fasta	Capnophilic	5.0	phypat+GGL
+2019.fasta	Oxidase	5.0	phypat
+2019.fasta	Oxidase	5.0	phypat+GGL
+2019.fasta	Gas from glucose	2.0	phypat+GGL
+2019.fasta	Alkaline phosphatase	5.0	phypat
+2019.fasta	Alkaline phosphatase	5.0	phypat+GGL
+2019.fasta	Growth in KCN	5.0	phypat
+2019.fasta	Growth in KCN	4.0	phypat+GGL
+2019.fasta	Hydrogen sulfide	1.0	phypat+GGL
+2019.fasta	Facultative	5.0	phypat
+2019.fasta	Facultative	5.0	phypat+GGL
+2019.fasta	Bacillus or coccobacillus	5.0	phypat
+2019.fasta	Bacillus or coccobacillus	5.0	phypat+GGL
+2019.fasta	Coagulase production	1.0	phypat+GGL
+M28702.fasta	Indole	3.0	phypat
+M28702.fasta	Indole	3.0	phypat+GGL
+M28702.fasta	Catalase	5.0	phypat
+M28702.fasta	Catalase	5.0	phypat+GGL
+M28702.fasta	Growth at 42°C	4.0	phypat
+M28702.fasta	Growth at 42°C	1.0	phypat+GGL
+M28702.fasta	Maltose	5.0	phypat
+M28702.fasta	Maltose	5.0	phypat+GGL
+M28702.fasta	Growth on ordinary blood agar	2.0	phypat+GGL
+M28702.fasta	Colistin-Polymyxin susceptible	5.0	phypat
+M28702.fasta	Colistin-Polymyxin susceptible	5.0	phypat+GGL
+M28702.fasta	DNase	1.0	phypat
+M28702.fasta	DNase	1.0	phypat+GGL
+M28702.fasta	Methyl red	3.0	phypat
+M28702.fasta	Nitrate to nitrite	5.0	phypat
+M28702.fasta	Nitrate to nitrite	5.0	phypat+GGL
+M28702.fasta	Urea hydrolysis	5.0	phypat
+M28702.fasta	Urea hydrolysis	5.0	phypat+GGL
+M28702.fasta	Bile-susceptible	5.0	phypat
+M28702.fasta	Bile-susceptible	3.0	phypat+GGL
+M28702.fasta	Glucose fermenter	4.0	phypat
+M28702.fasta	Glucose fermenter	5.0	phypat+GGL
+M28702.fasta	Gram negative	5.0	phypat
+M28702.fasta	Gram negative	5.0	phypat+GGL
+M28702.fasta	Ornithine decarboxylase	2.0	phypat
+M28702.fasta	Capnophilic	1.0	phypat
+M28702.fasta	Capnophilic	5.0	phypat+GGL
+M28702.fasta	Oxidase	5.0	phypat
+M28702.fasta	Oxidase	5.0	phypat+GGL
+M28702.fasta	Gas from glucose	2.0	phypat+GGL
+M28702.fasta	Alkaline phosphatase	5.0	phypat
+M28702.fasta	Alkaline phosphatase	5.0	phypat+GGL
+M28702.fasta	Hydrogen sulfide	1.0	phypat+GGL
+M28702.fasta	Facultative	5.0	phypat
+M28702.fasta	Facultative	5.0	phypat+GGL
+M28702.fasta	Bacillus or coccobacillus	5.0	phypat
+M28702.fasta	Bacillus or coccobacillus	5.0	phypat+GGL
+M28702.fasta	Coagulase production	1.0	phypat+GGL
+M11900.fasta	Indole	3.0	phypat
+M11900.fasta	Indole	1.0	phypat+GGL
+M11900.fasta	Catalase	5.0	phypat
+M11900.fasta	Catalase	5.0	phypat+GGL
+M11900.fasta	Growth at 42°C	4.0	phypat
+M11900.fasta	Growth at 42°C	1.0	phypat+GGL
+M11900.fasta	Maltose	5.0	phypat
+M11900.fasta	Maltose	4.0	phypat+GGL
+M11900.fasta	Growth on ordinary blood agar	1.0	phypat+GGL
+M11900.fasta	Colistin-Polymyxin susceptible	5.0	phypat
+M11900.fasta	Colistin-Polymyxin susceptible	5.0	phypat+GGL
+M11900.fasta	DNase	1.0	phypat
+M11900.fasta	DNase	1.0	phypat+GGL
+M11900.fasta	Methyl red	2.0	phypat
+M11900.fasta	Nitrate to nitrite	5.0	phypat
+M11900.fasta	Nitrate to nitrite	5.0	phypat+GGL
+M11900.fasta	Urea hydrolysis	5.0	phypat
+M11900.fasta	Urea hydrolysis	5.0	phypat+GGL
+M11900.fasta	Bile-susceptible	5.0	phypat
+M11900.fasta	Bile-susceptible	1.0	phypat+GGL
+M11900.fasta	Glucose fermenter	5.0	phypat
+M11900.fasta	Glucose fermenter	5.0	phypat+GGL
+M11900.fasta	Gram negative	5.0	phypat
+M11900.fasta	Gram negative	5.0	phypat+GGL
+M11900.fasta	Ornithine decarboxylase	2.0	phypat
+M11900.fasta	Capnophilic	2.0	phypat
+M11900.fasta	Capnophilic	5.0	phypat+GGL
+M11900.fasta	Oxidase	5.0	phypat
+M11900.fasta	Oxidase	5.0	phypat+GGL
+M11900.fasta	Gas from glucose	2.0	phypat+GGL
+M11900.fasta	Alkaline phosphatase	5.0	phypat
+M11900.fasta	Alkaline phosphatase	5.0	phypat+GGL
+M11900.fasta	Hydrogen sulfide	1.0	phypat+GGL
+M11900.fasta	Facultative	5.0	phypat
+M11900.fasta	Facultative	5.0	phypat+GGL
+M11900.fasta	Bacillus or coccobacillus	5.0	phypat
+M11900.fasta	Bacillus or coccobacillus	5.0	phypat+GGL
+M11900.fasta	Coagulase production	1.0	phypat+GGL
+M27987.fasta	Indole	3.0	phypat
+M27987.fasta	Indole	3.0	phypat+GGL
+M27987.fasta	Catalase	5.0	phypat
+M27987.fasta	Catalase	5.0	phypat+GGL
+M27987.fasta	Growth at 42°C	1.0	phypat
+M27987.fasta	Growth at 42°C	1.0	phypat+GGL
+M27987.fasta	Maltose	5.0	phypat
+M27987.fasta	Maltose	3.0	phypat+GGL
+M27987.fasta	Growth on ordinary blood agar	3.0	phypat+GGL
+M27987.fasta	Colistin-Polymyxin susceptible	5.0	phypat
+M27987.fasta	Colistin-Polymyxin susceptible	5.0	phypat+GGL
+M27987.fasta	DNase	1.0	phypat
+M27987.fasta	DNase	1.0	phypat+GGL
+M27987.fasta	Nitrate to nitrite	5.0	phypat
+M27987.fasta	Nitrate to nitrite	5.0	phypat+GGL
+M27987.fasta	Urea hydrolysis	5.0	phypat
+M27987.fasta	Urea hydrolysis	5.0	phypat+GGL
+M27987.fasta	Bile-susceptible	1.0	phypat+GGL
+M27987.fasta	Glucose fermenter	5.0	phypat
+M27987.fasta	Glucose fermenter	5.0	phypat+GGL
+M27987.fasta	Gram negative	5.0	phypat
+M27987.fasta	Gram negative	5.0	phypat+GGL
+M27987.fasta	Ornithine decarboxylase	5.0	phypat
+M27987.fasta	Ornithine decarboxylase	4.0	phypat+GGL
+M27987.fasta	Capnophilic	1.0	phypat
+M27987.fasta	Capnophilic	2.0	phypat+GGL
+M27987.fasta	Oxidase	5.0	phypat
+M27987.fasta	Oxidase	5.0	phypat+GGL
+M27987.fasta	Gas from glucose	2.0	phypat+GGL
+M27987.fasta	Alkaline phosphatase	5.0	phypat
+M27987.fasta	Alkaline phosphatase	5.0	phypat+GGL
+M27987.fasta	Growth in KCN	5.0	phypat
+M27987.fasta	Growth in KCN	4.0	phypat+GGL
+M27987.fasta	Facultative	5.0	phypat
+M27987.fasta	Facultative	5.0	phypat+GGL
+M27987.fasta	Bacillus or coccobacillus	5.0	phypat
+M27987.fasta	Bacillus or coccobacillus	5.0	phypat+GGL
+M27987.fasta	Coagulase production	1.0	phypat+GGL
+M11908.fasta	Indole	3.0	phypat
+M11908.fasta	Indole	2.0	phypat+GGL
+M11908.fasta	Catalase	5.0	phypat
+M11908.fasta	Catalase	5.0	phypat+GGL
+M11908.fasta	Growth at 42°C	4.0	phypat
+M11908.fasta	Growth at 42°C	2.0	phypat+GGL
+M11908.fasta	Maltose	5.0	phypat
+M11908.fasta	Maltose	1.0	phypat+GGL
+M11908.fasta	Growth on ordinary blood agar	1.0	phypat+GGL
+M11908.fasta	Colistin-Polymyxin susceptible	5.0	phypat
+M11908.fasta	Colistin-Polymyxin susceptible	5.0	phypat+GGL
+M11908.fasta	DNase	3.0	phypat
+M11908.fasta	DNase	1.0	phypat+GGL
+M11908.fasta	Methyl red	3.0	phypat
+M11908.fasta	Nitrate to nitrite	5.0	phypat
+M11908.fasta	Nitrate to nitrite	5.0	phypat+GGL
+M11908.fasta	Urea hydrolysis	5.0	phypat
+M11908.fasta	Urea hydrolysis	5.0	phypat+GGL
+M11908.fasta	Bile-susceptible	5.0	phypat
+M11908.fasta	Bile-susceptible	2.0	phypat+GGL
+M11908.fasta	Glucose fermenter	4.0	phypat
+M11908.fasta	Glucose fermenter	5.0	phypat+GGL
+M11908.fasta	Gram negative	5.0	phypat
+M11908.fasta	Gram negative	5.0	phypat+GGL
+M11908.fasta	Ornithine decarboxylase	2.0	phypat
+M11908.fasta	Capnophilic	1.0	phypat
+M11908.fasta	Capnophilic	5.0	phypat+GGL
+M11908.fasta	Oxidase	5.0	phypat
+M11908.fasta	Oxidase	5.0	phypat+GGL
+M11908.fasta	Gas from glucose	2.0	phypat+GGL
+M11908.fasta	Alkaline phosphatase	5.0	phypat
+M11908.fasta	Alkaline phosphatase	5.0	phypat+GGL
+M11908.fasta	Hydrogen sulfide	1.0	phypat+GGL
+M11908.fasta	Facultative	5.0	phypat
+M11908.fasta	Facultative	5.0	phypat+GGL
+M11908.fasta	Bacillus or coccobacillus	5.0	phypat
+M11908.fasta	Bacillus or coccobacillus	5.0	phypat+GGL
+M11908.fasta	Coagulase production	1.0	phypat+GGL
+M29307.fasta	Indole	3.0	phypat
+M29307.fasta	Indole	1.0	phypat+GGL
+M29307.fasta	Catalase	5.0	phypat
+M29307.fasta	Catalase	5.0	phypat+GGL
+M29307.fasta	Growth at 42°C	1.0	phypat+GGL
+M29307.fasta	Maltose	5.0	phypat
+M29307.fasta	Maltose	5.0	phypat+GGL
+M29307.fasta	Growth on ordinary blood agar	1.0	phypat+GGL
+M29307.fasta	Colistin-Polymyxin susceptible	5.0	phypat
+M29307.fasta	Colistin-Polymyxin susceptible	5.0	phypat+GGL
+M29307.fasta	DNase	1.0	phypat
+M29307.fasta	DNase	1.0	phypat+GGL
+M29307.fasta	Methyl red	1.0	phypat
+M29307.fasta	Nitrate to nitrite	5.0	phypat
+M29307.fasta	Nitrate to nitrite	5.0	phypat+GGL
+M29307.fasta	Urea hydrolysis	5.0	phypat
+M29307.fasta	Urea hydrolysis	5.0	phypat+GGL
+M29307.fasta	D-Mannose	1.0	phypat
+M29307.fasta	Bile-susceptible	1.0	phypat+GGL
+M29307.fasta	Glucose fermenter	4.0	phypat
+M29307.fasta	Glucose fermenter	5.0	phypat+GGL
+M29307.fasta	Gram negative	5.0	phypat
+M29307.fasta	Gram negative	5.0	phypat+GGL
+M29307.fasta	Ornithine decarboxylase	5.0	phypat
+M29307.fasta	Ornithine decarboxylase	2.0	phypat+GGL
+M29307.fasta	Capnophilic	3.0	phypat
+M29307.fasta	Capnophilic	5.0	phypat+GGL
+M29307.fasta	Oxidase	5.0	phypat
+M29307.fasta	Oxidase	5.0	phypat+GGL
+M29307.fasta	Gas from glucose	2.0	phypat+GGL
+M29307.fasta	Alkaline phosphatase	5.0	phypat
+M29307.fasta	Alkaline phosphatase	5.0	phypat+GGL
+M29307.fasta	Facultative	5.0	phypat
+M29307.fasta	Facultative	5.0	phypat+GGL
+M29307.fasta	Bacillus or coccobacillus	5.0	phypat
+M29307.fasta	Bacillus or coccobacillus	5.0	phypat+GGL
+M29307.fasta	Coagulase production	1.0	phypat+GGL
+M29400.fasta	Indole	3.0	phypat
+M29400.fasta	Indole	3.0	phypat+GGL
+M29400.fasta	Catalase	5.0	phypat
+M29400.fasta	Catalase	5.0	phypat+GGL
+M29400.fasta	Growth at 42°C	4.0	phypat
+M29400.fasta	Growth at 42°C	3.0	phypat+GGL
+M29400.fasta	Maltose	5.0	phypat
+M29400.fasta	Maltose	1.0	phypat+GGL
+M29400.fasta	Growth on ordinary blood agar	1.0	phypat+GGL
+M29400.fasta	Colistin-Polymyxin susceptible	5.0	phypat
+M29400.fasta	Colistin-Polymyxin susceptible	5.0	phypat+GGL
+M29400.fasta	DNase	2.0	phypat
+M29400.fasta	DNase	1.0	phypat+GGL
+M29400.fasta	Methyl red	2.0	phypat
+M29400.fasta	Nitrate to nitrite	5.0	phypat
+M29400.fasta	Nitrate to nitrite	5.0	phypat+GGL
+M29400.fasta	Urea hydrolysis	5.0	phypat
+M29400.fasta	Urea hydrolysis	5.0	phypat+GGL
+M29400.fasta	Bile-susceptible	5.0	phypat
+M29400.fasta	Bile-susceptible	1.0	phypat+GGL
+M29400.fasta	Glucose fermenter	5.0	phypat
+M29400.fasta	Glucose fermenter	5.0	phypat+GGL
+M29400.fasta	Gram negative	5.0	phypat
+M29400.fasta	Gram negative	5.0	phypat+GGL
+M29400.fasta	Ornithine decarboxylase	2.0	phypat
+M29400.fasta	Capnophilic	1.0	phypat
+M29400.fasta	Capnophilic	4.0	phypat+GGL
+M29400.fasta	Oxidase	5.0	phypat
+M29400.fasta	Oxidase	5.0	phypat+GGL
+M29400.fasta	Gas from glucose	2.0	phypat+GGL
+M29400.fasta	Alkaline phosphatase	5.0	phypat
+M29400.fasta	Alkaline phosphatase	5.0	phypat+GGL
+M29400.fasta	Hydrogen sulfide	1.0	phypat+GGL
+M29400.fasta	Facultative	5.0	phypat
+M29400.fasta	Facultative	5.0	phypat+GGL
+M29400.fasta	Bacillus or coccobacillus	5.0	phypat
+M29400.fasta	Bacillus or coccobacillus	5.0	phypat+GGL
+M29400.fasta	Coagulase production	1.0	phypat+GGL
+M29695.fasta	Indole	3.0	phypat
+M29695.fasta	Indole	3.0	phypat+GGL
+M29695.fasta	Catalase	5.0	phypat
+M29695.fasta	Catalase	5.0	phypat+GGL
+M29695.fasta	Growth at 42°C	4.0	phypat
+M29695.fasta	Growth at 42°C	4.0	phypat+GGL
+M29695.fasta	Maltose	5.0	phypat
+M29695.fasta	Maltose	1.0	phypat+GGL
+M29695.fasta	Growth on ordinary blood agar	2.0	phypat+GGL
+M29695.fasta	Colistin-Polymyxin susceptible	5.0	phypat
+M29695.fasta	Colistin-Polymyxin susceptible	5.0	phypat+GGL
+M29695.fasta	DNase	2.0	phypat
+M29695.fasta	DNase	1.0	phypat+GGL
+M29695.fasta	Methyl red	1.0	phypat
+M29695.fasta	Nitrate to nitrite	5.0	phypat
+M29695.fasta	Nitrate to nitrite	5.0	phypat+GGL
+M29695.fasta	Urea hydrolysis	5.0	phypat
+M29695.fasta	Urea hydrolysis	5.0	phypat+GGL
+M29695.fasta	Bile-susceptible	5.0	phypat
+M29695.fasta	Bile-susceptible	1.0	phypat+GGL
+M29695.fasta	Glucose fermenter	5.0	phypat
+M29695.fasta	Glucose fermenter	5.0	phypat+GGL
+M29695.fasta	Gram negative	5.0	phypat
+M29695.fasta	Gram negative	5.0	phypat+GGL
+M29695.fasta	Ornithine decarboxylase	2.0	phypat
+M29695.fasta	Capnophilic	3.0	phypat
+M29695.fasta	Capnophilic	5.0	phypat+GGL
+M29695.fasta	Oxidase	5.0	phypat
+M29695.fasta	Oxidase	5.0	phypat+GGL
+M29695.fasta	Gas from glucose	2.0	phypat+GGL
+M29695.fasta	Alkaline phosphatase	5.0	phypat
+M29695.fasta	Alkaline phosphatase	5.0	phypat+GGL
+M29695.fasta	Growth in KCN	5.0	phypat
+M29695.fasta	Growth in KCN	4.0	phypat+GGL
+M29695.fasta	Hydrogen sulfide	1.0	phypat+GGL
+M29695.fasta	Facultative	5.0	phypat
+M29695.fasta	Facultative	5.0	phypat+GGL
+M29695.fasta	Bacillus or coccobacillus	5.0	phypat
+M29695.fasta	Bacillus or coccobacillus	5.0	phypat+GGL
+M29695.fasta	Coagulase production	1.0	phypat+GGL
+M19107.fasta	Indole	3.0	phypat
+M19107.fasta	Catalase	5.0	phypat
+M19107.fasta	Catalase	5.0	phypat+GGL
+M19107.fasta	Growth at 42°C	2.0	phypat
+M19107.fasta	Growth at 42°C	2.0	phypat+GGL
+M19107.fasta	Trehalose	4.0	phypat
+M19107.fasta	Maltose	5.0	phypat
+M19107.fasta	Maltose	5.0	phypat+GGL
+M19107.fasta	Growth on ordinary blood agar	3.0	phypat+GGL
+M19107.fasta	Colistin-Polymyxin susceptible	5.0	phypat
+M19107.fasta	Colistin-Polymyxin susceptible	5.0	phypat+GGL
+M19107.fasta	DNase	1.0	phypat+GGL
+M19107.fasta	Methyl red	1.0	phypat
+M19107.fasta	Nitrate to nitrite	5.0	phypat
+M19107.fasta	Nitrate to nitrite	5.0	phypat+GGL
+M19107.fasta	Urea hydrolysis	5.0	phypat
+M19107.fasta	Urea hydrolysis	4.0	phypat+GGL
+M19107.fasta	D-Mannose	5.0	phypat
+M19107.fasta	Bile-susceptible	1.0	phypat
+M19107.fasta	Bile-susceptible	1.0	phypat+GGL
+M19107.fasta	Glucose fermenter	5.0	phypat
+M19107.fasta	Glucose fermenter	5.0	phypat+GGL
+M19107.fasta	Gram negative	5.0	phypat
+M19107.fasta	Gram negative	5.0	phypat+GGL
+M19107.fasta	Ornithine decarboxylase	2.0	phypat
+M19107.fasta	Capnophilic	4.0	phypat
+M19107.fasta	Capnophilic	2.0	phypat+GGL
+M19107.fasta	Oxidase	5.0	phypat
+M19107.fasta	Oxidase	5.0	phypat+GGL
+M19107.fasta	Gas from glucose	1.0	phypat
+M19107.fasta	Gas from glucose	2.0	phypat+GGL
+M19107.fasta	Alkaline phosphatase	5.0	phypat
+M19107.fasta	Alkaline phosphatase	5.0	phypat+GGL
+M19107.fasta	Growth in KCN	1.0	phypat
+M19107.fasta	Hydrogen sulfide	3.0	phypat
+M19107.fasta	Hydrogen sulfide	1.0	phypat+GGL
+M19107.fasta	Facultative	5.0	phypat
+M19107.fasta	Facultative	5.0	phypat+GGL
+M19107.fasta	Bacillus or coccobacillus	5.0	phypat
+M19107.fasta	Bacillus or coccobacillus	5.0	phypat+GGL
+M10991.fasta	Indole	3.0	phypat
+M10991.fasta	Catalase	5.0	phypat
+M10991.fasta	Catalase	5.0	phypat+GGL
+M10991.fasta	Maltose	5.0	phypat
+M10991.fasta	Maltose	5.0	phypat+GGL
+M10991.fasta	Growth on ordinary blood agar	1.0	phypat+GGL
+M10991.fasta	Colistin-Polymyxin susceptible	5.0	phypat
+M10991.fasta	Colistin-Polymyxin susceptible	5.0	phypat+GGL
+M10991.fasta	DNase	1.0	phypat
+M10991.fasta	DNase	1.0	phypat+GGL
+M10991.fasta	Nitrate to nitrite	5.0	phypat
+M10991.fasta	Nitrate to nitrite	5.0	phypat+GGL
+M10991.fasta	Urea hydrolysis	5.0	phypat
+M10991.fasta	Urea hydrolysis	5.0	phypat+GGL
+M10991.fasta	Bile-susceptible	5.0	phypat+GGL
+M10991.fasta	Glucose fermenter	4.0	phypat
+M10991.fasta	Glucose fermenter	5.0	phypat+GGL
+M10991.fasta	Gram negative	5.0	phypat
+M10991.fasta	Gram negative	5.0	phypat+GGL
+M10991.fasta	Ornithine decarboxylase	5.0	phypat
+M10991.fasta	Ornithine decarboxylase	4.0	phypat+GGL
+M10991.fasta	Capnophilic	1.0	phypat
+M10991.fasta	Capnophilic	5.0	phypat+GGL
+M10991.fasta	Oxidase	5.0	phypat
+M10991.fasta	Oxidase	5.0	phypat+GGL
+M10991.fasta	Gas from glucose	2.0	phypat+GGL
+M10991.fasta	Alkaline phosphatase	5.0	phypat
+M10991.fasta	Alkaline phosphatase	5.0	phypat+GGL
+M10991.fasta	Growth in KCN	5.0	phypat
+M10991.fasta	Growth in KCN	4.0	phypat+GGL
+M10991.fasta	Tartrate utilization	1.0	phypat+GGL
+M10991.fasta	Facultative	5.0	phypat
+M10991.fasta	Facultative	5.0	phypat+GGL
+M10991.fasta	Bacillus or coccobacillus	5.0	phypat
+M10991.fasta	Bacillus or coccobacillus	5.0	phypat+GGL
+M10991.fasta	Coagulase production	1.0	phypat+GGL
+M25342.fasta	Indole	3.0	phypat
+M25342.fasta	Catalase	5.0	phypat
+M25342.fasta	Catalase	5.0	phypat+GGL
+M25342.fasta	Growth at 42°C	1.0	phypat
+M25342.fasta	Growth at 42°C	2.0	phypat+GGL
+M25342.fasta	Maltose	5.0	phypat
+M25342.fasta	Maltose	5.0	phypat+GGL
+M25342.fasta	Growth on ordinary blood agar	2.0	phypat+GGL
+M25342.fasta	Colistin-Polymyxin susceptible	5.0	phypat
+M25342.fasta	Colistin-Polymyxin susceptible	5.0	phypat+GGL
+M25342.fasta	DNase	1.0	phypat+GGL
+M25342.fasta	Nitrate to nitrite	5.0	phypat
+M25342.fasta	Nitrate to nitrite	5.0	phypat+GGL
+M25342.fasta	Urea hydrolysis	5.0	phypat
+M25342.fasta	Urea hydrolysis	4.0	phypat+GGL
+M25342.fasta	D-Mannose	5.0	phypat
+M25342.fasta	D-Mannose	1.0	phypat+GGL
+M25342.fasta	Bile-susceptible	1.0	phypat
+M25342.fasta	Bile-susceptible	1.0	phypat+GGL
+M25342.fasta	Glucose fermenter	5.0	phypat
+M25342.fasta	Glucose fermenter	5.0	phypat+GGL
+M25342.fasta	Gram negative	5.0	phypat
+M25342.fasta	Gram negative	5.0	phypat+GGL
+M25342.fasta	Ornithine decarboxylase	2.0	phypat
+M25342.fasta	Capnophilic	5.0	phypat
+M25342.fasta	Capnophilic	5.0	phypat+GGL
+M25342.fasta	Oxidase	5.0	phypat
+M25342.fasta	Oxidase	5.0	phypat+GGL
+M25342.fasta	Gas from glucose	1.0	phypat
+M25342.fasta	Gas from glucose	5.0	phypat+GGL
+M25342.fasta	Alkaline phosphatase	5.0	phypat
+M25342.fasta	Alkaline phosphatase	5.0	phypat+GGL
+M25342.fasta	Growth in KCN	5.0	phypat
+M25342.fasta	Growth in KCN	4.0	phypat+GGL
+M25342.fasta	Hydrogen sulfide	2.0	phypat
+M25342.fasta	Hydrogen sulfide	1.0	phypat+GGL
+M25342.fasta	Facultative	5.0	phypat
+M25342.fasta	Facultative	5.0	phypat+GGL
+M25342.fasta	Bacillus or coccobacillus	5.0	phypat
+M25342.fasta	Bacillus or coccobacillus	5.0	phypat+GGL
+M03959.fasta	Indole	3.0	phypat
+M03959.fasta	Catalase	5.0	phypat
+M03959.fasta	Catalase	5.0	phypat+GGL
+M03959.fasta	Growth at 42°C	1.0	phypat+GGL
+M03959.fasta	Maltose	5.0	phypat
+M03959.fasta	Maltose	5.0	phypat+GGL
+M03959.fasta	Growth on ordinary blood agar	1.0	phypat+GGL
+M03959.fasta	Colistin-Polymyxin susceptible	5.0	phypat
+M03959.fasta	Colistin-Polymyxin susceptible	5.0	phypat+GGL
+M03959.fasta	DNase	1.0	phypat
+M03959.fasta	DNase	1.0	phypat+GGL
+M03959.fasta	Nitrate to nitrite	5.0	phypat
+M03959.fasta	Nitrate to nitrite	5.0	phypat+GGL
+M03959.fasta	Urea hydrolysis	5.0	phypat
+M03959.fasta	Urea hydrolysis	5.0	phypat+GGL
+M03959.fasta	Bile-susceptible	5.0	phypat+GGL
+M03959.fasta	Glucose fermenter	4.0	phypat
+M03959.fasta	Glucose fermenter	5.0	phypat+GGL
+M03959.fasta	Gram negative	5.0	phypat
+M03959.fasta	Gram negative	5.0	phypat+GGL
+M03959.fasta	Ornithine decarboxylase	5.0	phypat
+M03959.fasta	Ornithine decarboxylase	5.0	phypat+GGL
+M03959.fasta	Capnophilic	1.0	phypat
+M03959.fasta	Capnophilic	5.0	phypat+GGL
+M03959.fasta	Oxidase	5.0	phypat
+M03959.fasta	Oxidase	5.0	phypat+GGL
+M03959.fasta	Gas from glucose	2.0	phypat+GGL
+M03959.fasta	Alkaline phosphatase	5.0	phypat
+M03959.fasta	Alkaline phosphatase	5.0	phypat+GGL
+M03959.fasta	Growth in KCN	5.0	phypat
+M03959.fasta	Growth in KCN	4.0	phypat+GGL
+M03959.fasta	Facultative	5.0	phypat
+M03959.fasta	Facultative	5.0	phypat+GGL
+M03959.fasta	Bacillus or coccobacillus	5.0	phypat
+M03959.fasta	Bacillus or coccobacillus	5.0	phypat+GGL
+M03959.fasta	Coagulase production	1.0	phypat+GGL
+M28356.fasta	Indole	3.0	phypat
+M28356.fasta	Indole	1.0	phypat+GGL
+M28356.fasta	D-Xylose	3.0	phypat
+M28356.fasta	Catalase	5.0	phypat
+M28356.fasta	Catalase	5.0	phypat+GGL
+M28356.fasta	Growth at 42°C	1.0	phypat
+M28356.fasta	Growth at 42°C	1.0	phypat+GGL
+M28356.fasta	Maltose	5.0	phypat
+M28356.fasta	Growth on ordinary blood agar	1.0	phypat+GGL
+M28356.fasta	Colistin-Polymyxin susceptible	5.0	phypat
+M28356.fasta	Colistin-Polymyxin susceptible	5.0	phypat+GGL
+M28356.fasta	DNase	3.0	phypat
+M28356.fasta	DNase	1.0	phypat+GGL
+M28356.fasta	Methyl red	1.0	phypat
+M28356.fasta	Nitrate to nitrite	5.0	phypat
+M28356.fasta	Nitrate to nitrite	5.0	phypat+GGL
+M28356.fasta	Bile-susceptible	1.0	phypat+GGL
+M28356.fasta	Glucose fermenter	4.0	phypat
+M28356.fasta	Glucose fermenter	5.0	phypat+GGL
+M28356.fasta	Gram negative	5.0	phypat
+M28356.fasta	Gram negative	5.0	phypat+GGL
+M28356.fasta	Ornithine decarboxylase	5.0	phypat
+M28356.fasta	Ornithine decarboxylase	5.0	phypat+GGL
+M28356.fasta	Capnophilic	1.0	phypat
+M28356.fasta	Capnophilic	5.0	phypat+GGL
+M28356.fasta	Oxidase	5.0	phypat
+M28356.fasta	Oxidase	5.0	phypat+GGL
+M28356.fasta	Gas from glucose	2.0	phypat+GGL
+M28356.fasta	Alkaline phosphatase	5.0	phypat
+M28356.fasta	Alkaline phosphatase	5.0	phypat+GGL
+M28356.fasta	Facultative	5.0	phypat
+M28356.fasta	Facultative	5.0	phypat+GGL
+M28356.fasta	Bacillus or coccobacillus	5.0	phypat
+M28356.fasta	Bacillus or coccobacillus	5.0	phypat+GGL
+M28356.fasta	Coagulase production	1.0	phypat+GGL
+M11696.fasta	Indole	3.0	phypat
+M11696.fasta	Indole	2.0	phypat+GGL
+M11696.fasta	Catalase	5.0	phypat
+M11696.fasta	Catalase	5.0	phypat+GGL
+M11696.fasta	Growth at 42°C	1.0	phypat
+M11696.fasta	Growth at 42°C	4.0	phypat+GGL
+M11696.fasta	Maltose	5.0	phypat
+M11696.fasta	Maltose	4.0	phypat+GGL
+M11696.fasta	Growth on ordinary blood agar	1.0	phypat+GGL
+M11696.fasta	Colistin-Polymyxin susceptible	5.0	phypat
+M11696.fasta	Colistin-Polymyxin susceptible	5.0	phypat+GGL
+M11696.fasta	DNase	4.0	phypat
+M11696.fasta	DNase	1.0	phypat+GGL
+M11696.fasta	Methyl red	2.0	phypat
+M11696.fasta	Nitrate to nitrite	5.0	phypat
+M11696.fasta	Nitrate to nitrite	5.0	phypat+GGL
+M11696.fasta	Urea hydrolysis	5.0	phypat
+M11696.fasta	Urea hydrolysis	5.0	phypat+GGL
+M11696.fasta	Bile-susceptible	5.0	phypat
+M11696.fasta	Bile-susceptible	3.0	phypat+GGL
+M11696.fasta	Glucose fermenter	5.0	phypat
+M11696.fasta	Glucose fermenter	5.0	phypat+GGL
+M11696.fasta	Gram negative	5.0	phypat
+M11696.fasta	Gram negative	5.0	phypat+GGL
+M11696.fasta	Ornithine decarboxylase	3.0	phypat
+M11696.fasta	Capnophilic	1.0	phypat
+M11696.fasta	Capnophilic	4.0	phypat+GGL
+M11696.fasta	Oxidase	5.0	phypat
+M11696.fasta	Oxidase	5.0	phypat+GGL
+M11696.fasta	Gas from glucose	2.0	phypat+GGL
+M11696.fasta	Alkaline phosphatase	5.0	phypat
+M11696.fasta	Alkaline phosphatase	5.0	phypat+GGL
+M11696.fasta	Facultative	5.0	phypat
+M11696.fasta	Facultative	5.0	phypat+GGL
+M11696.fasta	Bacillus or coccobacillus	5.0	phypat
+M11696.fasta	Bacillus or coccobacillus	5.0	phypat+GGL
+M11696.fasta	Coagulase production	1.0	phypat+GGL
+M21639.fasta	Indole	3.0	phypat
+M21639.fasta	Indole	3.0	phypat+GGL
+M21639.fasta	Catalase	5.0	phypat
+M21639.fasta	Catalase	5.0	phypat+GGL
+M21639.fasta	Growth at 42°C	5.0	phypat
+M21639.fasta	Growth at 42°C	3.0	phypat+GGL
+M21639.fasta	Maltose	5.0	phypat
+M21639.fasta	Maltose	5.0	phypat+GGL
+M21639.fasta	Growth on ordinary blood agar	3.0	phypat+GGL
+M21639.fasta	Colistin-Polymyxin susceptible	5.0	phypat
+M21639.fasta	Colistin-Polymyxin susceptible	5.0	phypat+GGL
+M21639.fasta	DNase	2.0	phypat
+M21639.fasta	DNase	1.0	phypat+GGL
+M21639.fasta	Methyl red	1.0	phypat
+M21639.fasta	Nitrate to nitrite	5.0	phypat
+M21639.fasta	Nitrate to nitrite	5.0	phypat+GGL
+M21639.fasta	Urea hydrolysis	5.0	phypat
+M21639.fasta	Urea hydrolysis	5.0	phypat+GGL
+M21639.fasta	D-Mannose	3.0	phypat
+M21639.fasta	Bile-susceptible	1.0	phypat
+M21639.fasta	Bile-susceptible	1.0	phypat+GGL
+M21639.fasta	Glucose fermenter	4.0	phypat
+M21639.fasta	Glucose fermenter	5.0	phypat+GGL
+M21639.fasta	Gram negative	5.0	phypat
+M21639.fasta	Gram negative	5.0	phypat+GGL
+M21639.fasta	Ornithine decarboxylase	5.0	phypat
+M21639.fasta	Ornithine decarboxylase	5.0	phypat+GGL
+M21639.fasta	Capnophilic	5.0	phypat
+M21639.fasta	Capnophilic	5.0	phypat+GGL
+M21639.fasta	Oxidase	5.0	phypat
+M21639.fasta	Oxidase	5.0	phypat+GGL
+M21639.fasta	Gas from glucose	1.0	phypat
+M21639.fasta	Gas from glucose	5.0	phypat+GGL
+M21639.fasta	Alkaline phosphatase	5.0	phypat
+M21639.fasta	Alkaline phosphatase	5.0	phypat+GGL
+M21639.fasta	Hydrogen sulfide	2.0	phypat
+M21639.fasta	Hydrogen sulfide	1.0	phypat+GGL
+M21639.fasta	Facultative	5.0	phypat
+M21639.fasta	Facultative	5.0	phypat+GGL
+M21639.fasta	Bacillus or coccobacillus	5.0	phypat
+M21639.fasta	Bacillus or coccobacillus	5.0	phypat+GGL
+M04828.fasta	Indole	3.0	phypat
+M04828.fasta	Indole	1.0	phypat+GGL
+M04828.fasta	Catalase	5.0	phypat
+M04828.fasta	Catalase	5.0	phypat+GGL
+M04828.fasta	Growth at 42°C	1.0	phypat
+M04828.fasta	Growth at 42°C	1.0	phypat+GGL
+M04828.fasta	Maltose	2.0	phypat
+M04828.fasta	Maltose	2.0	phypat+GGL
+M04828.fasta	Growth on ordinary blood agar	1.0	phypat+GGL
+M04828.fasta	Colistin-Polymyxin susceptible	5.0	phypat
+M04828.fasta	Colistin-Polymyxin susceptible	5.0	phypat+GGL
+M04828.fasta	DNase	1.0	phypat
+M04828.fasta	DNase	1.0	phypat+GGL
+M04828.fasta	Nitrate to nitrite	5.0	phypat
+M04828.fasta	Nitrate to nitrite	5.0	phypat+GGL
+M04828.fasta	Urea hydrolysis	5.0	phypat
+M04828.fasta	Urea hydrolysis	5.0	phypat+GGL
+M04828.fasta	Bile-susceptible	1.0	phypat+GGL
+M04828.fasta	Glucose fermenter	5.0	phypat
+M04828.fasta	Glucose fermenter	5.0	phypat+GGL
+M04828.fasta	Gram negative	5.0	phypat
+M04828.fasta	Gram negative	5.0	phypat+GGL
+M04828.fasta	Ornithine decarboxylase	5.0	phypat
+M04828.fasta	Ornithine decarboxylase	4.0	phypat+GGL
+M04828.fasta	Capnophilic	1.0	phypat
+M04828.fasta	Capnophilic	2.0	phypat+GGL
+M04828.fasta	Oxidase	5.0	phypat
+M04828.fasta	Oxidase	5.0	phypat+GGL
+M04828.fasta	Gas from glucose	2.0	phypat+GGL
+M04828.fasta	Alkaline phosphatase	5.0	phypat
+M04828.fasta	Alkaline phosphatase	5.0	phypat+GGL
+M04828.fasta	Growth in KCN	5.0	phypat
+M04828.fasta	Growth in KCN	4.0	phypat+GGL
+M04828.fasta	Facultative	5.0	phypat
+M04828.fasta	Facultative	5.0	phypat+GGL
+M04828.fasta	Bacillus or coccobacillus	5.0	phypat
+M04828.fasta	Bacillus or coccobacillus	5.0	phypat+GGL
+M04828.fasta	Coagulase production	1.0	phypat+GGL
+M29197.fasta	Indole	3.0	phypat
+M29197.fasta	Indole	2.0	phypat+GGL
+M29197.fasta	Catalase	5.0	phypat
+M29197.fasta	Catalase	5.0	phypat+GGL
+M29197.fasta	Growth at 42°C	4.0	phypat
+M29197.fasta	Growth at 42°C	1.0	phypat+GGL
+M29197.fasta	Maltose	5.0	phypat
+M29197.fasta	Maltose	1.0	phypat+GGL
+M29197.fasta	Growth on ordinary blood agar	2.0	phypat+GGL
+M29197.fasta	Colistin-Polymyxin susceptible	5.0	phypat
+M29197.fasta	Colistin-Polymyxin susceptible	5.0	phypat+GGL
+M29197.fasta	DNase	1.0	phypat
+M29197.fasta	DNase	1.0	phypat+GGL
+M29197.fasta	Methyl red	1.0	phypat
+M29197.fasta	Nitrate to nitrite	5.0	phypat
+M29197.fasta	Nitrate to nitrite	5.0	phypat+GGL
+M29197.fasta	Urea hydrolysis	5.0	phypat
+M29197.fasta	Urea hydrolysis	5.0	phypat+GGL
+M29197.fasta	Bile-susceptible	5.0	phypat
+M29197.fasta	Bile-susceptible	1.0	phypat+GGL
+M29197.fasta	Glucose fermenter	5.0	phypat
+M29197.fasta	Glucose fermenter	5.0	phypat+GGL
+M29197.fasta	Gram negative	5.0	phypat
+M29197.fasta	Gram negative	5.0	phypat+GGL
+M29197.fasta	Ornithine decarboxylase	2.0	phypat
+M29197.fasta	Capnophilic	2.0	phypat
+M29197.fasta	Capnophilic	5.0	phypat+GGL
+M29197.fasta	Oxidase	5.0	phypat
+M29197.fasta	Oxidase	5.0	phypat+GGL
+M29197.fasta	Gas from glucose	2.0	phypat+GGL
+M29197.fasta	Alkaline phosphatase	5.0	phypat
+M29197.fasta	Alkaline phosphatase	5.0	phypat+GGL
+M29197.fasta	Growth in KCN	5.0	phypat
+M29197.fasta	Growth in KCN	4.0	phypat+GGL
+M29197.fasta	Hydrogen sulfide	1.0	phypat+GGL
+M29197.fasta	Facultative	5.0	phypat
+M29197.fasta	Facultative	5.0	phypat+GGL
+M29197.fasta	Bacillus or coccobacillus	5.0	phypat
+M29197.fasta	Bacillus or coccobacillus	5.0	phypat+GGL
+M29197.fasta	Coagulase production	1.0	phypat+GGL
+H_massiliensis.fasta	Indole	4.0	phypat
+H_massiliensis.fasta	Indole	2.0	phypat+GGL
+H_massiliensis.fasta	Catalase	5.0	phypat
+H_massiliensis.fasta	Catalase	5.0	phypat+GGL
+H_massiliensis.fasta	ONPG (beta galactosidase)	5.0	phypat
+H_massiliensis.fasta	ONPG (beta galactosidase)	1.0	phypat+GGL
+H_massiliensis.fasta	Growth at 42°C	5.0	phypat
+H_massiliensis.fasta	Growth at 42°C	1.0	phypat+GGL
+H_massiliensis.fasta	D-Mannitol	5.0	phypat
+H_massiliensis.fasta	D-Mannitol	4.0	phypat+GGL
+H_massiliensis.fasta	Trehalose	2.0	phypat
+H_massiliensis.fasta	Trehalose	1.0	phypat+GGL
+H_massiliensis.fasta	Maltose	5.0	phypat
+H_massiliensis.fasta	Maltose	5.0	phypat+GGL
+H_massiliensis.fasta	Growth on ordinary blood agar	3.0	phypat
+H_massiliensis.fasta	Growth on ordinary blood agar	5.0	phypat+GGL
+H_massiliensis.fasta	Colistin-Polymyxin susceptible	5.0	phypat
+H_massiliensis.fasta	Colistin-Polymyxin susceptible	5.0	phypat+GGL
+H_massiliensis.fasta	Melibiose	2.0	phypat+GGL
+H_massiliensis.fasta	Malonate	2.0	phypat
+H_massiliensis.fasta	DNase	1.0	phypat+GGL
+H_massiliensis.fasta	Methyl red	1.0	phypat
+H_massiliensis.fasta	Nitrate to nitrite	5.0	phypat
+H_massiliensis.fasta	Nitrate to nitrite	5.0	phypat+GGL
+H_massiliensis.fasta	D-Mannose	5.0	phypat
+H_massiliensis.fasta	D-Mannose	5.0	phypat+GGL
+H_massiliensis.fasta	Bile-susceptible	5.0	phypat+GGL
+H_massiliensis.fasta	Glucose fermenter	5.0	phypat
+H_massiliensis.fasta	Glucose fermenter	5.0	phypat+GGL
+H_massiliensis.fasta	Gram negative	5.0	phypat
+H_massiliensis.fasta	Gram negative	5.0	phypat+GGL
+H_massiliensis.fasta	Ornithine decarboxylase	2.0	phypat
+H_massiliensis.fasta	L-Arabinose	5.0	phypat
+H_massiliensis.fasta	L-Arabinose	5.0	phypat+GGL
+H_massiliensis.fasta	Capnophilic	2.0	phypat
+H_massiliensis.fasta	Capnophilic	5.0	phypat+GGL
+H_massiliensis.fasta	Oxidase	5.0	phypat
+H_massiliensis.fasta	Oxidase	5.0	phypat+GGL
+H_massiliensis.fasta	Gas from glucose	3.0	phypat
+H_massiliensis.fasta	Gas from glucose	5.0	phypat+GGL
+H_massiliensis.fasta	Alkaline phosphatase	5.0	phypat
+H_massiliensis.fasta	Alkaline phosphatase	5.0	phypat+GGL
+H_massiliensis.fasta	Lactose	5.0	phypat+GGL
+H_massiliensis.fasta	Growth in KCN	5.0	phypat
+H_massiliensis.fasta	Growth in KCN	3.0	phypat+GGL
+H_massiliensis.fasta	Hydrogen sulfide	1.0	phypat+GGL
+H_massiliensis.fasta	Raffinose	5.0	phypat+GGL
+H_massiliensis.fasta	Facultative	5.0	phypat
+H_massiliensis.fasta	Facultative	5.0	phypat+GGL
+H_massiliensis.fasta	L-Rhamnose	5.0	phypat
+H_massiliensis.fasta	L-Rhamnose	4.0	phypat+GGL
+H_massiliensis.fasta	Bacillus or coccobacillus	5.0	phypat
+H_massiliensis.fasta	Bacillus or coccobacillus	5.0	phypat+GGL
+H_massiliensis.fasta	Sucrose	5.0	phypat
+H_massiliensis.fasta	Sucrose	5.0	phypat+GGL
+H_massiliensis.fasta	Mucate utilization	2.0	phypat
+M37982.fasta	Indole	3.0	phypat
+M37982.fasta	Indole	5.0	phypat+GGL
+M37982.fasta	D-Xylose	3.0	phypat
+M37982.fasta	Catalase	5.0	phypat
+M37982.fasta	Catalase	5.0	phypat+GGL
+M37982.fasta	Growth at 42°C	4.0	phypat
+M37982.fasta	Growth at 42°C	1.0	phypat+GGL
+M37982.fasta	Maltose	5.0	phypat
+M37982.fasta	Maltose	1.0	phypat+GGL
+M37982.fasta	Growth on ordinary blood agar	2.0	phypat+GGL
+M37982.fasta	Colistin-Polymyxin susceptible	5.0	phypat
+M37982.fasta	Colistin-Polymyxin susceptible	5.0	phypat+GGL
+M37982.fasta	DNase	1.0	phypat
+M37982.fasta	DNase	1.0	phypat+GGL
+M37982.fasta	Methyl red	1.0	phypat
+M37982.fasta	Nitrate to nitrite	5.0	phypat
+M37982.fasta	Nitrate to nitrite	5.0	phypat+GGL
+M37982.fasta	Bile-susceptible	5.0	phypat+GGL
+M37982.fasta	Glucose fermenter	4.0	phypat
+M37982.fasta	Glucose fermenter	5.0	phypat+GGL
+M37982.fasta	Gram negative	5.0	phypat
+M37982.fasta	Gram negative	5.0	phypat+GGL
+M37982.fasta	Ornithine decarboxylase	5.0	phypat
+M37982.fasta	Ornithine decarboxylase	5.0	phypat+GGL
+M37982.fasta	Capnophilic	1.0	phypat
+M37982.fasta	Capnophilic	5.0	phypat+GGL
+M37982.fasta	Oxidase	5.0	phypat
+M37982.fasta	Oxidase	5.0	phypat+GGL
+M37982.fasta	Gas from glucose	2.0	phypat+GGL
+M37982.fasta	Alkaline phosphatase	5.0	phypat
+M37982.fasta	Alkaline phosphatase	5.0	phypat+GGL
+M37982.fasta	Facultative	5.0	phypat
+M37982.fasta	Facultative	5.0	phypat+GGL
+M37982.fasta	Bacillus or coccobacillus	5.0	phypat
+M37982.fasta	Bacillus or coccobacillus	5.0	phypat+GGL
+M37982.fasta	Coagulase production	1.0	phypat+GGL
+NCTC8143.fasta	Indole	3.0	phypat
+NCTC8143.fasta	Indole	1.0	phypat+GGL
+NCTC8143.fasta	Catalase	5.0	phypat
+NCTC8143.fasta	Catalase	5.0	phypat+GGL
+NCTC8143.fasta	Growth at 42°C	4.0	phypat
+NCTC8143.fasta	Growth at 42°C	1.0	phypat+GGL
+NCTC8143.fasta	Maltose	5.0	phypat
+NCTC8143.fasta	Maltose	2.0	phypat+GGL
+NCTC8143.fasta	Growth on ordinary blood agar	1.0	phypat+GGL
+NCTC8143.fasta	Colistin-Polymyxin susceptible	5.0	phypat
+NCTC8143.fasta	Colistin-Polymyxin susceptible	5.0	phypat+GGL
+NCTC8143.fasta	DNase	1.0	phypat
+NCTC8143.fasta	DNase	1.0	phypat+GGL
+NCTC8143.fasta	Methyl red	2.0	phypat
+NCTC8143.fasta	Nitrate to nitrite	5.0	phypat
+NCTC8143.fasta	Nitrate to nitrite	5.0	phypat+GGL
+NCTC8143.fasta	Urea hydrolysis	5.0	phypat
+NCTC8143.fasta	Urea hydrolysis	5.0	phypat+GGL
+NCTC8143.fasta	Bile-susceptible	5.0	phypat
+NCTC8143.fasta	Bile-susceptible	1.0	phypat+GGL
+NCTC8143.fasta	Glucose fermenter	5.0	phypat
+NCTC8143.fasta	Glucose fermenter	5.0	phypat+GGL
+NCTC8143.fasta	Gram negative	5.0	phypat
+NCTC8143.fasta	Gram negative	5.0	phypat+GGL
+NCTC8143.fasta	Ornithine decarboxylase	2.0	phypat
+NCTC8143.fasta	Capnophilic	2.0	phypat
+NCTC8143.fasta	Capnophilic	5.0	phypat+GGL
+NCTC8143.fasta	Oxidase	5.0	phypat
+NCTC8143.fasta	Oxidase	5.0	phypat+GGL
+NCTC8143.fasta	Gas from glucose	2.0	phypat+GGL
+NCTC8143.fasta	Alkaline phosphatase	5.0	phypat
+NCTC8143.fasta	Alkaline phosphatase	5.0	phypat+GGL
+NCTC8143.fasta	Hydrogen sulfide	1.0	phypat+GGL
+NCTC8143.fasta	Facultative	5.0	phypat
+NCTC8143.fasta	Facultative	5.0	phypat+GGL
+NCTC8143.fasta	Bacillus or coccobacillus	5.0	phypat
+NCTC8143.fasta	Bacillus or coccobacillus	5.0	phypat+GGL
+NCTC8143.fasta	Coagulase production	1.0	phypat+GGL
+M12178.fasta	Indole	3.0	phypat
+M12178.fasta	Indole	2.0	phypat+GGL
+M12178.fasta	D-Xylose	1.0	phypat
+M12178.fasta	D-Xylose	5.0	phypat+GGL
+M12178.fasta	Catalase	5.0	phypat
+M12178.fasta	Catalase	5.0	phypat+GGL
+M12178.fasta	Growth at 42°C	1.0	phypat
+M12178.fasta	Growth at 42°C	1.0	phypat+GGL
+M12178.fasta	Maltose	5.0	phypat
+M12178.fasta	Maltose	5.0	phypat+GGL
+M12178.fasta	Growth on ordinary blood agar	1.0	phypat+GGL
+M12178.fasta	Colistin-Polymyxin susceptible	5.0	phypat
+M12178.fasta	Colistin-Polymyxin susceptible	5.0	phypat+GGL
+M12178.fasta	DNase	1.0	phypat
+M12178.fasta	DNase	1.0	phypat+GGL
+M12178.fasta	Nitrate to nitrite	5.0	phypat
+M12178.fasta	Nitrate to nitrite	5.0	phypat+GGL
+M12178.fasta	Urea hydrolysis	5.0	phypat
+M12178.fasta	Urea hydrolysis	5.0	phypat+GGL
+M12178.fasta	Bile-susceptible	1.0	phypat+GGL
+M12178.fasta	Glucose fermenter	4.0	phypat
+M12178.fasta	Glucose fermenter	5.0	phypat+GGL
+M12178.fasta	Gram negative	5.0	phypat
+M12178.fasta	Gram negative	5.0	phypat+GGL
+M12178.fasta	Ornithine decarboxylase	2.0	phypat
+M12178.fasta	Capnophilic	1.0	phypat
+M12178.fasta	Capnophilic	3.0	phypat+GGL
+M12178.fasta	Oxidase	5.0	phypat
+M12178.fasta	Oxidase	5.0	phypat+GGL
+M12178.fasta	Gas from glucose	2.0	phypat+GGL
+M12178.fasta	Alkaline phosphatase	5.0	phypat
+M12178.fasta	Alkaline phosphatase	5.0	phypat+GGL
+M12178.fasta	Growth in KCN	5.0	phypat
+M12178.fasta	Growth in KCN	4.0	phypat+GGL
+M12178.fasta	Facultative	5.0	phypat
+M12178.fasta	Facultative	5.0	phypat+GGL
+M12178.fasta	Bacillus or coccobacillus	5.0	phypat
+M12178.fasta	Bacillus or coccobacillus	5.0	phypat+GGL
+M12178.fasta	Coagulase production	1.0	phypat+GGL
+M21621.fasta	Indole	3.0	phypat
+M21621.fasta	Catalase	5.0	phypat
+M21621.fasta	Catalase	5.0	phypat+GGL
+M21621.fasta	Maltose	4.0	phypat
+M21621.fasta	Maltose	5.0	phypat+GGL
+M21621.fasta	Growth on ordinary blood agar	3.0	phypat+GGL
+M21621.fasta	Colistin-Polymyxin susceptible	5.0	phypat
+M21621.fasta	Colistin-Polymyxin susceptible	5.0	phypat+GGL
+M21621.fasta	DNase	1.0	phypat+GGL
+M21621.fasta	Methyl red	1.0	phypat
+M21621.fasta	Nitrate to nitrite	5.0	phypat
+M21621.fasta	Nitrate to nitrite	5.0	phypat+GGL
+M21621.fasta	Urea hydrolysis	5.0	phypat
+M21621.fasta	Urea hydrolysis	5.0	phypat+GGL
+M21621.fasta	D-Mannose	5.0	phypat
+M21621.fasta	D-Mannose	2.0	phypat+GGL
+M21621.fasta	Bile-susceptible	1.0	phypat
+M21621.fasta	Bile-susceptible	1.0	phypat+GGL
+M21621.fasta	Glucose fermenter	3.0	phypat
+M21621.fasta	Glucose fermenter	5.0	phypat+GGL
+M21621.fasta	Gram negative	5.0	phypat
+M21621.fasta	Gram negative	5.0	phypat+GGL
+M21621.fasta	Ornithine decarboxylase	2.0	phypat
+M21621.fasta	Capnophilic	5.0	phypat
+M21621.fasta	Capnophilic	4.0	phypat+GGL
+M21621.fasta	Oxidase	5.0	phypat
+M21621.fasta	Oxidase	5.0	phypat+GGL
+M21621.fasta	Gas from glucose	1.0	phypat
+M21621.fasta	Gas from glucose	2.0	phypat+GGL
+M21621.fasta	Alkaline phosphatase	5.0	phypat
+M21621.fasta	Alkaline phosphatase	5.0	phypat+GGL
+M21621.fasta	Hydrogen sulfide	1.0	phypat
+M21621.fasta	Hydrogen sulfide	1.0	phypat+GGL
+M21621.fasta	Facultative	5.0	phypat
+M21621.fasta	Facultative	5.0	phypat+GGL
+M21621.fasta	Bacillus or coccobacillus	5.0	phypat
+M21621.fasta	Bacillus or coccobacillus	5.0	phypat+GGL
+M21127.fasta	Indole	3.0	phypat
+M21127.fasta	Catalase	5.0	phypat
+M21127.fasta	Catalase	5.0	phypat+GGL
+M21127.fasta	Growth at 42°C	5.0	phypat
+M21127.fasta	Growth at 42°C	5.0	phypat+GGL
+M21127.fasta	Maltose	5.0	phypat
+M21127.fasta	Maltose	5.0	phypat+GGL
+M21127.fasta	Growth on ordinary blood agar	2.0	phypat+GGL
+M21127.fasta	Colistin-Polymyxin susceptible	5.0	phypat
+M21127.fasta	Colistin-Polymyxin susceptible	5.0	phypat+GGL
+M21127.fasta	DNase	1.0	phypat+GGL
+M21127.fasta	Methyl red	1.0	phypat
+M21127.fasta	Nitrate to nitrite	5.0	phypat
+M21127.fasta	Nitrate to nitrite	5.0	phypat+GGL
+M21127.fasta	Urea hydrolysis	5.0	phypat
+M21127.fasta	Urea hydrolysis	4.0	phypat+GGL
+M21127.fasta	D-Mannose	4.0	phypat
+M21127.fasta	Bile-susceptible	1.0	phypat
+M21127.fasta	Bile-susceptible	1.0	phypat+GGL
+M21127.fasta	Glucose fermenter	4.0	phypat
+M21127.fasta	Glucose fermenter	5.0	phypat+GGL
+M21127.fasta	Gram negative	5.0	phypat
+M21127.fasta	Gram negative	5.0	phypat+GGL
+M21127.fasta	Ornithine decarboxylase	3.0	phypat
+M21127.fasta	Ornithine decarboxylase	1.0	phypat+GGL
+M21127.fasta	Capnophilic	3.0	phypat
+M21127.fasta	Capnophilic	5.0	phypat+GGL
+M21127.fasta	Oxidase	5.0	phypat
+M21127.fasta	Oxidase	5.0	phypat+GGL
+M21127.fasta	Gas from glucose	1.0	phypat
+M21127.fasta	Gas from glucose	2.0	phypat+GGL
+M21127.fasta	Alkaline phosphatase	5.0	phypat
+M21127.fasta	Alkaline phosphatase	5.0	phypat+GGL
+M21127.fasta	Hydrogen sulfide	2.0	phypat
+M21127.fasta	Hydrogen sulfide	1.0	phypat+GGL
+M21127.fasta	Facultative	5.0	phypat
+M21127.fasta	Facultative	5.0	phypat+GGL
+M21127.fasta	Bacillus or coccobacillus	5.0	phypat
+M21127.fasta	Bacillus or coccobacillus	5.0	phypat+GGL
+M12252.fasta	Indole	3.0	phypat
+M12252.fasta	Indole	2.0	phypat+GGL
+M12252.fasta	D-Xylose	4.0	phypat
+M12252.fasta	D-Xylose	1.0	phypat+GGL
+M12252.fasta	Catalase	5.0	phypat
+M12252.fasta	Catalase	5.0	phypat+GGL
+M12252.fasta	Growth at 42°C	1.0	phypat
+M12252.fasta	Growth at 42°C	1.0	phypat+GGL
+M12252.fasta	Maltose	5.0	phypat
+M12252.fasta	Maltose	1.0	phypat+GGL
+M12252.fasta	Growth on ordinary blood agar	1.0	phypat+GGL
+M12252.fasta	Colistin-Polymyxin susceptible	5.0	phypat
+M12252.fasta	Colistin-Polymyxin susceptible	5.0	phypat+GGL
+M12252.fasta	DNase	1.0	phypat
+M12252.fasta	DNase	1.0	phypat+GGL
+M12252.fasta	Methyl red	2.0	phypat
+M12252.fasta	Nitrate to nitrite	5.0	phypat
+M12252.fasta	Nitrate to nitrite	5.0	phypat+GGL
+M12252.fasta	Bile-susceptible	3.0	phypat+GGL
+M12252.fasta	Glucose fermenter	4.0	phypat
+M12252.fasta	Glucose fermenter	5.0	phypat+GGL
+M12252.fasta	Gram negative	5.0	phypat
+M12252.fasta	Gram negative	5.0	phypat+GGL
+M12252.fasta	Ornithine decarboxylase	5.0	phypat
+M12252.fasta	Ornithine decarboxylase	5.0	phypat+GGL
+M12252.fasta	Capnophilic	4.0	phypat+GGL
+M12252.fasta	Oxidase	5.0	phypat
+M12252.fasta	Oxidase	5.0	phypat+GGL
+M12252.fasta	Gas from glucose	2.0	phypat+GGL
+M12252.fasta	Alkaline phosphatase	5.0	phypat
+M12252.fasta	Alkaline phosphatase	5.0	phypat+GGL
+M12252.fasta	Facultative	5.0	phypat
+M12252.fasta	Facultative	5.0	phypat+GGL
+M12252.fasta	Bacillus or coccobacillus	5.0	phypat
+M12252.fasta	Bacillus or coccobacillus	5.0	phypat+GGL
+M12252.fasta	Coagulase production	1.0	phypat+GGL
+M05964.fasta	Indole	3.0	phypat
+M05964.fasta	Indole	1.0	phypat+GGL
+M05964.fasta	Catalase	5.0	phypat
+M05964.fasta	Catalase	5.0	phypat+GGL
+M05964.fasta	Growth at 42°C	1.0	phypat+GGL
+M05964.fasta	Maltose	3.0	phypat
+M05964.fasta	Maltose	3.0	phypat+GGL
+M05964.fasta	Growth on ordinary blood agar	1.0	phypat+GGL
+M05964.fasta	Colistin-Polymyxin susceptible	5.0	phypat
+M05964.fasta	Colistin-Polymyxin susceptible	5.0	phypat+GGL
+M05964.fasta	DNase	1.0	phypat
+M05964.fasta	DNase	1.0	phypat+GGL
+M05964.fasta	Nitrate to nitrite	5.0	phypat
+M05964.fasta	Nitrate to nitrite	5.0	phypat+GGL
+M05964.fasta	Urea hydrolysis	5.0	phypat
+M05964.fasta	Urea hydrolysis	5.0	phypat+GGL
+M05964.fasta	Bile-susceptible	5.0	phypat
+M05964.fasta	Bile-susceptible	1.0	phypat+GGL
+M05964.fasta	Glucose fermenter	5.0	phypat
+M05964.fasta	Glucose fermenter	5.0	phypat+GGL
+M05964.fasta	Gram negative	5.0	phypat
+M05964.fasta	Gram negative	5.0	phypat+GGL
+M05964.fasta	Ornithine decarboxylase	2.0	phypat
+M05964.fasta	Capnophilic	2.0	phypat
+M05964.fasta	Capnophilic	5.0	phypat+GGL
+M05964.fasta	Oxidase	5.0	phypat
+M05964.fasta	Oxidase	5.0	phypat+GGL
+M05964.fasta	Gas from glucose	2.0	phypat+GGL
+M05964.fasta	Alkaline phosphatase	5.0	phypat
+M05964.fasta	Alkaline phosphatase	5.0	phypat+GGL
+M05964.fasta	Growth in KCN	5.0	phypat
+M05964.fasta	Growth in KCN	4.0	phypat+GGL
+M05964.fasta	Facultative	5.0	phypat
+M05964.fasta	Facultative	5.0	phypat+GGL
+M05964.fasta	Bacillus or coccobacillus	5.0	phypat
+M05964.fasta	Bacillus or coccobacillus	5.0	phypat+GGL
+M05964.fasta	Coagulase production	1.0	phypat+GGL
+M10540.fasta	Indole	3.0	phypat
+M10540.fasta	Catalase	5.0	phypat
+M10540.fasta	Catalase	5.0	phypat+GGL
+M10540.fasta	Growth at 42°C	3.0	phypat
+M10540.fasta	Maltose	5.0	phypat
+M10540.fasta	Maltose	5.0	phypat+GGL
+M10540.fasta	Growth on ordinary blood agar	1.0	phypat+GGL
+M10540.fasta	Colistin-Polymyxin susceptible	5.0	phypat
+M10540.fasta	Colistin-Polymyxin susceptible	5.0	phypat+GGL
+M10540.fasta	DNase	1.0	phypat
+M10540.fasta	DNase	1.0	phypat+GGL
+M10540.fasta	Methyl red	1.0	phypat
+M10540.fasta	Nitrate to nitrite	5.0	phypat
+M10540.fasta	Nitrate to nitrite	5.0	phypat+GGL
+M10540.fasta	Urea hydrolysis	5.0	phypat
+M10540.fasta	Urea hydrolysis	5.0	phypat+GGL
+M10540.fasta	Bile-susceptible	1.0	phypat+GGL
+M10540.fasta	Glucose fermenter	5.0	phypat
+M10540.fasta	Glucose fermenter	5.0	phypat+GGL
+M10540.fasta	Gram negative	5.0	phypat
+M10540.fasta	Gram negative	5.0	phypat+GGL
+M10540.fasta	Ornithine decarboxylase	5.0	phypat
+M10540.fasta	Ornithine decarboxylase	5.0	phypat+GGL
+M10540.fasta	Capnophilic	2.0	phypat
+M10540.fasta	Capnophilic	5.0	phypat+GGL
+M10540.fasta	Oxidase	5.0	phypat
+M10540.fasta	Oxidase	5.0	phypat+GGL
+M10540.fasta	Gas from glucose	2.0	phypat+GGL
+M10540.fasta	Alkaline phosphatase	5.0	phypat
+M10540.fasta	Alkaline phosphatase	5.0	phypat+GGL
+M10540.fasta	Hydrogen sulfide	1.0	phypat+GGL
+M10540.fasta	Facultative	5.0	phypat
+M10540.fasta	Facultative	5.0	phypat+GGL
+M10540.fasta	Bacillus or coccobacillus	5.0	phypat
+M10540.fasta	Bacillus or coccobacillus	5.0	phypat+GGL
+M10540.fasta	Coagulase production	1.0	phypat+GGL
+H_paraphrohaemolyticus.fasta	Indole	3.0	phypat
+H_paraphrohaemolyticus.fasta	Catalase	5.0	phypat
+H_paraphrohaemolyticus.fasta	Catalase	5.0	phypat+GGL
+H_paraphrohaemolyticus.fasta	ONPG (beta galactosidase)	5.0	phypat
+H_paraphrohaemolyticus.fasta	ONPG (beta galactosidase)	4.0	phypat+GGL
+H_paraphrohaemolyticus.fasta	Growth at 42°C	5.0	phypat
+H_paraphrohaemolyticus.fasta	Growth at 42°C	2.0	phypat+GGL
+H_paraphrohaemolyticus.fasta	Trehalose	3.0	phypat
+H_paraphrohaemolyticus.fasta	Trehalose	1.0	phypat+GGL
+H_paraphrohaemolyticus.fasta	Maltose	5.0	phypat
+H_paraphrohaemolyticus.fasta	Maltose	5.0	phypat+GGL
+H_paraphrohaemolyticus.fasta	Growth on ordinary blood agar	1.0	phypat
+H_paraphrohaemolyticus.fasta	Growth on ordinary blood agar	5.0	phypat+GGL
+H_paraphrohaemolyticus.fasta	Colistin-Polymyxin susceptible	5.0	phypat
+H_paraphrohaemolyticus.fasta	Colistin-Polymyxin susceptible	5.0	phypat+GGL
+H_paraphrohaemolyticus.fasta	DNase	2.0	phypat
+H_paraphrohaemolyticus.fasta	DNase	2.0	phypat+GGL
+H_paraphrohaemolyticus.fasta	Nitrate to nitrite	5.0	phypat
+H_paraphrohaemolyticus.fasta	Nitrate to nitrite	5.0	phypat+GGL
+H_paraphrohaemolyticus.fasta	Urea hydrolysis	5.0	phypat
+H_paraphrohaemolyticus.fasta	Urea hydrolysis	4.0	phypat+GGL
+H_paraphrohaemolyticus.fasta	D-Mannose	5.0	phypat
+H_paraphrohaemolyticus.fasta	D-Mannose	5.0	phypat+GGL
+H_paraphrohaemolyticus.fasta	Bile-susceptible	1.0	phypat+GGL
+H_paraphrohaemolyticus.fasta	Glucose fermenter	5.0	phypat
+H_paraphrohaemolyticus.fasta	Glucose fermenter	5.0	phypat+GGL
+H_paraphrohaemolyticus.fasta	Gram negative	5.0	phypat
+H_paraphrohaemolyticus.fasta	Gram negative	5.0	phypat+GGL
+H_paraphrohaemolyticus.fasta	Ornithine decarboxylase	4.0	phypat
+H_paraphrohaemolyticus.fasta	Ornithine decarboxylase	1.0	phypat+GGL
+H_paraphrohaemolyticus.fasta	Capnophilic	4.0	phypat
+H_paraphrohaemolyticus.fasta	Capnophilic	5.0	phypat+GGL
+H_paraphrohaemolyticus.fasta	Oxidase	5.0	phypat
+H_paraphrohaemolyticus.fasta	Oxidase	5.0	phypat+GGL
+H_paraphrohaemolyticus.fasta	Alkaline phosphatase	5.0	phypat
+H_paraphrohaemolyticus.fasta	Alkaline phosphatase	5.0	phypat+GGL
+H_paraphrohaemolyticus.fasta	Growth in KCN	5.0	phypat
+H_paraphrohaemolyticus.fasta	Growth in KCN	4.0	phypat+GGL
+H_paraphrohaemolyticus.fasta	Hydrogen sulfide	3.0	phypat+GGL
+H_paraphrohaemolyticus.fasta	Facultative	5.0	phypat
+H_paraphrohaemolyticus.fasta	Facultative	5.0	phypat+GGL
+H_paraphrohaemolyticus.fasta	Bacillus or coccobacillus	5.0	phypat
+H_paraphrohaemolyticus.fasta	Bacillus or coccobacillus	5.0	phypat+GGL
+H_paraphrohaemolyticus.fasta	Sucrose	5.0	phypat
+H_paraphrohaemolyticus.fasta	Sucrose	5.0	phypat+GGL
+M26032.fasta	Indole	3.0	phypat
+M26032.fasta	Indole	1.0	phypat+GGL
+M26032.fasta	Catalase	5.0	phypat
+M26032.fasta	Catalase	5.0	phypat+GGL
+M26032.fasta	Growth at 42°C	2.0	phypat
+M26032.fasta	Growth at 42°C	1.0	phypat+GGL
+M26032.fasta	Maltose	5.0	phypat
+M26032.fasta	Maltose	1.0	phypat+GGL
+M26032.fasta	Growth on ordinary blood agar	1.0	phypat+GGL
+M26032.fasta	Colistin-Polymyxin susceptible	5.0	phypat
+M26032.fasta	Colistin-Polymyxin susceptible	5.0	phypat+GGL
+M26032.fasta	DNase	1.0	phypat
+M26032.fasta	DNase	1.0	phypat+GGL
+M26032.fasta	Methyl red	1.0	phypat
+M26032.fasta	Nitrate to nitrite	5.0	phypat
+M26032.fasta	Nitrate to nitrite	5.0	phypat+GGL
+M26032.fasta	Urea hydrolysis	5.0	phypat
+M26032.fasta	Urea hydrolysis	5.0	phypat+GGL
+M26032.fasta	Bile-susceptible	5.0	phypat
+M26032.fasta	Bile-susceptible	1.0	phypat+GGL
+M26032.fasta	Glucose fermenter	5.0	phypat
+M26032.fasta	Glucose fermenter	5.0	phypat+GGL
+M26032.fasta	Gram negative	5.0	phypat
+M26032.fasta	Gram negative	5.0	phypat+GGL
+M26032.fasta	Ornithine decarboxylase	2.0	phypat
+M26032.fasta	Capnophilic	2.0	phypat
+M26032.fasta	Capnophilic	5.0	phypat+GGL
+M26032.fasta	Oxidase	5.0	phypat
+M26032.fasta	Oxidase	5.0	phypat+GGL
+M26032.fasta	Gas from glucose	2.0	phypat+GGL
+M26032.fasta	Alkaline phosphatase	5.0	phypat
+M26032.fasta	Alkaline phosphatase	5.0	phypat+GGL
+M26032.fasta	Growth in KCN	5.0	phypat
+M26032.fasta	Growth in KCN	4.0	phypat+GGL
+M26032.fasta	Hydrogen sulfide	1.0	phypat+GGL
+M26032.fasta	Facultative	5.0	phypat
+M26032.fasta	Facultative	5.0	phypat+GGL
+M26032.fasta	Bacillus or coccobacillus	5.0	phypat
+M26032.fasta	Bacillus or coccobacillus	5.0	phypat+GGL
+M26032.fasta	Coagulase production	1.0	phypat+GGL
+M29227.fasta	Indole	3.0	phypat
+M29227.fasta	Indole	1.0	phypat+GGL
+M29227.fasta	Catalase	5.0	phypat
+M29227.fasta	Catalase	5.0	phypat+GGL
+M29227.fasta	Growth at 42°C	1.0	phypat+GGL
+M29227.fasta	Maltose	5.0	phypat
+M29227.fasta	Maltose	4.0	phypat+GGL
+M29227.fasta	Growth on ordinary blood agar	1.0	phypat+GGL
+M29227.fasta	Colistin-Polymyxin susceptible	5.0	phypat
+M29227.fasta	Colistin-Polymyxin susceptible	5.0	phypat+GGL
+M29227.fasta	DNase	1.0	phypat
+M29227.fasta	DNase	1.0	phypat+GGL
+M29227.fasta	Nitrate to nitrite	5.0	phypat
+M29227.fasta	Nitrate to nitrite	5.0	phypat+GGL
+M29227.fasta	Urea hydrolysis	5.0	phypat
+M29227.fasta	Urea hydrolysis	5.0	phypat+GGL
+M29227.fasta	Bile-susceptible	5.0	phypat
+M29227.fasta	Bile-susceptible	1.0	phypat+GGL
+M29227.fasta	Glucose fermenter	5.0	phypat
+M29227.fasta	Glucose fermenter	5.0	phypat+GGL
+M29227.fasta	Gram negative	5.0	phypat
+M29227.fasta	Gram negative	5.0	phypat+GGL
+M29227.fasta	Ornithine decarboxylase	2.0	phypat
+M29227.fasta	Capnophilic	1.0	phypat
+M29227.fasta	Capnophilic	4.0	phypat+GGL
+M29227.fasta	Oxidase	5.0	phypat
+M29227.fasta	Oxidase	5.0	phypat+GGL
+M29227.fasta	Gas from glucose	2.0	phypat+GGL
+M29227.fasta	Alkaline phosphatase	5.0	phypat
+M29227.fasta	Alkaline phosphatase	5.0	phypat+GGL
+M29227.fasta	Growth in KCN	5.0	phypat
+M29227.fasta	Growth in KCN	4.0	phypat+GGL
+M29227.fasta	Facultative	5.0	phypat
+M29227.fasta	Facultative	5.0	phypat+GGL
+M29227.fasta	Bacillus or coccobacillus	5.0	phypat
+M29227.fasta	Bacillus or coccobacillus	5.0	phypat+GGL
+M29227.fasta	Coagulase production	1.0	phypat+GGL
+M28853.fasta	Indole	3.0	phypat
+M28853.fasta	Indole	3.0	phypat+GGL
+M28853.fasta	Catalase	5.0	phypat
+M28853.fasta	Catalase	5.0	phypat+GGL
+M28853.fasta	Growth at 42°C	5.0	phypat
+M28853.fasta	Growth at 42°C	3.0	phypat+GGL
+M28853.fasta	Maltose	5.0	phypat
+M28853.fasta	Maltose	5.0	phypat+GGL
+M28853.fasta	Growth on ordinary blood agar	2.0	phypat+GGL
+M28853.fasta	Colistin-Polymyxin susceptible	5.0	phypat
+M28853.fasta	Colistin-Polymyxin susceptible	5.0	phypat+GGL
+M28853.fasta	DNase	3.0	phypat
+M28853.fasta	DNase	1.0	phypat+GGL
+M28853.fasta	Nitrate to nitrite	5.0	phypat
+M28853.fasta	Nitrate to nitrite	5.0	phypat+GGL
+M28853.fasta	Urea hydrolysis	5.0	phypat
+M28853.fasta	Urea hydrolysis	5.0	phypat+GGL
+M28853.fasta	Bile-susceptible	1.0	phypat+GGL
+M28853.fasta	Glucose fermenter	5.0	phypat
+M28853.fasta	Glucose fermenter	5.0	phypat+GGL
+M28853.fasta	Gram negative	5.0	phypat
+M28853.fasta	Gram negative	5.0	phypat+GGL
+M28853.fasta	Ornithine decarboxylase	2.0	phypat
+M28853.fasta	Capnophilic	2.0	phypat
+M28853.fasta	Capnophilic	5.0	phypat+GGL
+M28853.fasta	Oxidase	5.0	phypat
+M28853.fasta	Oxidase	5.0	phypat+GGL
+M28853.fasta	Gas from glucose	2.0	phypat+GGL
+M28853.fasta	Alkaline phosphatase	5.0	phypat
+M28853.fasta	Alkaline phosphatase	5.0	phypat+GGL
+M28853.fasta	Facultative	5.0	phypat
+M28853.fasta	Facultative	5.0	phypat+GGL
+M28853.fasta	Bacillus or coccobacillus	5.0	phypat
+M28853.fasta	Bacillus or coccobacillus	5.0	phypat+GGL
+M28853.fasta	Coagulase production	1.0	phypat+GGL
+M16386.fasta	Indole	3.0	phypat
+M16386.fasta	Indole	3.0	phypat+GGL
+M16386.fasta	Catalase	5.0	phypat
+M16386.fasta	Catalase	5.0	phypat+GGL
+M16386.fasta	Growth at 42°C	5.0	phypat
+M16386.fasta	Growth at 42°C	3.0	phypat+GGL
+M16386.fasta	Maltose	5.0	phypat
+M16386.fasta	Maltose	5.0	phypat+GGL
+M16386.fasta	Growth on ordinary blood agar	1.0	phypat+GGL
+M16386.fasta	Colistin-Polymyxin susceptible	5.0	phypat
+M16386.fasta	Colistin-Polymyxin susceptible	5.0	phypat+GGL
+M16386.fasta	DNase	1.0	phypat+GGL
+M16386.fasta	Methyl red	1.0	phypat
+M16386.fasta	Nitrate to nitrite	5.0	phypat
+M16386.fasta	Nitrate to nitrite	5.0	phypat+GGL
+M16386.fasta	Urea hydrolysis	5.0	phypat
+M16386.fasta	Urea hydrolysis	4.0	phypat+GGL
+M16386.fasta	D-Mannose	5.0	phypat
+M16386.fasta	D-Mannose	5.0	phypat+GGL
+M16386.fasta	Bile-susceptible	1.0	phypat
+M16386.fasta	Bile-susceptible	1.0	phypat+GGL
+M16386.fasta	Glucose fermenter	5.0	phypat
+M16386.fasta	Glucose fermenter	5.0	phypat+GGL
+M16386.fasta	Gram negative	5.0	phypat
+M16386.fasta	Gram negative	5.0	phypat+GGL
+M16386.fasta	Ornithine decarboxylase	5.0	phypat
+M16386.fasta	Ornithine decarboxylase	1.0	phypat+GGL
+M16386.fasta	Capnophilic	4.0	phypat
+M16386.fasta	Capnophilic	5.0	phypat+GGL
+M16386.fasta	Oxidase	5.0	phypat
+M16386.fasta	Oxidase	5.0	phypat+GGL
+M16386.fasta	Gas from glucose	1.0	phypat
+M16386.fasta	Gas from glucose	2.0	phypat+GGL
+M16386.fasta	Alkaline phosphatase	5.0	phypat
+M16386.fasta	Alkaline phosphatase	5.0	phypat+GGL
+M16386.fasta	Hydrogen sulfide	2.0	phypat
+M16386.fasta	Hydrogen sulfide	1.0	phypat+GGL
+M16386.fasta	Raffinose	2.0	phypat
+M16386.fasta	Facultative	5.0	phypat
+M16386.fasta	Facultative	5.0	phypat+GGL
+M16386.fasta	Bacillus or coccobacillus	5.0	phypat
+M16386.fasta	Bacillus or coccobacillus	5.0	phypat+GGL
+M16386.fasta	Sucrose	5.0	phypat
+M16386.fasta	Sucrose	5.0	phypat+GGL
+10810.fasta	Indole	3.0	phypat
+10810.fasta	Indole	3.0	phypat+GGL
+10810.fasta	D-Xylose	1.0	phypat+GGL
+10810.fasta	Catalase	5.0	phypat
+10810.fasta	Catalase	5.0	phypat+GGL
+10810.fasta	Growth at 42°C	3.0	phypat
+10810.fasta	Growth at 42°C	1.0	phypat+GGL
+10810.fasta	Maltose	5.0	phypat
+10810.fasta	Maltose	3.0	phypat+GGL
+10810.fasta	Growth on ordinary blood agar	1.0	phypat+GGL
+10810.fasta	Colistin-Polymyxin susceptible	5.0	phypat
+10810.fasta	Colistin-Polymyxin susceptible	5.0	phypat+GGL
+10810.fasta	DNase	1.0	phypat
+10810.fasta	DNase	1.0	phypat+GGL
+10810.fasta	Nitrate to nitrite	5.0	phypat
+10810.fasta	Nitrate to nitrite	5.0	phypat+GGL
+10810.fasta	Urea hydrolysis	5.0	phypat
+10810.fasta	Urea hydrolysis	5.0	phypat+GGL
+10810.fasta	Bile-susceptible	1.0	phypat+GGL
+10810.fasta	Glucose fermenter	5.0	phypat
+10810.fasta	Glucose fermenter	5.0	phypat+GGL
+10810.fasta	Gram negative	5.0	phypat
+10810.fasta	Gram negative	5.0	phypat+GGL
+10810.fasta	Ornithine decarboxylase	5.0	phypat
+10810.fasta	Ornithine decarboxylase	4.0	phypat+GGL
+10810.fasta	Capnophilic	1.0	phypat
+10810.fasta	Capnophilic	2.0	phypat+GGL
+10810.fasta	Oxidase	5.0	phypat
+10810.fasta	Oxidase	5.0	phypat+GGL
+10810.fasta	Gas from glucose	2.0	phypat+GGL
+10810.fasta	Alkaline phosphatase	5.0	phypat
+10810.fasta	Alkaline phosphatase	5.0	phypat+GGL
+10810.fasta	Growth in KCN	5.0	phypat
+10810.fasta	Growth in KCN	4.0	phypat+GGL
+10810.fasta	Facultative	5.0	phypat
+10810.fasta	Facultative	5.0	phypat+GGL
+10810.fasta	Bacillus or coccobacillus	5.0	phypat
+10810.fasta	Bacillus or coccobacillus	5.0	phypat+GGL
+10810.fasta	Coagulase production	1.0	phypat+GGL
+M26429.fasta	Indole	3.0	phypat
+M26429.fasta	Indole	1.0	phypat+GGL
+M26429.fasta	Catalase	5.0	phypat
+M26429.fasta	Catalase	5.0	phypat+GGL
+M26429.fasta	Growth at 42°C	2.0	phypat
+M26429.fasta	Growth at 42°C	1.0	phypat+GGL
+M26429.fasta	Maltose	5.0	phypat
+M26429.fasta	Maltose	1.0	phypat+GGL
+M26429.fasta	Growth on ordinary blood agar	1.0	phypat+GGL
+M26429.fasta	Colistin-Polymyxin susceptible	5.0	phypat
+M26429.fasta	Colistin-Polymyxin susceptible	5.0	phypat+GGL
+M26429.fasta	DNase	1.0	phypat
+M26429.fasta	DNase	1.0	phypat+GGL
+M26429.fasta	Methyl red	1.0	phypat
+M26429.fasta	Nitrate to nitrite	5.0	phypat
+M26429.fasta	Nitrate to nitrite	5.0	phypat+GGL
+M26429.fasta	Urea hydrolysis	5.0	phypat
+M26429.fasta	Urea hydrolysis	5.0	phypat+GGL
+M26429.fasta	Bile-susceptible	5.0	phypat
+M26429.fasta	Bile-susceptible	1.0	phypat+GGL
+M26429.fasta	Glucose fermenter	5.0	phypat
+M26429.fasta	Glucose fermenter	5.0	phypat+GGL
+M26429.fasta	Gram negative	5.0	phypat
+M26429.fasta	Gram negative	5.0	phypat+GGL
+M26429.fasta	Ornithine decarboxylase	2.0	phypat
+M26429.fasta	Capnophilic	2.0	phypat
+M26429.fasta	Capnophilic	5.0	phypat+GGL
+M26429.fasta	Oxidase	5.0	phypat
+M26429.fasta	Oxidase	5.0	phypat+GGL
+M26429.fasta	Gas from glucose	2.0	phypat+GGL
+M26429.fasta	Alkaline phosphatase	5.0	phypat
+M26429.fasta	Alkaline phosphatase	5.0	phypat+GGL
+M26429.fasta	Growth in KCN	5.0	phypat
+M26429.fasta	Growth in KCN	4.0	phypat+GGL
+M26429.fasta	Hydrogen sulfide	1.0	phypat+GGL
+M26429.fasta	Facultative	5.0	phypat
+M26429.fasta	Facultative	5.0	phypat+GGL
+M26429.fasta	Bacillus or coccobacillus	5.0	phypat
+M26429.fasta	Bacillus or coccobacillus	5.0	phypat+GGL
+M26429.fasta	Coagulase production	1.0	phypat+GGL
+HK386.fasta	Indole	3.0	phypat
+HK386.fasta	Catalase	5.0	phypat
+HK386.fasta	Catalase	5.0	phypat+GGL
+HK386.fasta	Growth at 42°C	1.0	phypat
+HK386.fasta	Growth at 42°C	1.0	phypat+GGL
+HK386.fasta	Maltose	5.0	phypat
+HK386.fasta	Maltose	5.0	phypat+GGL
+HK386.fasta	Growth on ordinary blood agar	3.0	phypat+GGL
+HK386.fasta	Colistin-Polymyxin susceptible	5.0	phypat
+HK386.fasta	Colistin-Polymyxin susceptible	5.0	phypat+GGL
+HK386.fasta	DNase	1.0	phypat+GGL
+HK386.fasta	Methyl red	1.0	phypat
+HK386.fasta	Nitrate to nitrite	5.0	phypat
+HK386.fasta	Nitrate to nitrite	5.0	phypat+GGL
+HK386.fasta	Urea hydrolysis	5.0	phypat
+HK386.fasta	Urea hydrolysis	4.0	phypat+GGL
+HK386.fasta	D-Mannose	5.0	phypat
+HK386.fasta	D-Mannose	2.0	phypat+GGL
+HK386.fasta	Bile-susceptible	1.0	phypat
+HK386.fasta	Bile-susceptible	1.0	phypat+GGL
+HK386.fasta	Glucose fermenter	4.0	phypat
+HK386.fasta	Glucose fermenter	5.0	phypat+GGL
+HK386.fasta	Gram negative	5.0	phypat
+HK386.fasta	Gram negative	5.0	phypat+GGL
+HK386.fasta	Ornithine decarboxylase	2.0	phypat
+HK386.fasta	Ornithine decarboxylase	1.0	phypat+GGL
+HK386.fasta	Capnophilic	4.0	phypat
+HK386.fasta	Capnophilic	5.0	phypat+GGL
+HK386.fasta	Oxidase	5.0	phypat
+HK386.fasta	Oxidase	5.0	phypat+GGL
+HK386.fasta	Gas from glucose	1.0	phypat
+HK386.fasta	Gas from glucose	4.0	phypat+GGL
+HK386.fasta	Alkaline phosphatase	5.0	phypat
+HK386.fasta	Alkaline phosphatase	5.0	phypat+GGL
+HK386.fasta	Hydrogen sulfide	2.0	phypat
+HK386.fasta	Hydrogen sulfide	1.0	phypat+GGL
+HK386.fasta	Facultative	5.0	phypat
+HK386.fasta	Facultative	5.0	phypat+GGL
+HK386.fasta	Bacillus or coccobacillus	5.0	phypat
+HK386.fasta	Bacillus or coccobacillus	5.0	phypat+GGL
+M29331.fasta	Indole	3.0	phypat
+M29331.fasta	Indole	1.0	phypat+GGL
+M29331.fasta	Catalase	5.0	phypat
+M29331.fasta	Catalase	5.0	phypat+GGL
+M29331.fasta	Growth at 42°C	4.0	phypat
+M29331.fasta	Growth at 42°C	4.0	phypat+GGL
+M29331.fasta	Maltose	5.0	phypat
+M29331.fasta	Maltose	1.0	phypat+GGL
+M29331.fasta	Growth on ordinary blood agar	1.0	phypat+GGL
+M29331.fasta	Colistin-Polymyxin susceptible	5.0	phypat
+M29331.fasta	Colistin-Polymyxin susceptible	5.0	phypat+GGL
+M29331.fasta	DNase	1.0	phypat
+M29331.fasta	DNase	1.0	phypat+GGL
+M29331.fasta	Methyl red	1.0	phypat
+M29331.fasta	Nitrate to nitrite	5.0	phypat
+M29331.fasta	Nitrate to nitrite	5.0	phypat+GGL
+M29331.fasta	Urea hydrolysis	5.0	phypat
+M29331.fasta	Urea hydrolysis	5.0	phypat+GGL
+M29331.fasta	Bile-susceptible	5.0	phypat
+M29331.fasta	Bile-susceptible	1.0	phypat+GGL
+M29331.fasta	Glucose fermenter	5.0	phypat
+M29331.fasta	Glucose fermenter	5.0	phypat+GGL
+M29331.fasta	Gram negative	5.0	phypat
+M29331.fasta	Gram negative	5.0	phypat+GGL
+M29331.fasta	Ornithine decarboxylase	2.0	phypat
+M29331.fasta	Capnophilic	2.0	phypat
+M29331.fasta	Capnophilic	5.0	phypat+GGL
+M29331.fasta	Oxidase	5.0	phypat
+M29331.fasta	Oxidase	5.0	phypat+GGL
+M29331.fasta	Gas from glucose	2.0	phypat+GGL
+M29331.fasta	Alkaline phosphatase	5.0	phypat
+M29331.fasta	Alkaline phosphatase	5.0	phypat+GGL
+M29331.fasta	Growth in KCN	5.0	phypat
+M29331.fasta	Growth in KCN	4.0	phypat+GGL
+M29331.fasta	Hydrogen sulfide	1.0	phypat+GGL
+M29331.fasta	Facultative	5.0	phypat
+M29331.fasta	Facultative	5.0	phypat+GGL
+M29331.fasta	Bacillus or coccobacillus	5.0	phypat
+M29331.fasta	Bacillus or coccobacillus	5.0	phypat+GGL
+M29331.fasta	Coagulase production	1.0	phypat+GGL
+RdKW20.fasta	Indole	3.0	phypat
+RdKW20.fasta	Catalase	5.0	phypat
+RdKW20.fasta	Catalase	5.0	phypat+GGL
+RdKW20.fasta	Growth at 42°C	1.0	phypat+GGL
+RdKW20.fasta	Maltose	5.0	phypat
+RdKW20.fasta	Maltose	5.0	phypat+GGL
+RdKW20.fasta	Growth on ordinary blood agar	1.0	phypat+GGL
+RdKW20.fasta	Colistin-Polymyxin susceptible	5.0	phypat
+RdKW20.fasta	Colistin-Polymyxin susceptible	5.0	phypat+GGL
+RdKW20.fasta	DNase	1.0	phypat
+RdKW20.fasta	DNase	1.0	phypat+GGL
+RdKW20.fasta	Nitrate to nitrite	5.0	phypat
+RdKW20.fasta	Nitrate to nitrite	5.0	phypat+GGL
+RdKW20.fasta	Urea hydrolysis	5.0	phypat
+RdKW20.fasta	Urea hydrolysis	5.0	phypat+GGL
+RdKW20.fasta	Bile-susceptible	5.0	phypat+GGL
+RdKW20.fasta	Glucose fermenter	4.0	phypat
+RdKW20.fasta	Glucose fermenter	5.0	phypat+GGL
+RdKW20.fasta	Gram negative	5.0	phypat
+RdKW20.fasta	Gram negative	5.0	phypat+GGL
+RdKW20.fasta	Ornithine decarboxylase	5.0	phypat
+RdKW20.fasta	Ornithine decarboxylase	5.0	phypat+GGL
+RdKW20.fasta	Capnophilic	4.0	phypat
+RdKW20.fasta	Capnophilic	5.0	phypat+GGL
+RdKW20.fasta	Oxidase	5.0	phypat
+RdKW20.fasta	Oxidase	5.0	phypat+GGL
+RdKW20.fasta	Gas from glucose	2.0	phypat+GGL
+RdKW20.fasta	Alkaline phosphatase	5.0	phypat
+RdKW20.fasta	Alkaline phosphatase	5.0	phypat+GGL
+RdKW20.fasta	Growth in KCN	5.0	phypat
+RdKW20.fasta	Growth in KCN	4.0	phypat+GGL
+RdKW20.fasta	Facultative	5.0	phypat
+RdKW20.fasta	Facultative	5.0	phypat+GGL
+RdKW20.fasta	Bacillus or coccobacillus	5.0	phypat
+RdKW20.fasta	Bacillus or coccobacillus	5.0	phypat+GGL
+RdKW20.fasta	Coagulase production	1.0	phypat+GGL
+M11879.fasta	Indole	3.0	phypat
+M11879.fasta	Indole	2.0	phypat+GGL
+M11879.fasta	Catalase	5.0	phypat
+M11879.fasta	Catalase	5.0	phypat+GGL
+M11879.fasta	Growth at 42°C	4.0	phypat
+M11879.fasta	Growth at 42°C	1.0	phypat+GGL
+M11879.fasta	Maltose	5.0	phypat
+M11879.fasta	Maltose	1.0	phypat+GGL
+M11879.fasta	Growth on ordinary blood agar	2.0	phypat+GGL
+M11879.fasta	Colistin-Polymyxin susceptible	5.0	phypat
+M11879.fasta	Colistin-Polymyxin susceptible	5.0	phypat+GGL
+M11879.fasta	DNase	1.0	phypat
+M11879.fasta	DNase	1.0	phypat+GGL
+M11879.fasta	Methyl red	1.0	phypat
+M11879.fasta	Nitrate to nitrite	5.0	phypat
+M11879.fasta	Nitrate to nitrite	5.0	phypat+GGL
+M11879.fasta	Urea hydrolysis	5.0	phypat
+M11879.fasta	Urea hydrolysis	5.0	phypat+GGL
+M11879.fasta	Bile-susceptible	5.0	phypat
+M11879.fasta	Bile-susceptible	1.0	phypat+GGL
+M11879.fasta	Glucose fermenter	5.0	phypat
+M11879.fasta	Glucose fermenter	5.0	phypat+GGL
+M11879.fasta	Gram negative	5.0	phypat
+M11879.fasta	Gram negative	5.0	phypat+GGL
+M11879.fasta	Ornithine decarboxylase	2.0	phypat
+M11879.fasta	Capnophilic	2.0	phypat
+M11879.fasta	Capnophilic	5.0	phypat+GGL
+M11879.fasta	Oxidase	5.0	phypat
+M11879.fasta	Oxidase	5.0	phypat+GGL
+M11879.fasta	Gas from glucose	2.0	phypat+GGL
+M11879.fasta	Alkaline phosphatase	5.0	phypat
+M11879.fasta	Alkaline phosphatase	5.0	phypat+GGL
+M11879.fasta	Growth in KCN	5.0	phypat
+M11879.fasta	Growth in KCN	4.0	phypat+GGL
+M11879.fasta	Hydrogen sulfide	1.0	phypat+GGL
+M11879.fasta	Facultative	5.0	phypat
+M11879.fasta	Facultative	5.0	phypat+GGL
+M11879.fasta	Bacillus or coccobacillus	5.0	phypat
+M11879.fasta	Bacillus or coccobacillus	5.0	phypat+GGL
+M11879.fasta	Coagulase production	1.0	phypat+GGL
+M25364.fasta	Indole	3.0	phypat
+M25364.fasta	Indole	5.0	phypat+GGL
+M25364.fasta	D-Xylose	2.0	phypat+GGL
+M25364.fasta	Growth at 42°C	5.0	phypat
+M25364.fasta	Growth at 42°C	3.0	phypat+GGL
+M25364.fasta	Maltose	1.0	phypat
+M25364.fasta	Maltose	5.0	phypat+GGL
+M25364.fasta	Growth on ordinary blood agar	2.0	phypat
+M25364.fasta	Growth on ordinary blood agar	5.0	phypat+GGL
+M25364.fasta	Colistin-Polymyxin susceptible	5.0	phypat
+M25364.fasta	Colistin-Polymyxin susceptible	5.0	phypat+GGL
+M25364.fasta	DNase	2.0	phypat
+M25364.fasta	DNase	1.0	phypat+GGL
+M25364.fasta	Nitrate to nitrite	5.0	phypat
+M25364.fasta	Nitrate to nitrite	5.0	phypat+GGL
+M25364.fasta	D-Mannose	2.0	phypat
+M25364.fasta	Anaerobe	1.0	phypat
+M25364.fasta	Bile-susceptible	1.0	phypat
+M25364.fasta	Bile-susceptible	1.0	phypat+GGL
+M25364.fasta	Glucose fermenter	5.0	phypat
+M25364.fasta	Glucose fermenter	5.0	phypat+GGL
+M25364.fasta	Gram negative	5.0	phypat
+M25364.fasta	Gram negative	5.0	phypat+GGL
+M25364.fasta	Ornithine decarboxylase	4.0	phypat
+M25364.fasta	Ornithine decarboxylase	2.0	phypat+GGL
+M25364.fasta	Salicin	2.0	phypat+GGL
+M25364.fasta	Casein hydrolysis	4.0	phypat
+M25364.fasta	Casein hydrolysis	5.0	phypat+GGL
+M25364.fasta	Capnophilic	1.0	phypat
+M25364.fasta	Capnophilic	5.0	phypat+GGL
+M25364.fasta	Oxidase	5.0	phypat
+M25364.fasta	Oxidase	3.0	phypat+GGL
+M25364.fasta	Gas from glucose	1.0	phypat
+M25364.fasta	Gas from glucose	5.0	phypat+GGL
+M25364.fasta	Alkaline phosphatase	5.0	phypat
+M25364.fasta	Alkaline phosphatase	5.0	phypat+GGL
+M25364.fasta	Beta hemolysis	1.0	phypat
+M25364.fasta	Growth in KCN	5.0	phypat
+M25364.fasta	Growth in KCN	3.0	phypat+GGL
+M25364.fasta	Hydrogen sulfide	2.0	phypat
+M25364.fasta	Hydrogen sulfide	1.0	phypat+GGL
+M25364.fasta	Facultative	5.0	phypat
+M25364.fasta	Facultative	5.0	phypat+GGL
+M25364.fasta	Bacillus or coccobacillus	5.0	phypat
+M25364.fasta	Bacillus or coccobacillus	5.0	phypat+GGL
+M29323.fasta	Indole	2.0	phypat
+M29323.fasta	Catalase	5.0	phypat
+M29323.fasta	Catalase	5.0	phypat+GGL
+M29323.fasta	Growth at 42°C	1.0	phypat
+M29323.fasta	Growth at 42°C	1.0	phypat+GGL
+M29323.fasta	Maltose	1.0	phypat
+M29323.fasta	Maltose	2.0	phypat+GGL
+M29323.fasta	Growth on ordinary blood agar	1.0	phypat+GGL
+M29323.fasta	Colistin-Polymyxin susceptible	5.0	phypat
+M29323.fasta	Colistin-Polymyxin susceptible	5.0	phypat+GGL
+M29323.fasta	DNase	1.0	phypat
+M29323.fasta	DNase	5.0	phypat+GGL
+M29323.fasta	Methyl red	1.0	phypat
+M29323.fasta	Nitrate to nitrite	5.0	phypat
+M29323.fasta	Nitrate to nitrite	5.0	phypat+GGL
+M29323.fasta	Urea hydrolysis	5.0	phypat
+M29323.fasta	Urea hydrolysis	5.0	phypat+GGL
+M29323.fasta	D-Mannose	1.0	phypat
+M29323.fasta	Bile-susceptible	5.0	phypat
+M29323.fasta	Bile-susceptible	1.0	phypat+GGL
+M29323.fasta	Glucose fermenter	5.0	phypat
+M29323.fasta	Glucose fermenter	5.0	phypat+GGL
+M29323.fasta	Gram negative	5.0	phypat
+M29323.fasta	Gram negative	5.0	phypat+GGL
+M29323.fasta	Ornithine decarboxylase	5.0	phypat
+M29323.fasta	Ornithine decarboxylase	4.0	phypat+GGL
+M29323.fasta	Capnophilic	1.0	phypat
+M29323.fasta	Capnophilic	5.0	phypat+GGL
+M29323.fasta	Oxidase	5.0	phypat
+M29323.fasta	Oxidase	5.0	phypat+GGL
+M29323.fasta	Gas from glucose	2.0	phypat+GGL
+M29323.fasta	Alkaline phosphatase	5.0	phypat
+M29323.fasta	Alkaline phosphatase	5.0	phypat+GGL
+M29323.fasta	Facultative	5.0	phypat
+M29323.fasta	Facultative	5.0	phypat+GGL
+M29323.fasta	Bacillus or coccobacillus	5.0	phypat
+M29323.fasta	Bacillus or coccobacillus	5.0	phypat+GGL
+M29323.fasta	Coagulase production	1.0	phypat+GGL
+R2846.fasta	Indole	3.0	phypat
+R2846.fasta	Indole	1.0	phypat+GGL
+R2846.fasta	Catalase	5.0	phypat
+R2846.fasta	Catalase	5.0	phypat+GGL
+R2846.fasta	Growth at 42°C	1.0	phypat+GGL
+R2846.fasta	Maltose	3.0	phypat
+R2846.fasta	Maltose	2.0	phypat+GGL
+R2846.fasta	Growth on ordinary blood agar	2.0	phypat+GGL
+R2846.fasta	Colistin-Polymyxin susceptible	5.0	phypat
+R2846.fasta	Colistin-Polymyxin susceptible	5.0	phypat+GGL
+R2846.fasta	DNase	1.0	phypat
+R2846.fasta	DNase	1.0	phypat+GGL
+R2846.fasta	Nitrate to nitrite	5.0	phypat
+R2846.fasta	Nitrate to nitrite	5.0	phypat+GGL
+R2846.fasta	Urea hydrolysis	5.0	phypat
+R2846.fasta	Urea hydrolysis	5.0	phypat+GGL
+R2846.fasta	Bile-susceptible	5.0	phypat
+R2846.fasta	Bile-susceptible	1.0	phypat+GGL
+R2846.fasta	Glucose fermenter	4.0	phypat
+R2846.fasta	Glucose fermenter	5.0	phypat+GGL
+R2846.fasta	Gram negative	5.0	phypat
+R2846.fasta	Gram negative	5.0	phypat+GGL
+R2846.fasta	Ornithine decarboxylase	2.0	phypat
+R2846.fasta	Capnophilic	1.0	phypat
+R2846.fasta	Capnophilic	5.0	phypat+GGL
+R2846.fasta	Oxidase	5.0	phypat
+R2846.fasta	Oxidase	5.0	phypat+GGL
+R2846.fasta	Gas from glucose	2.0	phypat+GGL
+R2846.fasta	Alkaline phosphatase	5.0	phypat
+R2846.fasta	Alkaline phosphatase	5.0	phypat+GGL
+R2846.fasta	Growth in KCN	5.0	phypat
+R2846.fasta	Growth in KCN	4.0	phypat+GGL
+R2846.fasta	Facultative	5.0	phypat
+R2846.fasta	Facultative	5.0	phypat+GGL
+R2846.fasta	Bacillus or coccobacillus	5.0	phypat
+R2846.fasta	Bacillus or coccobacillus	5.0	phypat+GGL
+R2846.fasta	Coagulase production	1.0	phypat+GGL
+M28687.fasta	Indole	3.0	phypat
+M28687.fasta	Indole	2.0	phypat+GGL
+M28687.fasta	Catalase	5.0	phypat
+M28687.fasta	Catalase	5.0	phypat+GGL
+M28687.fasta	Growth at 42°C	1.0	phypat
+M28687.fasta	Growth at 42°C	4.0	phypat+GGL
+M28687.fasta	Maltose	5.0	phypat
+M28687.fasta	Maltose	4.0	phypat+GGL
+M28687.fasta	Growth on ordinary blood agar	1.0	phypat+GGL
+M28687.fasta	Colistin-Polymyxin susceptible	5.0	phypat
+M28687.fasta	Colistin-Polymyxin susceptible	5.0	phypat+GGL
+M28687.fasta	DNase	4.0	phypat
+M28687.fasta	DNase	1.0	phypat+GGL
+M28687.fasta	Methyl red	2.0	phypat
+M28687.fasta	Nitrate to nitrite	5.0	phypat
+M28687.fasta	Nitrate to nitrite	5.0	phypat+GGL
+M28687.fasta	Urea hydrolysis	5.0	phypat
+M28687.fasta	Urea hydrolysis	5.0	phypat+GGL
+M28687.fasta	Bile-susceptible	5.0	phypat
+M28687.fasta	Bile-susceptible	3.0	phypat+GGL
+M28687.fasta	Glucose fermenter	5.0	phypat
+M28687.fasta	Glucose fermenter	5.0	phypat+GGL
+M28687.fasta	Gram negative	5.0	phypat
+M28687.fasta	Gram negative	5.0	phypat+GGL
+M28687.fasta	Ornithine decarboxylase	3.0	phypat
+M28687.fasta	Capnophilic	1.0	phypat
+M28687.fasta	Capnophilic	4.0	phypat+GGL
+M28687.fasta	Oxidase	5.0	phypat
+M28687.fasta	Oxidase	5.0	phypat+GGL
+M28687.fasta	Gas from glucose	2.0	phypat+GGL
+M28687.fasta	Alkaline phosphatase	5.0	phypat
+M28687.fasta	Alkaline phosphatase	5.0	phypat+GGL
+M28687.fasta	Facultative	5.0	phypat
+M28687.fasta	Facultative	5.0	phypat+GGL
+M28687.fasta	Bacillus or coccobacillus	5.0	phypat
+M28687.fasta	Bacillus or coccobacillus	5.0	phypat+GGL
+M28687.fasta	Coagulase production	1.0	phypat+GGL
+M11955.fasta	Indole	3.0	phypat
+M11955.fasta	Indole	1.0	phypat+GGL
+M11955.fasta	Catalase	5.0	phypat
+M11955.fasta	Catalase	5.0	phypat+GGL
+M11955.fasta	Growth at 42°C	4.0	phypat
+M11955.fasta	Growth at 42°C	1.0	phypat+GGL
+M11955.fasta	Maltose	5.0	phypat
+M11955.fasta	Maltose	2.0	phypat+GGL
+M11955.fasta	Growth on ordinary blood agar	2.0	phypat+GGL
+M11955.fasta	Colistin-Polymyxin susceptible	5.0	phypat
+M11955.fasta	Colistin-Polymyxin susceptible	5.0	phypat+GGL
+M11955.fasta	DNase	3.0	phypat
+M11955.fasta	DNase	1.0	phypat+GGL
+M11955.fasta	Methyl red	3.0	phypat
+M11955.fasta	Nitrate to nitrite	5.0	phypat
+M11955.fasta	Nitrate to nitrite	5.0	phypat+GGL
+M11955.fasta	Urea hydrolysis	5.0	phypat
+M11955.fasta	Urea hydrolysis	5.0	phypat+GGL
+M11955.fasta	Bile-susceptible	5.0	phypat
+M11955.fasta	Bile-susceptible	5.0	phypat+GGL
+M11955.fasta	Glucose fermenter	5.0	phypat
+M11955.fasta	Glucose fermenter	5.0	phypat+GGL
+M11955.fasta	Gram negative	5.0	phypat
+M11955.fasta	Gram negative	5.0	phypat+GGL
+M11955.fasta	Ornithine decarboxylase	2.0	phypat
+M11955.fasta	Capnophilic	1.0	phypat
+M11955.fasta	Capnophilic	5.0	phypat+GGL
+M11955.fasta	Oxidase	5.0	phypat
+M11955.fasta	Oxidase	5.0	phypat+GGL
+M11955.fasta	Gas from glucose	2.0	phypat+GGL
+M11955.fasta	Alkaline phosphatase	5.0	phypat
+M11955.fasta	Alkaline phosphatase	5.0	phypat+GGL
+M11955.fasta	Facultative	5.0	phypat
+M11955.fasta	Facultative	5.0	phypat+GGL
+M11955.fasta	Bacillus or coccobacillus	5.0	phypat
+M11955.fasta	Bacillus or coccobacillus	5.0	phypat+GGL
+M11955.fasta	Coagulase production	1.0	phypat+GGL
+M07055.fasta	Indole	3.0	phypat
+M07055.fasta	D-Xylose	4.0	phypat+GGL
+M07055.fasta	Starch hydrolysis	5.0	phypat+GGL
+M07055.fasta	Catalase	5.0	phypat
+M07055.fasta	Catalase	5.0	phypat+GGL
+M07055.fasta	ONPG (beta galactosidase)	5.0	phypat
+M07055.fasta	ONPG (beta galactosidase)	4.0	phypat+GGL
+M07055.fasta	Growth at 42°C	4.0	phypat
+M07055.fasta	Growth at 42°C	2.0	phypat+GGL
+M07055.fasta	D-Mannitol	4.0	phypat
+M07055.fasta	D-Mannitol	1.0	phypat+GGL
+M07055.fasta	Arginine dihydrolase	1.0	phypat
+M07055.fasta	Arginine dihydrolase	3.0	phypat+GGL
+M07055.fasta	Maltose	5.0	phypat
+M07055.fasta	Maltose	5.0	phypat+GGL
+M07055.fasta	Growth on ordinary blood agar	2.0	phypat
+M07055.fasta	Growth on ordinary blood agar	1.0	phypat+GGL
+M07055.fasta	Colistin-Polymyxin susceptible	5.0	phypat
+M07055.fasta	Colistin-Polymyxin susceptible	5.0	phypat+GGL
+M07055.fasta	DNase	3.0	phypat
+M07055.fasta	DNase	3.0	phypat+GGL
+M07055.fasta	Methyl red	1.0	phypat
+M07055.fasta	Nitrate to nitrite	5.0	phypat
+M07055.fasta	Nitrate to nitrite	5.0	phypat+GGL
+M07055.fasta	Urea hydrolysis	5.0	phypat
+M07055.fasta	Urea hydrolysis	5.0	phypat+GGL
+M07055.fasta	D-Mannose	1.0	phypat
+M07055.fasta	D-Mannose	1.0	phypat+GGL
+M07055.fasta	Bile-susceptible	5.0	phypat+GGL
+M07055.fasta	Glucose fermenter	5.0	phypat
+M07055.fasta	Glucose fermenter	5.0	phypat+GGL
+M07055.fasta	Gram negative	5.0	phypat
+M07055.fasta	Gram negative	5.0	phypat+GGL
+M07055.fasta	Ornithine decarboxylase	5.0	phypat
+M07055.fasta	Ornithine decarboxylase	4.0	phypat+GGL
+M07055.fasta	Capnophilic	2.0	phypat+GGL
+M07055.fasta	Oxidase	5.0	phypat
+M07055.fasta	Oxidase	5.0	phypat+GGL
+M07055.fasta	Gas from glucose	2.0	phypat+GGL
+M07055.fasta	Alkaline phosphatase	5.0	phypat
+M07055.fasta	Alkaline phosphatase	5.0	phypat+GGL
+M07055.fasta	Growth in KCN	5.0	phypat
+M07055.fasta	Growth in KCN	3.0	phypat+GGL
+M07055.fasta	Hydrogen sulfide	1.0	phypat+GGL
+M07055.fasta	Facultative	5.0	phypat
+M07055.fasta	Facultative	5.0	phypat+GGL
+M07055.fasta	Bacillus or coccobacillus	5.0	phypat
+M07055.fasta	Bacillus or coccobacillus	5.0	phypat+GGL
+M07055.fasta	Coagulase production	3.0	phypat+GGL
+PittGG.fasta	Indole	3.0	phypat
+PittGG.fasta	Indole	3.0	phypat+GGL
+PittGG.fasta	Catalase	5.0	phypat
+PittGG.fasta	Catalase	5.0	phypat+GGL
+PittGG.fasta	Maltose	5.0	phypat
+PittGG.fasta	Growth on ordinary blood agar	3.0	phypat+GGL
+PittGG.fasta	Colistin-Polymyxin susceptible	5.0	phypat
+PittGG.fasta	Colistin-Polymyxin susceptible	5.0	phypat+GGL
+PittGG.fasta	DNase	2.0	phypat
+PittGG.fasta	DNase	1.0	phypat+GGL
+PittGG.fasta	Nitrate to nitrite	5.0	phypat
+PittGG.fasta	Nitrate to nitrite	5.0	phypat+GGL
+PittGG.fasta	Urea hydrolysis	5.0	phypat
+PittGG.fasta	Urea hydrolysis	5.0	phypat+GGL
+PittGG.fasta	Bile-susceptible	5.0	phypat+GGL
+PittGG.fasta	Glucose fermenter	3.0	phypat
+PittGG.fasta	Glucose fermenter	5.0	phypat+GGL
+PittGG.fasta	Gram negative	5.0	phypat
+PittGG.fasta	Gram negative	5.0	phypat+GGL
+PittGG.fasta	Ornithine decarboxylase	5.0	phypat
+PittGG.fasta	Ornithine decarboxylase	5.0	phypat+GGL
+PittGG.fasta	Capnophilic	1.0	phypat
+PittGG.fasta	Capnophilic	5.0	phypat+GGL
+PittGG.fasta	Oxidase	5.0	phypat
+PittGG.fasta	Oxidase	5.0	phypat+GGL
+PittGG.fasta	Gas from glucose	2.0	phypat+GGL
+PittGG.fasta	Alkaline phosphatase	5.0	phypat
+PittGG.fasta	Alkaline phosphatase	5.0	phypat+GGL
+PittGG.fasta	Growth in KCN	5.0	phypat
+PittGG.fasta	Growth in KCN	4.0	phypat+GGL
+PittGG.fasta	Facultative	5.0	phypat
+PittGG.fasta	Facultative	5.0	phypat+GGL
+PittGG.fasta	Bacillus or coccobacillus	5.0	phypat
+PittGG.fasta	Bacillus or coccobacillus	5.0	phypat+GGL
+PittGG.fasta	Coagulase production	1.0	phypat+GGL
+M04827.fasta	Indole	3.0	phypat
+M04827.fasta	Catalase	5.0	phypat
+M04827.fasta	Catalase	5.0	phypat+GGL
+M04827.fasta	Growth at 42°C	1.0	phypat
+M04827.fasta	Maltose	5.0	phypat
+M04827.fasta	Maltose	5.0	phypat+GGL
+M04827.fasta	Growth on ordinary blood agar	4.0	phypat+GGL
+M04827.fasta	Colistin-Polymyxin susceptible	5.0	phypat
+M04827.fasta	Colistin-Polymyxin susceptible	5.0	phypat+GGL
+M04827.fasta	DNase	1.0	phypat+GGL
+M04827.fasta	Nitrate to nitrite	5.0	phypat
+M04827.fasta	Nitrate to nitrite	5.0	phypat+GGL
+M04827.fasta	Urea hydrolysis	5.0	phypat
+M04827.fasta	Urea hydrolysis	5.0	phypat+GGL
+M04827.fasta	Bile-susceptible	4.0	phypat+GGL
+M04827.fasta	Glucose fermenter	5.0	phypat
+M04827.fasta	Glucose fermenter	5.0	phypat+GGL
+M04827.fasta	Gram negative	5.0	phypat
+M04827.fasta	Gram negative	5.0	phypat+GGL
+M04827.fasta	Ornithine decarboxylase	5.0	phypat
+M04827.fasta	Ornithine decarboxylase	5.0	phypat+GGL
+M04827.fasta	Capnophilic	1.0	phypat
+M04827.fasta	Capnophilic	5.0	phypat+GGL
+M04827.fasta	Oxidase	5.0	phypat
+M04827.fasta	Oxidase	5.0	phypat+GGL
+M04827.fasta	Gas from glucose	2.0	phypat+GGL
+M04827.fasta	Alkaline phosphatase	5.0	phypat
+M04827.fasta	Alkaline phosphatase	5.0	phypat+GGL
+M04827.fasta	Growth in KCN	5.0	phypat
+M04827.fasta	Growth in KCN	4.0	phypat+GGL
+M04827.fasta	Hydrogen sulfide	1.0	phypat+GGL
+M04827.fasta	Facultative	5.0	phypat
+M04827.fasta	Facultative	5.0	phypat+GGL
+M04827.fasta	Bacillus or coccobacillus	5.0	phypat
+M04827.fasta	Bacillus or coccobacillus	5.0	phypat+GGL
+M04827.fasta	Coagulase production	1.0	phypat+GGL
+M36564.fasta	Indole	3.0	phypat
+M36564.fasta	Catalase	5.0	phypat
+M36564.fasta	Catalase	5.0	phypat+GGL
+M36564.fasta	Maltose	5.0	phypat
+M36564.fasta	Maltose	3.0	phypat+GGL
+M36564.fasta	Growth on ordinary blood agar	4.0	phypat+GGL
+M36564.fasta	Colistin-Polymyxin susceptible	5.0	phypat
+M36564.fasta	Colistin-Polymyxin susceptible	5.0	phypat+GGL
+M36564.fasta	DNase	1.0	phypat+GGL
+M36564.fasta	Methyl red	1.0	phypat
+M36564.fasta	Nitrate to nitrite	5.0	phypat
+M36564.fasta	Nitrate to nitrite	5.0	phypat+GGL
+M36564.fasta	Urea hydrolysis	5.0	phypat
+M36564.fasta	Urea hydrolysis	5.0	phypat+GGL
+M36564.fasta	Bile-susceptible	1.0	phypat+GGL
+M36564.fasta	Glucose fermenter	5.0	phypat
+M36564.fasta	Glucose fermenter	5.0	phypat+GGL
+M36564.fasta	Gram negative	5.0	phypat
+M36564.fasta	Gram negative	5.0	phypat+GGL
+M36564.fasta	Ornithine decarboxylase	2.0	phypat
+M36564.fasta	Capnophilic	3.0	phypat
+M36564.fasta	Capnophilic	5.0	phypat+GGL
+M36564.fasta	Oxidase	5.0	phypat
+M36564.fasta	Oxidase	5.0	phypat+GGL
+M36564.fasta	Gas from glucose	2.0	phypat+GGL
+M36564.fasta	Alkaline phosphatase	5.0	phypat
+M36564.fasta	Alkaline phosphatase	5.0	phypat+GGL
+M36564.fasta	Hydrogen sulfide	1.0	phypat+GGL
+M36564.fasta	Facultative	5.0	phypat
+M36564.fasta	Facultative	5.0	phypat+GGL
+M36564.fasta	Bacillus or coccobacillus	5.0	phypat
+M36564.fasta	Bacillus or coccobacillus	5.0	phypat+GGL
+M36564.fasta	Coagulase production	1.0	phypat+GGL
