@@ -24,11 +24,11 @@ foreach my $type (@type){
 open MAT, ">phenotypes.tsv" or die "Cannot open phenotypes.tsv: $!";
 my $i = 0;
 foreach my $key1 (keys %table){
-	$i++;
-	if ($i >1){next;}
-foreach my $key2 (keys %{$table{$key1}}){
+	foreach my $key2 (keys %{$table{$key1}}){
         print MAT "\t$key2";
-}}
+	}
+last; #Print header row only once
+}
 foreach my $key1 (keys %table){
 	my $label = $key1;
 	$label =~ s/\.fasta//g;
