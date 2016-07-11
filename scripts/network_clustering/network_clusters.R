@@ -23,7 +23,7 @@ groups <- data.frame(names,cluster)
 rownames(groups) <- groups[,1]
 membership <- merge(labels,groups, by=0)
 clustnum <- tail(sort(unique(groups[,"cluster"])),1)
-pdf("./whole_networkwork.pdf")
+pdf("./whole_network.pdf")
 plot.igraph(g, vertex.color=as.vector(membership$colours), vertex.size = 15,
             add = FALSE, vertex.label=NA,
             edge.color="lightgrey")
