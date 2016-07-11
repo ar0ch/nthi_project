@@ -2,7 +2,6 @@
 ## Jordan Lab, Georgia Tech
 ## Use ANI data to cluster strains by leading eigenvector
 library(igraph)
-library(ggplot2)
 data = read.table('ANIm_percentage_identity.tab', header=T, sep='\t', row.names=1)
 max <- apply(data, 2, max)
 min <- apply(data, 2, min)
@@ -10,7 +9,8 @@ data <- scale(data, center = min, scale = max - min)
 labels = as.data.frame(read.table('labels.csv', row.names = 1, header = T, fill = TRUE, sep = ","))
 colnames(labels) <- c("class")
 lablist <- sort(unique(labels[,"class"]))
-colourlist =c("deepskyblue2","red", "black","darkorange1","darkgoldenrod1","darkorchid4","darkslategray4","gray80","darkolivegreen2")
+colourlist =c("deepskyblue2","red", "black","darkorange1","darkgoldenrod1",
+              "darkorchid4","darkslategray4","gray80","darkolivegreen2")
 label_colours = data.frame(row.names=sort(lablist),colours=colourlist)
 labels$colours = label_colours[labels$class,]
 g <- graph_from_adjacency_matrix(as.matrix(data), mode = "undirected", 
