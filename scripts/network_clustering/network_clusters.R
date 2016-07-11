@@ -11,7 +11,7 @@ labels = as.data.frame(read.table('labels.csv', row.names = 1, header = T, fill 
 colnames(labels) <- c("class")
 lablist <- sort(unique(labels[,"class"]))
 colourlist =c("deepskyblue2","red", "black","darkorange1","darkgoldenrod1","darkorchid4","darkslategray4","gray80","darkolivegreen2")
-label_colours = data.frame(row.names=sort(lablist),colourlist)
+label_colours = data.frame(row.names=sort(lablist),colours=colourlist)
 labels$colours = label_colours[labels$class,]
 g <- graph_from_adjacency_matrix(as.matrix(data), mode = "undirected", 
                                  weighted = T, diag = F, add.rownames = T
