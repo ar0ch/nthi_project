@@ -23,6 +23,13 @@ groups <- data.frame(names,cluster)
 rownames(groups) <- groups[,1]
 membership <- merge(labels,groups, by=0)
 clustnum <- tail(sort(unique(groups[,"cluster"])),1)
+pdf("./whole_networkwork.pdf")
+plot.igraph(g, vertex.color=as.vector(membership$colours), vertex.size = 15,
+            add = FALSE, vertex.label=NA,
+            edge.color="lightgrey")
+legend(x=-1.5, y=-.8, row.names(label_colours), pch=21,
+       col="#777777", pt.bg=as.vector(label_colours$colours), pt.cex=2, cex=.8, bty="n", ncol=1)
+dev.off()
 for (i in 1:clustnum) {
 outfile <- sprintf("cluster_%i.pdf", i)
 pdf(outfile)
@@ -32,7 +39,7 @@ leg <- subcluster[ ! duplicated( subcluster[ c("class" , "colours") ] ) , ]
 plot.igraph(g2, vertex.color=as.vector(subcluster$colours), vertex.size = 15,
               add = FALSE, vertex.label=NA,
               edge.color="lightgrey")
-legend(x=0, y=-1.1, leg$class, pch=21,
+legend(x=0, y=-1.1, leg[order(leg$class),]$class, pch=21,
        col="#777777", pt.bg=as.vector(leg$colours), pt.cex=2, cex=.8, bty="n", ncol=1)
 dev.off()
 }
