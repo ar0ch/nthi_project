@@ -10,7 +10,7 @@ data <- scale(data, center = min, scale = max - min)
 labels = as.data.frame(read.table('labels.csv', row.names = 1, header = T, fill = TRUE, sep = ","))
 colnames(labels) <- c("class")
 lablist <- sort(unique(labels[,"class"]))
-colourlist =c("#FF0000FF","#000000FF", "#AAFF00FF","#00FF00FF","#00FFAAFF","#00AAFFFF","#0000FFFF","#AA00FFFF","#FF00AAFF")
+colourlist =c("deepskyblue2","red", "black","darkorange1","darkgoldenrod1","darkorchid4","darkslategray4","gray80","darkolivegreen2")
 label_colours = data.frame(row.names=sort(lablist),colourlist)
 labels$colours = label_colours[labels$class,]
 g <- graph_from_adjacency_matrix(as.matrix(data), mode = "undirected", 
@@ -26,12 +26,10 @@ clustnum <- tail(sort(unique(groups[,"cluster"])),1)
 for (i in 1:clustnum) {
 outfile <- sprintf("cluster_%i.pdf", i)
 pdf(outfile)
-lower = i-1
-upper = i+1
-clust <- subset(membership, cluster  < upper & cluster > lower)
-g2 <- induced.subgraph(graph=g, as.vector(clust$Row.names))
-leg <- clust[ ! duplicated( clust[ c("class" , "colours") ] ) , ]
-plot.igraph(g2, vertex.color=as.vector(clust$colours), vertex.size = 15,
+subcluster <- subset(membership, cluster  < i+1 & cluster > i-1)
+g2 <- induced.subgraph(graph=g, as.vector(subcluster$Row.names))
+leg <- subcluster[ ! duplicated( subcluster[ c("class" , "colours") ] ) , ]
+plot.igraph(g2, vertex.color=as.vector(subcluster$colours), vertex.size = 15,
               add = FALSE, vertex.label=NA,
               edge.color="lightgrey")
 legend(x=0, y=-1.1, leg$class, pch=21,
