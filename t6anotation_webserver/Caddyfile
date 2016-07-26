@@ -1,0 +1,12 @@
+vibriocholera.com {
+	errors ./errors_ani.log
+    log ./log_ani.log
+	proxy /websocket/ http://127.0.0.1:4545 {
+	websocket }
+	proxy / http://127.0.0.1:4545 {
+		proxy_header Host {host}
+		proxy_header X-Real-IP {remote}
+		proxy_header X-Forwarded-Proto {scheme}
+	}
+}
+

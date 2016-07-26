@@ -1,0 +1,73 @@
+library('shiny')
+library('genoPlotR')
+
+# actionButton with dark color
+nx.actionButton = function (inputId, label, icon = NULL) {
+  if (!is.null(icon))
+    buttonContent <- list(icon, label)
+  else buttonContent <- label
+  tags$button(id = inputId, type = "button", class = "btn btn-primary action-button",
+              buttonContent)
+}
+
+shinyUI(fluidPage(theme = 'cerulean.css',
+
+	headerPanel(title = "T6SS Predictor", windowTitle = 'Predict T6SS Proteins'),
+		sidebarPanel(
+
+                    radioButtons("predict", "1. Are you providing a genome sequence (e.g. contigs from SPAdes)?",
+                                 c("Yes" = "pred",
+                                   "No" = "nopred")),
+
+                    
+                      strong("2. Upload your genome sequnce (fasta)"),
+                      br(),
+                      fileInput('genome', 'Upload FASTA file'),
+                    
+                    conditionalPanel(
+                      condition = "input.predict == 'nopred'",
+                      strong('2b. Upload your GFF file'),
+                      fileInput('gffFile', 'Upload GFF file')
+                    ),
+
+                    tags$hr(),
+                    strong("3. Click the button and be patient. Predictions take ~5 mins"),
+                    
+
+                    hr(),
+
+                    nx.actionButton('submit', 'Predict T6SS'),
+                    tags$hr()
+
+
+                  ),
+
+                  mainPanel(
+
+                    # css hack to move the progress bar to a lower place
+                    # from https://gist.github.com/johndharrison/9578241
+                   # tags$link(rel = 'stylesheet', type = 'text/css', href = 'progbar.css'),
+                    tabsetPanel(id = 'vchot6ss',
+                                tabPanel("Introduction",
+				p("Type VI Secretion Systems (T6SS) are bacterial weaponry designed to poison, and potentially kill, neighboring bacteria and eukaryotic cells. T6SS relies on a set of structural proteins, encoded in what's called the Large Cluster, and a set of effector/immunity pairs encoded on Auxiliary clusters. This tool attempts to predict Auxiliary Cluster loci and their VgrG and Effector proteins"),
+				img(src='t6loci.png', align = "center")
+                                ),
+				
+                                tabPanel("T6SS Predictions",
+                                         h3("Predicted Type VI Secretion System "),
+                                         tags$hr(),
+                                         plotOutput("plot"),
+                                         tags$hr(),
+                                         downloadButton('dlFasta', 'Download Fasta Amino Acid',
+                                                        class = 'btn btn-primary btn-large'),
+                                         downloadButton('dlPreds', 'Download predicted T6SS proteins',
+                                                        class = 'btn btn-primary btn-large')
+                                )
+
+                    )
+
+                    #includeHTML('footer.html')
+
+                  )
+
+))
