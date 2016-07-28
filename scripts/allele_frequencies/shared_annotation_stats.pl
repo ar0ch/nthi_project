@@ -37,7 +37,7 @@ if (scalar @gffFiles gt scalar @faaFiles){
 }
 foreach (@gffFiles){
 	my $base = basename($_);
-	$base =~ s/\.gff//g;
+	$base =~ s/\.gff//gms;
 	my $fasta = join("",$faaDir,"/",$base,".faa");
 	die "$_ does not have a matching fasta file\n" unless -f $fasta;
 }
@@ -47,21 +47,21 @@ my $manager = Parallel::ForkManager -> new ( $threads );
 print STDERR "Finding shared annotations from GFF files\n";
 for(my $i =0; $i < @gffFiles; $i++){
 	for(my $j =$i+1; $j < @gffFiles; $j++){
-	my $outFile = join(".",basename($gffFiles[$i]),basename($gffFiles[$j]),"out");
-		$outFile =~ s/\.gff//g;
+	my $outFile = join(q{.},basename($gffFiles[$i]),basename($gffFiles[$j]),"out");
+		$outFile =~ s/\.gff//gms;
 		open GFF1, $gffFiles[$i];
 		open GFF2, $gffFiles[$j];
 		@gff1 = <GFF1>;
 		@gff2 = <GFF2>;
-		close GFF1;
-		close GFF2;
+		close GFF1 or die "Cannot close GFF1";
+		close GFF2 or die "Cannot close GFF2";
 		shift @gff1; # pesky headers
 		shift @gff2; # pesky headers
 		foreach (@gff1){
 			my @cols = split(/\t/,$_);
 			my ($value,$key) = split(/;/,$cols[8]);
-			$value =~ s/ID\=//g;
-			$key =~ s/Name\=//g;
+			$value =~ s/ID\=//gms;
+			$key =~ s/Name\=//gms;
 			if ($key eq 'hypothetical protein'){next;}
 			elsif($key eq 'conserved hypothetical protein'){next;}
 			$gff1{$key} = $value;
@@ -69,8 +69,8 @@ for(my $i =0; $i < @gffFiles; $i++){
 		foreach (@gff2){
 			my @cols = split(/\t/,$_);
 			my ($value,$key) = split(/;/,$cols[8]);
-			$value =~ s/ID\=//g;
-			$key =~ s/Name\=//g;
+			$value =~ s/ID\=//gms;
+			$key =~ s/Name\=//gms;
 			chomp $key;
 			$gff2{$key} = $value;
 		}
@@ -89,40 +89,40 @@ for(my $i =0; $i < @gffFiles; $i++){
 print STDERR "Loading protein sequences\n[";
 foreach (@gffFiles){
 	my $key = basename($_);
-	$key =~ s/\.gff//g;
+	$key =~ s/\.gff//gms;
 	open PROT, "<$faaDir/$key.faa" or die "Cannot open $faaDir/$key.faa: $!\n";
 	foreach (<PROT>){
 		$prots .= $_;
 	}
-	close PROT;
+	close PROT or die "Cannot close PROT";
 	@prots = split(/\>/,$prots);
 	shift @prots;
 	foreach (@prots){
-		my($desc, $seq) = split(/\r?\n/,$_,2);
-		$seq =~ s/\*[^ACDEFGHIJKLMNPQRSTVWY]//g; # Lazy sequence finding 
+		my($desc, $seq) = split /\r?\n/, $_, 2;
+		$seq =~ s/\*[^ACDEFGHIJKLMNPQRSTVWY]//gms; # Lazy sequence finding 
 		$prots{$key}{$desc} = $seq;
 	}
-	print STDERR ".";
+	print STDERR q{.};
 }
 open OUT, ">$outDir/stats.txt";
-# Prase through shared annotation files generated above
+# Parse through shared annotation files generated above
 print STDERR "]\nComputing identities between shared annotations\n[";
 my @toParse = glob("$outDir/shared/*");
 no warnings 'uninitialized'; # Because checking each fasta file is more effort than its worth
 foreach my $file (@toParse){
 	my $key = basename($file);
-	$key =~ s/\.out//g;
+	$key =~ s/\.out//gms;
 	open SHARED, $file or die "Cannot open $file: $!\n";
 # key1a/2a are the strain/file name	
-	my($key1a,$key2a,undef) = split(/\./,basename($file));
+	my($key1a,$key2a,undef) = split /\./, basename($file);
 	my $out = basename($file);
 	my $i = 0;
-	print STDERR ".";
+	print STDERR q{.};
 	foreach my $shared (<SHARED>){
 		$manager->start and next;
 		chomp $shared;
 # key1b/2b is the shared annotation	
-		my ($key1b,$key2b) = split(/\t/,$shared);
+		my ($key1b,$key2b) = split /\t/, $shared;
 		my $temp1 = temp_filename();
 		my $temp2 = temp_filename();
 		my $water = temp_filename();
@@ -130,13 +130,13 @@ foreach my $file (@toParse){
 		open T2, ">$temp2" or die "Cannot open $temp2: $!\n";
 		print T1 "$prots{$key1a}{$key1b}";
 		print T2 "$prots{$key2a}{$key2b}";
-		close T1;
-		close T2;
+		close T1 or die "Cannot close T1";
+		close T2 or die "Cannot close T2";
 		system(`water -asequence $temp1 -bsequence $temp2 -datafile EBLOSUM60 -gapopen 10 -gapextend 0.5 -outfile  $water -nobrief > /dev/null 2>&1`);
 		my $id = `head -26 $water | tail -1`;
 		chomp $id;
-		$id =~ s/.*\(//;
-		$id =~ s/%.*//;
+		$id =~ s/.*\(//ms;
+		$id =~ s/%.*//ms;
 		$stats{$key}{$i} = $id;
 		print OUT "$id\n";
 		$i++;
@@ -144,7 +144,7 @@ foreach my $file (@toParse){
 }
 $manager->wait_all_children;
 }
-close OUT;
+close OUT or die "Cannot close OUT";
 print STDERR "]\nPlotting identities\n[";
 foreach my $key1 (keys %stats){
 	my @data = ( );
@@ -155,8 +155,8 @@ foreach my $key1 (keys %stats){
 	}
 	system(`echo "set terminal png\nset output '$outDir/stats/$key1.png'\nbinwidth = 5\nset boxwidth binwidth\nbin(x,width)=width*floor(x/width)\nplot '$outDir/stats/$key1.stats.txt' using (bin(\\$rep,binwidth)):(1.0) smooth freq with boxes notitle" > $outDir/stats/plot.plt`);
 	system(`gnuplot $outDir/stats/plot_skel.plt`);
-	close OUT;
-	print STDERR ".";
+	close OUT or die "Cannot close OUT";
+	print STDERR q{.};
 }
 print "]\n";
 system("rm -rf $outDir/tmp");
