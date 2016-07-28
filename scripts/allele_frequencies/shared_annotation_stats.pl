@@ -108,6 +108,7 @@ open OUT, ">$outDir/stats.txt";
 # Prase through shared annotation files generated above
 print STDERR "]\nComputing identities between shared annotations\n[";
 my @toParse = glob("$outDir/shared/*");
+no warnings 'uninitialized'; # Because checking each fasta file is more effort than its worth
 foreach my $file (@toParse){
 	my $key = basename($file);
 	$key =~ s/\.out//g;
@@ -158,7 +159,7 @@ foreach my $key1 (keys %stats){
 	print STDERR ".";
 }
 print "]\n";
-
+system("rm -rf $outDir/tmp");
 ###############################################################################
 sub temp_filename{
             my $file = File::Temp->new(
