@@ -1,0 +1,4 @@
+for i in *.fasta;do;j=`echo $i | sed 's/\.txt\.fasta//g'`;for k in {20,90,95,98};do; mkdir $k;vsearch --cluster_fast $i --consout $k/$j.$k.fasta --threads 12  --id 0.$k;done;done
+for i in {20,90,95,98};grep -c ">" $i/* | cut -d":" -f2 | awk '{ total += $1 } END { print total/NR }'
+for i in {20,90,95,98};do;echo $i;grep -c ">" $i/* | cut -d":" -f2 | sort > $i.stats.txt;done
+for i in {20,90,95,98};do;echo $i;grep -c ">" $i/* ;done
